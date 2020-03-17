@@ -1,20 +1,20 @@
 # Obsah
 
  * Polévky
-	* [Špenátový krém s noky](#spenatovy-krem-s-noky)
+	* [Špenátový krém s noky](#špenátový-krém-s-noky)
  * Hlavní jídla
-	* [Hermelínový šáteček](#hermelinovy-satecek)
+	* [Hermelínový šáteček](#hermelínový-šáteček)
 	* [Cheeseburger](#cheeseburger)
-	* [Kuře na paprice](#kure-na-paprice)
-	* [Kuskus s kuřecími nugetky](#kuskus-s-kurecimi-nugetky)
-	* [Sekaná s olivami](#sekana-s-olivami)
-	* [Slaný závin](#slany-zavin)
-	* [Špagety Carbonara](#spagety-carbonara)
+	* [Kuře na paprice](#kuře-na-paprice)
+	* [Kuskus s kuřecími nugetky](#kuskus-s-kuřecími-nugetky)
+	* [Sekaná s olivami](#sekaná-s-olivami)
+	* [Slaný závin](#slaný-závin)
+	* [Špagety Carbonara](#špagety-carbonara)
  * Dezerty
-	* [Belgické vafle](#belgicke-vafle)
-	* [Krtkův dort](#krtkuv-dort)
-	* [Medovník](#medovnik)
-	* [Mramorové řezy](#mramorove-rezy)
+	* [Belgické vafle](#belgické-vafle)
+	* [Krtkův dort](#krtkův-dort)
+	* [Medovník](#medovník)
+	* [Mramorové řezy](#mramorové-řezy)
 
 # Polévky
 
@@ -207,4 +207,4 @@ Náplň
 
 Přísady na těsto nejprve promíchat lžicí a pak promixovat. V jiné nádobě vypracovat náplň stejným způsobem. Do vymazané pečící nádoby nalít nerovnoměrně obě těsta a vidličkou zhlekha promíchat. Péct 20-30 minut na 200°C.
 
-![Mramorové řezy](images/mramorove-rezy)
+![Mramorové řezy](images/mramorove-rezy.jpeg)
