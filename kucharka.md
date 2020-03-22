@@ -3,6 +3,7 @@
  * Polévky
 	* [Špenátový krém s noky](#špenátový-krém-s-noky)
  * Hlavní jídla
+	* [Filé po italsku](#filé-po-italsku)
 	* [Hermelínový šáteček](#hermelínový-šáteček)
 	* [Cheeseburger](#cheeseburger)
 	* [Kuře v česnekové omáčce](#kuře-v-česnekové-omáčce)
@@ -18,6 +19,21 @@
 	* [Mramorové řezy](#mramorové-řezy)
 
 # Polévky
+
+## Filé po italsku
+
+* filé z bílého rybího masa (například okoun)
+* 10 cherry rajčat
+* balení černých oliv
+* čerstvá bazalka
+* sůl, pepř
+* olivový olej
+
+Maso z jedné strany osolit a opepřit a druhou stranou (tou s kůží) dát na 2-3 minuty osmažit na pánev. Nakrájet rajčata na čtvrtiny a olivy na poloviny. Maso přendat do pekáčku, přisypat olivy, rajčata, bazalkové listy a přelít olivovým olejem. Dát péct do trouby na 15 minut na 200°C.
+
+> TIP: Jako příloha se hodí kuskus
+
+![Filé po italsku s kuskusem](images/file_po_italsku.jpeg)
 
 ## Špenátový krém s noky
 
