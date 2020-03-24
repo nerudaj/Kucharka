@@ -2,6 +2,8 @@
 
  * Polévky
 	* [Špenátový krém s noky](#špenátový-krém-s-noky)
+ * Saláty
+	* [Těstovinový salát](#těstovinový-salát)
  * Hlavní jídla
 	* [Filé po italsku](#filé-po-italsku)
 	* [Hermelínový šáteček](#hermelínový-šáteček)
@@ -34,6 +36,23 @@ Maso z jedné strany osolit a opepřit a druhou stranou (tou s kůží) dát na 
 > TIP: Jako příloha se hodí kuskus
 
 ![Filé po italsku s kuskusem](images/file_po_italsku.jpeg)
+
+# Saláty
+
+## Těstovinový salát
+
+* 300g penne těstovin
+* 2 rajčata
+* 1/4 červené papriky
+* 4 ks zavařené papriky
+* 10 dkg šunky
+* 10 dkg nastrouhaného eidamu
+* pár listů salátu
+* bílý jogurt
+* sůl, pepř, oregano, sezamová semínka, lněná semínka, bazalka
+* olivový olej na pokapání
+
+![Těstovinový salát](images/testovinovy_salat.jpeg)
 
 ## Špenátový krém s noky
 
