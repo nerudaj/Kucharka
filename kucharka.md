@@ -16,6 +16,7 @@
 	* [Špagety Carbonara](#špagety-carbonara)
  * Dezerty
 	* [Belgické vafle](#belgické-vafle)
+	* [Brownies](#brownies)
 	* [Krtkův dort](#krtkův-dort)
 	* [Medovník](#medovník)
 	* [Mramorové řezy](#mramorové-řezy)
@@ -223,6 +224,21 @@ Smíchat suché přísady. Z bílků ušlehat sníh. K suchým přísadám přid
 Rozehřát vaflovač a potřít plotny olejem. Péct cca 5-7 minut.
 
 ![Belgické vafle](images/vafle.jpeg)
+
+## Brownies
+
+* 125g cukr krystal
+* 300g čokolády (ideálně 70% obsah čokolády)
+* 4 vejce
+* 100g mouka
+* lžíce kypřícího prášku
+* 125g másla
+
+Na vodní lázni rozpustit máslo a v něm čokoládu. Vejce šlehat, dokud se na povrchu neobjeví lehká pěna a hmota nezesvětlá. Pak přidat cukr a pokračovat v mixování. Po několika minutách mixování opatrně přilít k rozpuštěné čokoládě, pořádně promíchat. Poté přidat mouku promísenou s kypřákem a promixovat do kompaktního těsta.
+
+Pečící formu vyložit pečícím papírem, vlít těsto a dát péct aspoň na 30 minut na 180°C.
+
+![Brownies](images/brownies.jpeg)
 
 ## Krtkův dort
 
