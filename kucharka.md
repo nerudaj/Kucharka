@@ -5,6 +5,7 @@
  * Saláty
 	* [Těstovinový salát](#těstovinový-salát)
  * Hlavní jídla
+	* [Buřtguláš](#buřtguláš)
 	* [Filé po italsku](#filé-po-italsku)
 	* [Hermelínový šáteček](#hermelínový-šáteček)
 	* [Cheeseburger](#cheeseburger)
@@ -22,38 +23,6 @@
 	* [Mramorové řezy](#mramorové-řezy)
 
 # Polévky
-
-## Filé po italsku
-
-* filé z bílého rybího masa (například okoun)
-* 10 cherry rajčat
-* balení černých oliv
-* čerstvá bazalka
-* sůl, pepř
-* olivový olej
-
-Maso z jedné strany osolit a opepřit a druhou stranou (tou s kůží) dát na 2-3 minuty osmažit na pánev. Nakrájet rajčata na čtvrtiny a olivy na poloviny. Maso přendat do pekáčku, přisypat olivy, rajčata, bazalkové listy a přelít olivovým olejem. Dát péct do trouby na 15 minut na 200°C.
-
-> TIP: Jako příloha se hodí kuskus
-
-![Filé po italsku s kuskusem](images/file_po_italsku.jpeg)
-
-# Saláty
-
-## Těstovinový salát
-
-* 300g penne těstovin
-* 2 rajčata
-* 1/4 červené papriky
-* 4 ks zavařené papriky
-* 10 dkg šunky
-* 10 dkg nastrouhaného eidamu
-* pár listů salátu
-* bílý jogurt
-* sůl, pepř, oregano, sezamová semínka, lněná semínka, bazalka
-* olivový olej na pokapání
-
-![Těstovinový salát](images/testovinovy_salat.jpeg)
 
 ## Špenátový krém s noky
 
@@ -84,7 +53,53 @@ Noky vykrajované čajovou lžičkou dát do polévky a nechat vše vařit na sl
 
 ![Špenátový krém s noky](images/spenatovy_krem.jpeg)
 
+# Saláty
+
+## Těstovinový salát
+
+* 300g penne těstovin
+* 2 rajčata
+* 1/4 červené papriky
+* 4 ks zavařené papriky
+* 10 dkg šunky
+* 10 dkg nastrouhaného eidamu
+* pár listů salátu
+* bílý jogurt
+* sůl, pepř, oregano, sezamová semínka, lněná semínka, bazalka
+* olivový olej na pokapání
+
+![Těstovinový salát](images/testovinovy_salat.jpeg)
+
 # Hlavní jídla
+
+## Buřtguláš
+
+* cca 1-2 litry vody (přidat/vyvařit dle potřeby)
+* 5 větších brambor, 2 malé
+* 6-8 špekáčků
+* 1 cibule
+* 30g sušené papriky (1 sáček)
+* 2 stroužky česneku
+* sůl, pepř, 4 kuličky nového koření, 4 bobkové listy, kmín, majoránka
+
+Cibuli, špekáčky a větší brambory nakrájet na kostky (cibuli na malé kostičky). Špekáčky dát osmahnout na pánvičku. Do hrnce dát rozpálit tuk (olej, ale ještě lépe sádlo). Cibulku dát osmahnout dozlatova, jakmile začne zlatovatět, tak zasypat půlkou papriky. Promíchat a počkat až to trochu zpění. Pak zalít vodou a přidat brambory a veškeré koření. Stroužky česneku a dvě menší brambory nastrouhat najemno do vody. Jakmile se voda uvede k varu, přidat špekáčky a nechat alespoň hodinu vařit (průběžně míchat).
+
+> TIP: Nejlépe guláš chutná poté, co se nechá přes noc odležet v chladu.
+
+## Filé po italsku
+
+* filé z bílého rybího masa (například okoun)
+* 10 cherry rajčat
+* balení černých oliv
+* čerstvá bazalka
+* sůl, pepř
+* olivový olej
+
+Maso z jedné strany osolit a opepřit a druhou stranou (tou s kůží) dát na 2-3 minuty osmažit na pánev. Nakrájet rajčata na čtvrtiny a olivy na poloviny. Maso přendat do pekáčku, přisypat olivy, rajčata, bazalkové listy a přelít olivovým olejem. Dát péct do trouby na 15 minut na 200°C.
+
+> TIP: Jako příloha se hodí kuskus
+
+![Filé po italsku s kuskusem](images/file_po_italsku.jpeg)
 
 ## Hermelínový šáteček
 
