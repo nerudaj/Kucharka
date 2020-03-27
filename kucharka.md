@@ -15,6 +15,7 @@
 	* [Sekaná s olivami](#sekaná-s-olivami)
 	* [Slaný závin](#slaný-závin)
 	* [Špagety Carbonara](#špagety-carbonara)
+	* [Utopenci](#utopenci)
  * Dezerty
 	* [Belgické vafle](#belgické-vafle)
 	* [Brownies](#brownies)
@@ -220,6 +221,25 @@ Vypracovat ze surovin těsto, rozdělit na dvě půlky a z každé vyválet plá
 * sůl, pepř, muškátový oříšek
 
 Dát vařit vodu na špagety a pořádně osolit. Jakmile voda vře, přidat špagety. Slaninu a česnek nakrájet na kostičky, slaninu dát smažit na pánev. Nastrouhat parmazán a v misce ho rozmíchat s vejcem a šlehačkou. Dochutit pepřem a přistrouhat k tomu trochu muškátového ořechu. Pár minut před tím, než budou špagety přídat ke slanině česnek s dostatkem oleje, aby se nepřipálil. Špagety po slití přidat na pánev ke slanině a česneku, pořádně promísit a poté celou pánev odebrat z plamene. Přilít směs smetany, vejce a ostatního do špaget a pořádně promíchat.
+
+## Utopenci
+
+* Špekáčky s vysokým obsahem masa
+* Cibule (cca 1 per 5 špekáčků)
+* Nakládaná paprika (nebo chilli paprika - dle chuti)
+
+Lák
+
+* Lžička hořčičných semínek
+* Lžíce cukru krystal
+* 10 kuliček pepře
+* 5 kuliček nového koření
+* 4 bobkové listy
+* Ocet
+
+Dle nádoby a počtu špekáčků odměřit přibližně kolik bude potřeba octa. Špekáčky nechat aspoň hodinu odležet v teple a pak z nich stáhnout střívko. Koření i s octem dát do rendlíku a dát vařit (během vaření rozmíchat cukr). Špekáčky přeříznout napůl a cibuli nakrájet na tenká kolečka. Papriky nakrájet na tenké proužky. Pak vše naskládat do sklenice - na dno naskládat vrstvu cibule, pár proužků paprik, vrstvu špekáčků a pořádně upěchovat. Proces opakovat, dokud sklenice nebude plná. Uvařený lák nechat lehce schladnout a pak nalít do sklenice až po okraj. Sklenici zadeklovat a dát minimálně na týden dát do chladu.
+
+![TODO: Obrázek]()
 
 # Dezerty
 
