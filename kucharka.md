@@ -13,6 +13,7 @@
 	* [Kuře na paprice](#kuře-na-paprice)
 	* [Kuskus s kuřecími nugetky](#kuskus-s-kuřecími-nugetky)
 	* [Naked burger](#naked-burger)
+	* [Rajská omáčka s karlovarským knedlíkem](#rajská-omáčka-s-karlovarským-knedlíkem)
 	* [Sekaná s olivami](#sekaná-s-olivami)
 	* [Slaný závin](#slaný-závin)
 	* [Špagety Carbonara](#špagety-carbonara)
@@ -185,6 +186,32 @@ Zálivka
 Z masa vytvořit placičky a připravit je stejným způsobem jako na burger. Vejce buď připravit na sázený způsob, nebo jako volské oko. Cherry rajčata nakrájet na čtvrtiny, salát nalámat a smíchat se zálivkou. Na talíř naservírovat nejdříve salát, na něj umístit maso a na maso položit vejce. Jako příloha se hodí domácí hranolky nebo jen bageta.
 
 ![Naked burger](images/naked_burger.jpeg)
+
+## Rajská omáčka s karlovarským knedlíkem
+
+* 250g masa na dvě porce
+
+Omáčka
+
+* Malá cibulka
+* 200 ml vývaru
+* 500 ml rajského protlaku
+* lžička rumu
+* sůl, pepř, perníkové koření, cukr dle chuti
+
+Knedlíky (3-4 porce)
+
+* 2 rohlíky
+* 1 hrnek hrubé mouky
+* 3/4 hrnku mléka
+* 2 vejce
+* sůl, petržel
+
+Rohlíky nakrájet na kostičky. Vajíčka rozdělit na bílky a žloutky. Žloutky smíchat s moukou, solí a mlékem, vypracovat těsto. Z bílků a soli vyšlehat sníh. Opatrně smíchat kousky rohlíků, sníh, těsto a petržel. Hrnky vymazat a vysypat a naplnit směsí tak do tří čtvrtin. Hrnky položit do hrnce s vroucí vodou (ta nesmí sahat tak vysoko, aby se vlila do hrnků!), přiklopit poklicí a nechat být 15-20 minut.
+
+Jako základ nakrájet cibuli na kostičky a dát na olej zesklovatět, pak zalít vývarem a protlakem, přidat rum a koření. Nechat chvíli povařit a přidat cukr dle chuti. Maso dochutit a vytvořit 10 kuliček. Naskládat do omáčky a nechat uvařit.
+
+![Rajská omáčka](images/rajska_omacka.jpeg)
 
 ## Sekaná s olivami
 
