@@ -12,6 +12,7 @@
 	* [Kuře v česnekové omáčce](#kuře-v-česnekové-omáčce)
 	* [Kuře na paprice](#kuře-na-paprice)
 	* [Kuskus s kuřecími nugetky](#kuskus-s-kuřecími-nugetky)
+	* [Naked burger](#naked-burger)
 	* [Sekaná s olivami](#sekaná-s-olivami)
 	* [Slaný závin](#slaný-závin)
 	* [Špagety Carbonara](#špagety-carbonara)
@@ -166,6 +167,24 @@ Kuřecí kousky opepřit, osolit a velice rychle osmahnout na oleji. Poté i s o
 * čerstvá petržel, oregáno, bazalka, pepř, sůl
 
 Maso nakrájet na malé nugetky, okořenit oreganem, bazalkou, solí a pepřem a dát osmažit na pánev. Po dosmažení odložit bokem, olej nechat na pánvi. Papriku i cibuli nakrájet na malé kostičky. Papriku nasypat na pánev k oleji z masa a přidat 100ml vody. Dát vařit. Nakrájet rajčata na osminy a udělat kuskus. Až bude paprika měkká, přidat na minutu cibuli, pak rajčata a po další minutě odstavit z plamene. Přidat kuskus, maso a petržel a promíchat.
+
+## Naked burger
+
+* 200g masa na burger per porce
+* 1 vejce per porce
+* ledový salát
+* cherry rajčata
+
+Zálivka
+
+* olivový olej
+* acetato balsamiko
+* pár kapek citronu
+* sůl
+
+Z masa vytvořit placičky a připravit je stejným způsobem jako na burger. Vejce buď připravit na sázený způsob, nebo jako volské oko. Cherry rajčata nakrájet na čtvrtiny, salát nalámat a smíchat se zálivkou. Na talíř naservírovat nejdříve salát, na něj umístit maso a na maso položit vejce. Jako příloha se hodí domácí hranolky nebo jen bageta.
+
+![Naked burger](images/naked_burger.jpeg)
 
 ## Sekaná s olivami
 
