@@ -147,7 +147,7 @@ Burger adjustovat v pořadí - houska, dip, salát, maso, cheddar, okurky, rajč
 
 Na pánvi dát osmahnout osolené a opepřené kuřecí kousky. Cibuli nakrájet na kostičky a dát smažit na olej do hrnce, dokud nezesklovatí. Poté přidat do hrnce kuřecí kousky a zalít 200 ml vody. Přidat kmín (nešetřit) a podravku dle chuti (pokud není, tak jde použít troška bujónu). Nechat dusit. Během dušení uvařit rýži. 5 minut před servírováním nastrouhat česnekové stroužky do omáčky a promíchat.
 
-![Kuře v česnekové omáčce](images/kure_cesnet.jpeg)
+![Kuře v česnekové omáčce](images/kure_cesnek.jpeg)
 
 ## Kuře na paprice
 
