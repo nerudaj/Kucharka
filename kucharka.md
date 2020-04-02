@@ -10,7 +10,6 @@
 	* [Filé po italsku](#filé-po-italsku)
 	* [Hermelínový šáteček](#hermelínový-šáteček)
 	* [Cheeseburger](#cheeseburger)
-	* [Kuře v česnekové omáčce](#kuře-v-česnekové-omáčce)
 	* [Kuře na paprice](#kuře-na-paprice)
 	* [Kuskus s kuřecími nugetky](#kuskus-s-kuřecími-nugetky)
 	* [Naked burger](#naked-burger)
@@ -155,18 +154,6 @@ Burger adjustovat v pořadí - houska, dip, salát, maso, cheddar, okurky, rajč
 > TIP: Pokud se maso smaží, je dobré vytvarovat placičky do tvaru sopky (vysoké okraje, nízký prostředek). Maso se pak nezdeformuje.
 
 ![Cheeseburger](images/cheeseburger.jpeg)
-
-## Kuře v česnekové omáčce
-
-* 300 g kuřecích prsou/stehno
-* cibule
-* 8 stroužků česneku
-* sůl, pepř, kmín, podravka
-* rýže jako příloha
-
-Na pánvi dát osmahnout osolené a opepřené kuřecí kousky. Cibuli nakrájet na kostičky a dát smažit na olej do hrnce, dokud nezesklovatí. Poté přidat do hrnce kuřecí kousky a zalít 200 ml vody. Přidat kmín (nešetřit) a podravku dle chuti (pokud není, tak jde použít troška bujónu). Nechat dusit. Během dušení uvařit rýži. 5 minut před servírováním nastrouhat česnekové stroužky do omáčky a promíchat.
-
-![Kuře v česnekové omáčce](images/kure_cesnek.jpeg)
 
 ## Kuře na paprice
 
