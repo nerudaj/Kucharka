@@ -6,6 +6,7 @@
 	* [Těstovinový salát](#těstovinový-salát)
  * Hlavní jídla
 	* [Buřtguláš](#buřtguláš)
+	* [Čínské nudle](#čínské-nudle)
 	* [Filé po italsku](#filé-po-italsku)
 	* [Hermelínový šáteček](#hermelínový-šáteček)
 	* [Cheeseburger](#cheeseburger)
@@ -90,6 +91,22 @@ Noky vykrajované čajovou lžičkou dát do polévky a nechat vše vařit na sl
 Cibuli, špekáčky a větší brambory nakrájet na kostky (cibuli na malé kostičky). Špekáčky dát osmahnout na pánvičku. Do hrnce dát rozpálit tuk (olej, ale ještě lépe sádlo). Cibulku dát osmahnout dozlatova, jakmile začne zlatovatět, tak zasypat půlkou papriky. Promíchat a počkat až to trochu zpění. Pak zalít vodou a přidat brambory a veškeré koření. Stroužky česneku a dvě menší brambory nastrouhat najemno do vody. Jakmile se voda uvede k varu, přidat špekáčky a nechat alespoň hodinu vařit (průběžně míchat).
 
 > TIP: Nejlépe guláš chutná poté, co se nechá přes noc odležet v chladu.
+
+## Čínské nudle
+
+* kousky masa (vepřové, kuřecí)
+* klíčky
+* 2 mrkve
+* 2 cibule
+* 1/2 paprika
+* 1/4 čínského zelí
+* rýžové nudle
+* slaná sójová omáčka
+* koření na čínu (bez soli)
+* sůl dle chuti
+* UME ocet dle chuti
+
+Osmahnout kousky masa a oddělat z pánve. Nudle dát na 30 minut odmočit do teplé vody. Zeleninu (mrkev, cibule, paprika, zelí) nakrájet na nudličky a osmahnout na pánvi, ale tak aby zůstalo vše křupavé. Přidat maso, nudle a vodu (ne moc). Ochutit kořením, sójovkou a UME octem, solí dle chuti. Jakmile jsou nudle hotové, sundat z plotny a přimíchat klíčky.
 
 ## Filé po italsku
 
