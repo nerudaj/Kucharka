@@ -17,6 +17,7 @@
 	* [Rajská omáčka s karlovarským knedlíkem](#rajská-omáčka-s-karlovarským-knedlíkem)
 	* [Sekaná s olivami](#sekaná-s-olivami)
 	* [Slaný závin](#slaný-závin)
+	* [Sýrová omáčka](#sýrová-omáčka)
 	* [Špagety Carbonara](#špagety-carbonara)
 	* [Utopenci](#utopenci)
  * Dezerty
@@ -279,6 +280,19 @@ Náplň
 Vypracovat ze surovin těsto, rozdělit na dvě půlky a z každé vyválet plát na nohavici. Směs nalít do těsta a zabalit do nohavice. Nakonec nohavice potřít rozpuštěným máslem a dát péct 20 minut z každé strany na 200°C.
 
 ![Slaný závin](images/slany_zavin.jpeg)
+
+## Sýrová omáčka
+
+* 300 ml smetany na vaření
+* 100 g eidamu
+* 100 g nivy
+* Muškátový ořech, oregano, sůl, pepř
+
+Uvedené suroviny se hodí na 2 porce. Smetanu nalít do hrnce s tlustými stěnami umístit nad **slabý** plamen. Smetana se musí ohřát tak, aby se z ní slabě kouřilo, ale nesmí bublat, jinak se to celé srazí. Jakmile začne být teplá, postupně začít přidávat nastrouhaný eidam a nivu nalámanou na malé kousky. Metlou pořádně míchat, aby se sýry ve smetaně pořádně rozpustily. Pak přidat koření (z muškátového ořechu nastrouhat pouze špetku) a chvilku nechat nad slabý plamenem, aby se chutě propojily.
+
+> TIP: Jako příloha jsou výtečné třeba [noky](#špenátový-krém-s-noky) a k omáčce se skvěle hodí kuřecí kostičky usmažené na pánvi.
+
+![Sýrová omáčka s noky a kuřecím masem](images/syrova_omacka.jpeg)
 
 ## Špagety Carbonara
 
