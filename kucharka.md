@@ -13,6 +13,7 @@
 	* [Kuře na paprice](#kuře-na-paprice)
 	* [Kuskus s kuřecími nugetky](#kuskus-s-kuřecími-nugetky)
 	* [Naked burger](#naked-burger)
+	* [Pizza](#pizza)
 	* [Rajská omáčka s karlovarským knedlíkem](#rajská-omáčka-s-karlovarským-knedlíkem)
 	* [Sekaná s olivami](#sekaná-s-olivami)
 	* [Slaný závin](#slaný-závin)
@@ -186,6 +187,29 @@ Zálivka
 Z masa vytvořit placičky a připravit je stejným způsobem jako na burger. Vejce buď připravit na sázený způsob, nebo jako volské oko. Cherry rajčata nakrájet na čtvrtiny, salát nalámat a smíchat se zálivkou. Na talíř naservírovat nejdříve salát, na něj umístit maso a na maso položit vejce. Jako příloha se hodí domácí hranolky nebo jen bageta.
 
 ![Naked burger](images/naked_burger.jpeg)
+
+## Pizza
+
+Těsto
+
+* 300g hladké mouky (italská bude chutnat líp)
+* 4 lžíce olivového oleje
+* lžička soli
+* 1 žloutek
+* 100ml vody
+
+Omáčka na základ
+
+* 500ml rajčatového protlaku
+* 100g strouhaného sýra
+* sůl, oregano, bazalka
+* lze využít bílek, co zůstal od dělání těsta
+
+Smíchat přísady na těsto a vypracovat do podoby koule. Kouli potřít po celém povrchu olejem, zabalit do igelitového sáčku a dát na 15 minut o lednice. Omáčku pořádně promíchat z přísad. Nachystat si přísady na ozdobení - vhodné jsou olivy, šunka, slanina, niva, mozzarela, eidam, cibule, paprika. Rajčata nejsou zcela vhodná - je v nich hodně vody a tudíž rozmočí těsto a navíc zůstanou dlouho horká. Jejich chuť je už obsažena protlaku.
+
+Těsto rozdělit na třetiny - každá třetina se dá rozválet na kulatý plech o průměru 26cm. Rozválené těsto potřít omáčkou a pak zaskládat ozdobnými přísadami. Dát do trouby na 200°C na 15 minut.
+
+![Pizza](images/pizza.jpeg)
 
 ## Rajská omáčka s karlovarským knedlíkem
 
