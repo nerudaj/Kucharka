@@ -1,9 +1,9 @@
 # Obsah
 
  * Polévky
-	* [Špenátový krém s noky](#špenátový-krém-s-noky)
+	* [Špenátový krém s noky](#spenatovy-krem-s-noky)
  * Saláty
-	* [Těstovinový salát](#těstovinový-salát)
+	* [Těstovinový salát](#testovinovy-salat)
  * Hlavní jídla
 	* [Buřtguláš](#buřtguláš)
 	* [Čínské nudle](#čínské-nudle)
@@ -21,15 +21,15 @@
 	* [Špagety Carbonara](#špagety-carbonara)
 	* [Utopenci](#utopenci)
  * Dezerty
-	* [Belgické vafle](#belgické-vafle)
+	* [Belgické vafle](#belgicke-vafle)
 	* [Brownies](#brownies)
 	* [Krtkův dort](#krtkův-dort)
 	* [Medovník](#medovník)
-	* [Mramorové řezy](#mramorové-řezy)
+	* [Mramorové řezy](#mramorove-rezy)
 
 # Polévky
 
-## Špenátový krém s noky
+## Špenátový krém s noky <span id="spenatovy-krem-s-noky"></span>
 
 Polévka
 
@@ -60,7 +60,7 @@ Noky vykrajované čajovou lžičkou dát do polévky a nechat vše vařit na sl
 
 # Saláty
 
-## Těstovinový salát
+## Těstovinový salát <span id="testovinovy-salat"></span>
 
 * 300g penne těstovin
 * 2 rajčata
@@ -214,6 +214,8 @@ Smíchat přísady na těsto a vypracovat do podoby koule. Kouli potřít po cel
 
 Těsto rozdělit na třetiny - každá třetina se dá rozválet na kulatý plech o průměru 26cm. Rozválené těsto potřít omáčkou a pak zaskládat ozdobnými přísadami. Dát do trouby na 200°C na 15 minut.
 
+> 7.5 sacharidových jednotek na pizzu.
+
 ![Pizza](images/pizza.jpeg)
 
 ## Rajská omáčka s karlovarským knedlíkem
@@ -331,7 +333,7 @@ Dle nádoby a počtu špekáčků odměřit přibližně kolik bude potřeba oct
 
 # Dezerty
 
-## Belgické vafle
+## Belgické vafle <span id="belgicke-vafle"></span>
 
 * 180 g hladká mouky
 * 3 ks vajec
@@ -345,6 +347,8 @@ Dle nádoby a počtu špekáčků odměřit přibližně kolik bude potřeba oct
 Smíchat suché přísady. Z bílků ušlehat sníh. K suchým přísadám přidat žloutky, olej a mléko a vyšlehat těsto. Přidat sníh a promíchat stěrkou (nešlehat).
 
 Rozehřát vaflovač a potřít plotny olejem. Péct cca 5-7 minut.
+
+> Celkem má jídlo 16.5 sacharidových jednotek. Z těsta jde udělat cca 7-8 vaflí, což znamená cca 2 SJ na vafli.
 
 ![Belgické vafle](images/vafle.jpeg)
 
@@ -373,7 +377,7 @@ TODO
 
 ![Medovník](images/medovnik.jpeg)
 
-## Mramorové řezy
+## Mramorové řezy <span id="mramorove-rezy"></span>
 
 Těsto
 
@@ -395,3 +399,4 @@ Náplň
 Přísady na těsto nejprve promíchat lžicí a pak promixovat. V jiné nádobě vypracovat náplň stejným způsobem. Do vymazané pečící nádoby nalít nerovnoměrně obě těsta a vidličkou zhlekha promíchat. Péct 20-30 minut na 200°C.
 
 ![Mramorové řezy](images/mramorove-rezy.jpeg)
+
