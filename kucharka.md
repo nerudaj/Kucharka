@@ -26,6 +26,8 @@
 	* [Krtkův dort](#krtkův-dort)
 	* [Medovník](#medovník)
 	* [Mramorové řezy](#mramorove-rezy)
+ * Ostatní
+	* [Briošky](#briosky)
 
 # Polévky
 
@@ -400,3 +402,22 @@ Přísady na těsto nejprve promíchat lžicí a pak promixovat. V jiné nádob�
 
 ![Mramorové řezy](images/mramorove-rezy.jpeg)
 
+# Ostatní
+
+## Briošky <span id="briosky"></span>
+
+* 170 g hladké mouky
+* 135 g hrubé mouky
+* 60 g hery
+* 1 vejce do těsta, jedno na potření
+* 21 g droždí
+* 1.5 dcl vody
+* dvě vrchovaté čajové lžičky soli, drcený kmín
+
+Droždí nastartovat (dát do mísy půlku vlažné vody, přisypat droždí, lžičku cukru a zlehka poprášit vodou a dát do tepla na půl hodiny). Jakmile je nastartováno, postupně přisypávat a rozmíchávat mouku, vodu, tuk a ostatní suroviny. Postupně vypracovat těsto. Opět dát na mísy a nechat hodinu kynout.
+
+Z těsta vypracovat bochánky (z dávky jde udělat 7-8 menších nebo tak 4 větší na burger). V hrnku rozmíchat vidličkou jedno vejce a potřít jím bochánky z horní strany. Dát do trouby na 200°C, každých deset minut snížit teplotu o 20°C (neklesat pod 140°C).
+
+> TIP: Po upečení nechat briošky chvíli chladnout, pak je zabalit do igelitového sáčku a nechat přes noc odležet. Druhý den budou pěkně měkké.
+
+![Briošky](images/briosky.jpeg)
