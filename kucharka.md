@@ -19,6 +19,7 @@
 	* [Slaný závin](#slany-zavin)
 	* [Sýrová omáčka](#sýrová-omáčka)
 	* [Špagety Carbonara](#špagety-carbonara)
+	* [Tagliatelle s lososem](#tagliatelle-s-lososem)
 	* [Utopenci](#utopenci)
  * Dezerty
 	* [Belgické vafle](#belgicke-vafle)
@@ -318,6 +319,20 @@ Uvedené suroviny se hodí na 2 porce. Smetanu nalít do hrnce s tlustými stěn
 * sůl, pepř, muškátový oříšek
 
 Dát vařit vodu na špagety a pořádně osolit. Jakmile voda vře, přidat špagety. Slaninu a česnek nakrájet na kostičky, slaninu dát smažit na pánev. Nastrouhat parmazán a v misce ho rozmíchat s vejcem a šlehačkou. Dochutit pepřem a přistrouhat k tomu trochu muškátového ořechu. Pár minut před tím, než budou špagety přídat ke slanině česnek s dostatkem oleje, aby se nepřipálil. Špagety po slití přidat na pánev ke slanině a česneku, pořádně promísit a poté celou pánev odebrat z plamene. Přilít směs smetany, vejce a ostatního do špaget a pořádně promíchat.
+
+## Tagliatele s lososem
+
+* 300g lososa
+* 500g tagiatelle
+* 1 menší cibule
+* 250ml smetany
+* 40g másla
+* hrst listového špenátu
+* citronová šťáva, parmazán, sůl
+
+Na másle orestovat nakrájenou cibuli, přidat na kostičky nakrájeného lososa bez kůže a restovat několik minut. Osolit, zalít smetanou a lžičkou citronové šťávy a provařit. Na závěr přidat nasekaný špenát a promíchat s uvařenými tagliatelle. Na ozdobení na talíži posypat nastrouhaným parmazánem.
+
+![Tagliatelle s lososem](images/tagliatelle_losos.jpeg)
 
 ## Utopenci
 
