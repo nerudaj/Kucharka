@@ -16,7 +16,7 @@
 	* [Pizza](#pizza)
 	* [Rajská omáčka s karlovarským knedlíkem](#rajská-omáčka-s-karlovarským-knedlíkem)
 	* [Sekaná s olivami](#sekaná-s-olivami)
-	* [Slaný závin](#slaný-závin)
+	* [Slaný závin](#slany-zavin)
 	* [Sýrová omáčka](#sýrová-omáčka)
 	* [Špagety Carbonara](#špagety-carbonara)
 	* [Utopenci](#utopenci)
@@ -263,9 +263,9 @@ Cibuli, česnek a petržel nakrájet na co nejmenší částice a spolu s ostatn
 
 ![Sekaná s olivami](images/sekana.jpeg)
 
-## Slaný závin
+## Slaný závin <span id="slany-zavin"></span>
 
-Těsto
+Těsto (alternativně použít normální listové)
 
 * 250 g hladké mouky
 * 50 g másla
@@ -276,16 +276,21 @@ Těsto
 
 Náplň
 
-* 20 dkg sýra
-* 10 dkg slaniny
-* stroužek česneku
-* půlka cibule
-* 3 rajčata
-* bazalka, oregano, sůl, pepř
+* 1 menší cibule
+* balení sterilovaného kyselého zelí
+* 300g hovězího mletého masa
+* 1/2 červené papriky
+* trocha strouhaného eidamu
 
-Česnek a rajčata nakrájet na kostičky, slaninu a cibuli na nudličky. Na oleji nejprve osmahnout česnek se slaninou, po chvíli přidat cibuli. Až změkne, přisypat rajčata a koření a nechat chvilku povařit. Na konci začít přidávat sýr a postupně ho ve směsi opatrně rozmíchat.
+Na potření
 
-Vypracovat ze surovin těsto, rozdělit na dvě půlky a z každé vyválet plát na nohavici. Směs nalít do těsta a zabalit do nohavice. Nakonec nohavice potřít rozpuštěným máslem a dát péct 20 minut z každé strany na 200°C.
+* 1 rozmíchané vejce
+* drcený kmín
+* sůl
+
+Papriku a cibuli nakrájet na kostičky a dát orestovat na pánev, přidat osolené mleté maso a promíchat, aby vznikla směs. Restovat tak dlouho, dokud maso nebude hotové.
+
+Vypracovat ze surovin těsto, rozdělit na dvě půlky a z každé vyválet plát na nohavici. Plát posypat nastrouhaným sýrem, následně dát vrstvu zelí a poté vrstvu směsi z pánve. Zabalit do nohavice. Nakonec nohavice potřít rozmíchaným vejcem, posypat solí a kmínem a dát péct 20 minut z horní strany a případně dopéct 10 minut ze spodní strany na 200°C.
 
 ![Slaný závin](images/slany_zavin.jpeg)
 
