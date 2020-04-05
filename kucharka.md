@@ -320,7 +320,7 @@ Uvedené suroviny se hodí na 2 porce. Smetanu nalít do hrnce s tlustými stěn
 
 Dát vařit vodu na špagety a pořádně osolit. Jakmile voda vře, přidat špagety. Slaninu a česnek nakrájet na kostičky, slaninu dát smažit na pánev. Nastrouhat parmazán a v misce ho rozmíchat s vejcem a šlehačkou. Dochutit pepřem a přistrouhat k tomu trochu muškátového ořechu. Pár minut před tím, než budou špagety přídat ke slanině česnek s dostatkem oleje, aby se nepřipálil. Špagety po slití přidat na pánev ke slanině a česneku, pořádně promísit a poté celou pánev odebrat z plamene. Přilít směs smetany, vejce a ostatního do špaget a pořádně promíchat.
 
-## Tagliatele s lososem
+## Tagliatelle s lososem
 
 * 300g lososa
 * 500g tagiatelle
