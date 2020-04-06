@@ -24,7 +24,7 @@
  * Dezerty
 	* [Belgické vafle](#belgicke-vafle)
 	* [Brownies](#brownies)
-	* [Krtkův dort](#krtkův-dort)
+	* [Krtkův dort](#krtkuv-dort)
 	* [Medovník](#medovník)
 	* [Mramorové řezy](#mramorove-rezy)
  * Ostatní
@@ -389,9 +389,31 @@ Pečící formu vyložit pečícím papírem, vlít těsto a dát péct aspoň n
 
 ![Brownies](images/brownies.jpeg)
 
-## Krtkův dort
+## Krtkův dort <span id="krtkuv-dort"></span>
 
-TODO
+Korpus
+
+* 100 ml oleje
+* 100 g moučkového cukru
+* 2 vejce
+* 1 lžíce rumu
+* 180 g polohrubé mouky
+* 2 vrchovaté lžičky kakaa
+* 1 prášek do pečiva
+* 125 ml mléka
+
+Náplň
+
+* 5 banánů
+* 500ml šlehačky na šlehání
+* ztužovač
+* 80 g čokolády na vaření (nastrouhané)
+
+Olej, cukr a žloutky ušlehat, přidat rum a zamíchat. Přidat mouku smíchanou s kakaem a kypřákem, znovu prošlehat, nakonec lehce vmícht sníh z bílků. Vlít do vymazané dortové formy a péct na 180°C 30 minut.
+
+Od kraje si nechat odstup 1,5 cm a vydlabat prostředek, ale dno těsta musí zůstat neporušené! Do vydlabaného prostoru vložit banány podélně přeříznuté vejpůl a zalít vyšlehanou šlehačkou, ve které je zamíchaná čokoláda. Na vzniklý kopeček nasypat/namačkat těsto, které předtím bylo vydlabáno.
+
+![Krtkův dort](images/krtkuv_dort.jpeg)
 
 ## Medovník
 
