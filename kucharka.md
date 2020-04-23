@@ -8,6 +8,7 @@
 	* [Buřtguláš](#buřtguláš)
 	* [Čínské nudle](#čínské-nudle)
 	* [Filé po italsku](#filé-po-italsku)
+	* [Gyros s pitou](#gyros-s-pitou)
 	* [Hermelínový šáteček](#hermelínový-šáteček)
 	* [Cheeseburger](#cheeseburger)
 	* [Kuře na paprice](#kuře-na-paprice)
@@ -126,6 +127,42 @@ Maso z jedné strany osolit a opepřit a druhou stranou (tou s kůží) dát na 
 > TIP: Jako příloha se hodí kuskus
 
 ![Filé po italsku s kuskusem](images/file_po_italsku.jpeg)
+
+## Gyros s pitou
+
+Pita (6 placek)
+
+* 300 g hladké mouky
+* 2 lžičky prášku do pečiva
+* 200 ml mléka
+* 1 lžička soli
+* 2 lžičky cukru
+* 2 lžíce oleje
+* máslo na potírání
+
+Marináda
+
+* 300g vepřového masa na kostičky
+* 1 sáček gyrosového koření (bez soli)
+* 1 velká cibule
+* sůl
+* olej
+
+Ostatní
+
+* 1/2 okurky
+* 4 lžíce bílého jogurtu
+* 2 stroužky česneku (strouhaný)
+* sůl, pepř
+* 3 rajčata
+
+Cibuli do marinády nakrájet na půlkolečka, promíchat koření, sůl, maso a cibuli, zalít olejem a nechat *dva* dny marinovat v chladném prostředí.
+
+Na pity smíchat suché přísady, přilít mléko, olej a michát dokud nevznikne vláčné těsto, rozdělit na 6 dílků, a vyválet placky. Placky opékat na suché pánvi a po sundání potřít máslem.
+
+Namarinované maso dát na rozpálenou pánev a za pravidelného míchání nechat zavřít. Z okurky, jogurtu, česneku, soli a pepře udělat tzatziki. Rajčata nakrájet na kolečka a kolečka položit na maso na pánvi. Trochu stáhnout plamen, nemíchat. Voda z rajčat pustí do masa a začne se vařit, vrstva rajčat bude zároveň sloužit jako poklice, pod kterou se maso podusí.
+
+![Gyros s pitou](images/gyros_s_pitou.jpeg)
 
 ## Hermelínový šáteček
 
