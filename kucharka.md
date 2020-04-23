@@ -21,6 +21,8 @@
 	* [Špagety Carbonara](#špagety-carbonara)
 	* [Tagliatelle s lososem](#tagliatelle-s-lososem)
 	* [Utopenci](#utopenci)
+ * Marinády
+	* [Kečupová marináda](#kecupova-marinada)
  * Dezerty
 	* [Belgické vafle](#belgicke-vafle)
 	* [Brownies](#brownies)
@@ -352,6 +354,18 @@ Lák
 Dle nádoby a počtu špekáčků odměřit přibližně kolik bude potřeba octa. Špekáčky nechat aspoň hodinu odležet v teple a pak z nich stáhnout střívko. Koření i s octem dát do rendlíku a dát vařit (během vaření rozmíchat cukr). Špekáčky přeříznout napůl a cibuli nakrájet na tenká kolečka. Papriky nakrájet na tenké proužky. Pak vše naskládat do sklenice - na dno naskládat vrstvu cibule, pár proužků paprik, vrstvu špekáčků a pořádně upěchovat. Proces opakovat, dokud sklenice nebude plná. Uvařený lák nechat lehce schladnout a pak nalít do sklenice až po okraj. Sklenici zadeklovat a dát minimálně na týden dát do chladu.
 
 ![Utopenci](images/utopenci.jpeg)
+
+# Marinády
+
+## Kečupová marináda <span id="kecupova-marinada"></span>
+
+ * Grilovací koření
+ * 3 lžíce jemného kečupu
+ * 8 lžíc rostlinného oleje
+ * 1 lžíce sójové omáčky
+ * 3 stroužky česneku (utřené s 1 lžící hořčice)
+
+Promíchat přísady dohromady, naklepané, osolené a opepřené maso naložit do směsi a nechat uležet (ideálně dva dny).
 
 # Dezerty
 
