@@ -24,6 +24,7 @@
 	* [Utopenci](#utopenci)
  * Marinády
 	* [Kečupová marináda](#kecupova-marinada)
+	* [Pivní marináda](#pivni-marinada)
  * Dezerty
 	* [Belgické vafle](#belgicke-vafle)
 	* [Brownies](#brownies)
@@ -403,6 +404,18 @@ Dle nádoby a počtu špekáčků odměřit přibližně kolik bude potřeba oct
  * 3 stroužky česneku (utřené s 1 lžící hořčice)
 
 Promíchat přísady dohromady, naklepané, osolené a opepřené maso naložit do směsi a nechat uležet (ideálně dva dny).
+
+# Pivní marináda <span id="pivni-marinada"></span>
+
+* 150 ml piva
+* 3 lžíce kečupu
+* 1 lžička horčice
+* 1 cibule (nakrájená na drobno)
+* 1 chilli paprička
+* 1/4 citronu
+* 2 stroužky česneku (nakrájený na drobno)
+* 1 lžička cukru
+* tymián, rozmarýn, sůl, pepř
 
 # Dezerty
 
