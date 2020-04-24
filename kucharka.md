@@ -11,6 +11,7 @@
 	* [Gyros s pitou](#gyros-s-pitou)
 	* [Hermelínový šáteček](#hermelínový-šáteček)
 	* [Cheeseburger](#cheeseburger)
+	* [Krevetové rizoto](#krevetove-rizoto)
 	* [Kuře na paprice](#kuře-na-paprice)
 	* [Kuskus s kuřecími nugetky](#kuskus-s-kuřecími-nugetky)
 	* [Naked burger](#naked-burger)
@@ -197,6 +198,17 @@ Burger adjustovat v pořadí - houska, dip, salát, maso, cheddar, okurky, rajč
 > TIP: Pokud se maso smaží, je dobré vytvarovat placičky do tvaru sopky (vysoké okraje, nízký prostředek). Maso se pak nezdeformuje.
 
 ![Cheeseburger](images/cheeseburger.jpeg)
+
+## Krevetové rizoto <span id="krevetove-rizoto"></span>
+
+* 120-200 g krevet
+* 1/2 žluté papriky
+* 1 cibule
+* 2 rajčata
+* hrnek rýže
+* bobkový list, nové koření
+
+Rýži nechat odmočit, pak slít a dát do hrnce rychle osmahnout na oleji. Pak zalít 1 a 1/2 hrnku vody, přidat bobkový list a nové koření a sůl a nechat vařit, dokud se voda nevsákne do rýže. Cibuli, papriku i rajčata nakrájet na nudličky. Na rozpálenou pánev dát nejdřív papriku, aby změkla, pak přidat cibuli, poté krevety a ve chvíli, kdy jsou krevety hotové přidat rajčata. Vzniklou směs promíchat s rýží.
 
 ## Kuře na paprice
 
@@ -394,6 +406,8 @@ Dle nádoby a počtu špekáčků odměřit přibližně kolik bude potřeba oct
 ![Utopenci](images/utopenci.jpeg)
 
 # Marinády
+
+https://bozka.cz/marinana-maso-7-skvelych-receptu-vyzkousejte-taky/
 
 ## Kečupová marináda <span id="kecupova-marinada"></span>
 
