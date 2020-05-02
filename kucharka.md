@@ -33,6 +33,7 @@
 	* [Krtkův dort](#krtkuv-dort)
 	* [Medovník](#medovník)
 	* [Mramorové řezy](#mramorove-rezy)
+	* [Ovocný koláč](#ovocny-kolac)
  * Ostatní
 	* [Briošky](#briosky)
 
@@ -537,6 +538,30 @@ Náplň
 Přísady na těsto nejprve promíchat lžicí a pak promixovat. V jiné nádobě vypracovat náplň stejným způsobem. Do vymazané pečící nádoby nalít nerovnoměrně obě těsta a vidličkou zhlekha promíchat. Péct 20-30 minut na 200°C.
 
 ![Mramorové řezy](images/mramorove-rezy.jpeg)
+
+## Ovocný koláč <span id="ovocny-kolac"></span>
+
+Korpus
+
+* 150 g hladké mouky
+* 150 g cukr krystal
+* 3 vejce
+* 1 sáček vanilkového cukru
+* 1/2 kypřícího prášku
+* 60 ml oleje
+* 60 ml mléka
+
+Ozdobení
+
+* 2 banány
+* jahody
+* borůvky
+* marmeláda
+* 1 balení dortové želatiny
+
+Rozmixovat olej, vejce a cukr. Přilít mléko a za stálého mixování přisypávat mouku smíšenou s kypřícím práškem. Nalít do vysypané koláčové formy a péct na 200°C 40 minut. Hotový korpus vydlabat jako na krtkův dort. Vydlabaný prostor natřít vrstvou marmelády a naskládat tam kousky ovoce. Udělat želatinu a zalít ovoce želatinou a nechat vytuhnout v lednici.
+
+![Ovocný koláč](ovocny_kolac.jpeg)
 
 # Ostatní
 
