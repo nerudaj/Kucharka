@@ -3,6 +3,7 @@
  * Polévky
 	* [Špenátový krém s noky](#spenatovy-krem-s-noky)
  * Saláty
+	* [Krabí salát](#krabi-salat)
 	* [Těstovinový salát](#testovinovy-salat)
  * Hlavní jídla
 	* [Buřtguláš](#buřtguláš)
@@ -67,6 +68,21 @@ Noky vykrajované čajovou lžičkou dát do polévky a nechat vše vařit na sl
 ![Špenátový krém s noky](images/spenatovy_krem.jpeg)
 
 # Saláty
+
+## Krabí salát <span id="krabi-salat"></span>
+
+* 4 cherry rajčata
+* 1 rajče
+* 2 mozzarely
+* 100 g eidamu
+* 1 balení krabích prstů (cca 12-16 prstů)
+* 1 malý kelímek bílého jogurtu (cca 6 lžic)
+* 3 lžíce majonézy
+* oregano, bazalka, pepř
+
+Eidam nastrouhat, rajčata, mozzarelu a prsty nakrájet na kostičky.
+
+![Krabí salát](images/krabi_salat.jpeg)
 
 ## Těstovinový salát <span id="testovinovy-salat"></span>
 
