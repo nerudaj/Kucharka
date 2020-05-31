@@ -13,29 +13,34 @@
 	* [Hermelínový šáteček](#hermelínový-šáteček)
 	* [Cheeseburger](#cheeseburger)
 	* [Krevetové rizoto](#krevetove-rizoto)
-	* [Kuře na paprice](#kuře-na-paprice)
-	* [Kuskus s kuřecími nugetky](#kuskus-s-kuřecími-nugetky)
+	* [Kuře na paprice](#kure-na-paprice)
+	* [Kuskus s kuřecími nugetky](#kuskus-s-kurecimi-nugetky)
 	* [Naked burger](#naked-burger)
+	* [Nepálivá Garam masala kuře](#nepalive-indicke-kure)
 	* [Pizza](#pizza)
 	* [Rajská omáčka s karlovarským knedlíkem](#rajská-omáčka-s-karlovarským-knedlíkem)
 	* [Sekaná s olivami](#sekaná-s-olivami)
 	* [Slaný závin](#slany-zavin)
 	* [Sýrová omáčka](#sýrová-omáčka)
-	* [Špagety Carbonara](#špagety-carbonara)
+	* [Špagety Carbonara](#spagety-carbonara)
+	* [Špagety Rosso](#spagety-rosso)
 	* [Tagliatelle s lososem](#tagliatelle-s-lososem)
 	* [Utopenci](#utopenci)
  * Marinády
 	* [Kečupová marináda](#kecupova-marinada)
 	* [Pivní marináda](#pivni-marinada)
+	* [Bylinková marináda na kuřecí prsa](#bylinkova-marinada)
  * Dezerty
 	* [Belgické vafle](#belgicke-vafle)
 	* [Brownies](#brownies)
+	* [Kinder řezy](#kinder-rezy)
 	* [Krtkův dort](#krtkuv-dort)
 	* [Medovník](#medovník)
 	* [Mramorové řezy](#mramorove-rezy)
 	* [Ovocný koláč](#ovocny-kolac)
  * Ostatní
 	* [Briošky](#briosky)
+	* [Chleba](#chleba)
 
 # Polévky
 
@@ -227,7 +232,7 @@ Burger adjustovat v pořadí - houska, dip, salát, maso, cheddar, okurky, rajč
 
 Rýži nechat odmočit, pak slít a dát do hrnce rychle osmahnout na oleji. Pak zalít 1 a 1/2 hrnku vody, přidat bobkový list a nové koření a sůl a nechat vařit, dokud se voda nevsákne do rýže. Cibuli, papriku i rajčata nakrájet na nudličky. Na rozpálenou pánev dát nejdřív papriku, aby změkla, pak přidat cibuli, poté krevety a ve chvíli, kdy jsou krevety hotové přidat rajčata. Vzniklou směs promíchat s rýží.
 
-## Kuře na paprice
+## Kuře na paprice <span id="kure-na-paprice"></span>
 
 * 300 g kuřecích kousků
 * půlka cibule
@@ -237,7 +242,9 @@ Rýži nechat odmočit, pak slít a dát do hrnce rychle osmahnout na oleji. Pak
 
 Kuřecí kousky opepřit, osolit a velice rychle osmahnout na oleji. Poté i s olejem nechat odležet. Na oleji v hrnci osmahnout cibuli, poté zasypat větším množstvím papriky a nechat zpěnit. Poté přisypat maso a pořádně promíchat, aby se suroviny o sebe pořádně otřely. Zalít vodou a nechat vařit. Přidat nové koření. Po patnácti minutách vaření sundat z plamene a přilít smetanu. Opět trochu povařit. Je možné zahustit jíškou. Podávat ideálně s rýží.
 
-## Kuskus s kuřecími nugetky
+![Kuře na paprice](images/kure_na_paprice.jpeg)
+
+## Kuskus s kuřecími nugetky <span id="kuskus-s-kurecimi-nugetky"></span>
 
 * 500g kuřecích prs
 * Půlka červené papriky
@@ -246,6 +253,8 @@ Kuřecí kousky opepřit, osolit a velice rychle osmahnout na oleji. Poté i s o
 * čerstvá petržel, oregáno, bazalka, pepř, sůl
 
 Maso nakrájet na malé nugetky, okořenit oreganem, bazalkou, solí a pepřem a dát osmažit na pánev. Po dosmažení odložit bokem, olej nechat na pánvi. Papriku i cibuli nakrájet na malé kostičky. Papriku nasypat na pánev k oleji z masa a přidat 100ml vody. Dát vařit. Nakrájet rajčata na osminy a udělat kuskus. Až bude paprika měkká, přidat na minutu cibuli, pak rajčata a po další minutě odstavit z plamene. Přidat kuskus, maso a petržel a promíchat.
+
+![Kuskus s kuřecími nugetky](images/kuskus_s_kurecimi_nugetky.jpeg)
 
 ## Naked burger
 
@@ -264,6 +273,33 @@ Zálivka
 Z masa vytvořit placičky a připravit je stejným způsobem jako na burger. Vejce buď připravit na sázený způsob, nebo jako volské oko. Cherry rajčata nakrájet na čtvrtiny, salát nalámat a smíchat se zálivkou. Na talíř naservírovat nejdříve salát, na něj umístit maso a na maso položit vejce. Jako příloha se hodí domácí hranolky nebo jen bageta.
 
 ![Naked burger](images/naked_burger.jpeg)
+
+## Nepálivá Garam masala kuře <span id="nepalive-indicke-kure"></span>
+
+* 250g kuřecího masa
+* rýže
+* 1 cibule
+* 1 zelená paprika
+* 500 ml smetany na vaření
+
+Masala
+
+* 1 lžíce římského kmínu
+* 2 lžičky semínek koriandru
+* 1 lžička drceného kardamonu
+* 1.5 lžičky kuliček barevného pepře
+* 1 lžička mleté sladké papriky
+* 0.5 lžičky hřebíčku
+* 0.5 lžičky mletého muškátového oříšku
+* 3cm svitek ceylonské skořice
+* 0.5 lžičky kmínu
+* 2 sušené bobkové listy
+
+> Pro pikantnější masalu - 1 lžička mletého sušeného zázvoru, 0.5 lžičky kajenského pepře
+
+Koření, které je v celku zlehka opražit na pánvi, až se rozvoní. Přesypat do misky a nechat vychladnout. Rozmixovat najemno, přidat mleté ingredience. Kuře nakrájet na kostičky a osolit. Cibuli nakrájet na jemno a dát lehce osmažit na pánvi. Přidat kuřecí kousky a zasypat třemi lžičkami masaly a na pánvi pořádně promíchat. Zalít smetanou a nechat vařit na slabším plameni. Mezitím nechat udělat rýži. Papriku nakrájet na větší čtverečky a přidat do omáčky, není nutné ji rozvařit, měla by zůstat křupavá.
+
+![Nepálivá Garam masala kuře](images/kure_garam_masala.jpeg)
 
 ## Pizza
 
@@ -377,7 +413,7 @@ Uvedené suroviny se hodí na 2 porce. Smetanu nalít do hrnce s tlustými stěn
 
 ![Sýrová omáčka s noky a kuřecím masem](images/syrova_omacka.jpeg)
 
-## Špagety Carbonara
+## Špagety Carbonara <span id="spagety-carbonara"></span>
 
 * Půl paličky česneku
 * 10 dkg slaniny
@@ -388,6 +424,20 @@ Uvedené suroviny se hodí na 2 porce. Smetanu nalít do hrnce s tlustými stěn
 * sůl, pepř, muškátový oříšek
 
 Dát vařit vodu na špagety a pořádně osolit. Jakmile voda vře, přidat špagety. Slaninu a česnek nakrájet na kostičky, slaninu dát smažit na pánev. Nastrouhat parmazán a v misce ho rozmíchat s vejcem a šlehačkou. Dochutit pepřem a přistrouhat k tomu trochu muškátového ořechu. Pár minut před tím, než budou špagety přídat ke slanině česnek s dostatkem oleje, aby se nepřipálil. Špagety po slití přidat na pánev ke slanině a česneku, pořádně promísit a poté celou pánev odebrat z plamene. Přilít směs smetany, vejce a ostatního do špaget a pořádně promíchat.
+
+## Špagety Ross <span id="spagety-rosso></span>
+
+Pesto Rosso
+
+* 1 hrnek sušených rajčat
+* 1 hrnek olivového oleje
+* 1/3 hrnku mandlí (nepražené, nesolené)
+* 1 lžíce rozmarýnu
+* sůl, pepř, bazalka, oregano podle chuti
+
+Přísady na pesto rozmixovat dohromady. Udělat špagety a osmažit slaninu. Vše smíchat dohromady. Servírovat s parmazánem a listem bazalky nebo listem čerstvého špenátu.
+
+![Špagety Rosso](images/spagety_rosso.jpeg)
 
 ## Tagliatelle s lososem
 
@@ -436,7 +486,7 @@ https://bozka.cz/marinana-maso-7-skvelych-receptu-vyzkousejte-taky/
 
 Promíchat přísady dohromady, naklepané, osolené a opepřené maso naložit do směsi a nechat uležet (ideálně dva dny).
 
-# Pivní marináda <span id="pivni-marinada"></span>
+## Pivní marináda <span id="pivni-marinada"></span>
 
 * 150 ml piva
 * 3 lžíce kečupu
@@ -447,6 +497,14 @@ Promíchat přísady dohromady, naklepané, osolené a opepřené maso naložit 
 * 2 stroužky česneku (nakrájený na drobno)
 * 1 lžička cukru
 * tymián, rozmarýn, sůl, pepř
+
+## Bylinková marináda na kuřecí prsa <span id="bylinkova-marinada"></span>
+
+* olivový olej
+* čerstvá bazalka
+* čerstvá bazalka
+* 2 stroužky česneku
+* sůl, pepř
 
 # Dezerty
 
@@ -483,6 +541,30 @@ Na vodní lázni rozpustit máslo a v něm čokoládu. Vejce šlehat, dokud se n
 Pečící formu vyložit pečícím papírem, vlít těsto a dát péct aspoň na 30 minut na 180°C.
 
 ![Brownies](images/brownies.jpeg)
+
+## Kinder řez <span id="kinder-rez"></span>
+
+Těsto
+
+* 6 vajec
+* 8 lžic cukru krystal
+* 4 lžíce kakaa
+* 2 lžíce oleje
+* 10 lžic polohrubé mouky
+* 1 lžička prášku do pečiva
+
+Náplň
+
+* 250 g tuhého tvarohu
+* 250 g zakysané smetany
+* 1 vanilkový cukr
+* 5 lžic medu
+
+Žloutky rozmixovat s cukrem. Přilít olej, mouku a kypřák a dále promixovat (hmota bude tuhá). Z bílků vyšlehat sníh a stěrkou ho promíchat s těstem. Hotové těsto rozlít na tenko na dva plechy a dát péct na 190°C na 10 minut.
+
+Přísady na náplň rozmixovat dohromady, potřít tím jeden udělaný plát těsta a přiklopit tím druhým. Pak je možné to polít čokoládovou polevou nebo jenom posypat kakaem.
+
+![Kinder řezy](images/kinder_rezy.jpeg)
 
 ## Krtkův dort <span id="krtkuv-dort"></span>
 
@@ -561,7 +643,7 @@ Ozdobení
 
 Rozmixovat olej, vejce a cukr. Přilít mléko a za stálého mixování přisypávat mouku smíšenou s kypřícím práškem. Nalít do vysypané koláčové formy a péct na 200°C 40 minut. Hotový korpus vydlabat jako na krtkův dort. Vydlabaný prostor natřít vrstvou marmelády a naskládat tam kousky ovoce. Udělat želatinu a zalít ovoce želatinou a nechat vytuhnout v lednici.
 
-![Ovocný koláč](ovocny_kolac.jpeg)
+![Ovocný koláč](images/ovocny_kolac.jpeg)
 
 # Ostatní
 
@@ -582,3 +664,20 @@ Z těsta vypracovat bochánky (z dávky jde udělat 7-8 menších nebo tak 4 vě
 > TIP: Po upečení nechat briošky chvíli chladnout, pak je zabalit do igelitového sáčku a nechat přes noc odležet. Druhý den budou pěkně měkké.
 
 ![Briošky](images/briosky.jpeg)
+
+## Chleba
+
+* 1/4 kg pšeničné hladké mouky
+* 1/4 kg žitné mouky
+* 1 lžička celého kmínu
+* 2 lžičky soli
+* 1 lžíce octa
+* 1/4 l vody
+* skoro celá kostka kvasnic (42g)
+* trocha mléka
+
+Do hrnku dát trochu mléka, lehce nahřát, přidat 1/2 lžičky cukru, rozdrobit kvasnice a poprášit moukou.
+
+Mezitím do mísy dát ostatní suroviny. Když je hrneček plný kvásku, tak ho přidat do mísy a ze všech surovin vypracovat těsto.
+
+Těsto nechat v míse kynout přikryté utěrkou. Péct na 175°C asi tři čtvrtě hodiny, průběžně párkrát pomazat povrch chlebu vodou.
