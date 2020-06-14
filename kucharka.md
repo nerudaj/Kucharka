@@ -1,29 +1,29 @@
 # Obsah
 
- * Polévky
-	* [Špenátový krém s noky](#spenatovy-krem-s-noky)
  * Saláty
 	* [Krabí salát](#krabi-salat)
 	* [Těstovinový salát](#testovinovy-salat)
  * Hlavní jídla
-	* [Buřtguláš](#buřtguláš)
-	* [Čínské nudle](#čínské-nudle)
-	* [Filé po italsku](#filé-po-italsku)
+	* [Buřtguláš](#burtgulas)
+	* [Čínské nudle](#cinske-nudle)
+	* [Filé po italsku](#file-po-italsku)
 	* [Gyros s pitou](#gyros-s-pitou)
-	* [Hermelínový šáteček](#hermelínový-šáteček)
+	* [Hermelínový šáteček](#hermelinovy-satecek)
 	* [Cheeseburger](#cheeseburger)
+	* [Koprovka](#koprovka)
 	* [Krevetové rizoto](#krevetove-rizoto)
 	* [Kuře na paprice](#kure-na-paprice)
 	* [Kuskus s kuřecími nugetky](#kuskus-s-kurecimi-nugetky)
 	* [Naked burger](#naked-burger)
 	* [Nepálivá Garam masala kuře](#nepalive-indicke-kure)
 	* [Pizza](#pizza)
-	* [Rajská omáčka s karlovarským knedlíkem](#rajská-omáčka-s-karlovarským-knedlíkem)
-	* [Sekaná s olivami](#sekaná-s-olivami)
+	* [Rajská omáčka s karlovarským knedlíkem](#rajska-omacka-s-karlovarskym-knedlikem)
+	* [Sekaná s olivami](#sekana-s-olivami)
 	* [Slaný závin](#slany-zavin)
-	* [Sýrová omáčka](#sýrová-omáčka)
+	* [Sýrová omáčka](#syrova-omacka)
 	* [Špagety Carbonara](#spagety-carbonara)
 	* [Špagety Rosso](#spagety-rosso)
+	* [Špenátový krém s noky](#spenatovy-krem-s-noky)
 	* [Tagliatelle s lososem](#tagliatelle-s-lososem)
 	* [Utopenci](#utopenci)
  * Marinády
@@ -41,37 +41,6 @@
  * Ostatní
 	* [Briošky](#briosky)
 	* [Chleba](#chleba)
-
-# Polévky
-
-## Špenátový krém s noky <span id="spenatovy-krem-s-noky"></span>
-
-Polévka
-
-* 1 balíček špenátového protlaku (neochuceného)
-* 300 ml smetany
-* 150 ml vody
-* 1 malá cibule
-* 1 stroužek česneku
-* sůl, pepř, muškátový ořech
-
-Noky
-
-* 2 vejce
-* 4 lžíce mléka
-* 4 lžíce polohrubé mouky
-* 6 lžic hrubé mouky
-* sůl
-
-Vypracovat těsto na noky a nechat odležet. Cibuli a česnek nakrájet na kostičky. Špenátový protlak nalít do hrnce, přilít vodu a dát vařit. Osmahnout cibulku do zlatova a poté k ní dát na chvilku osmahnout česnek.
-
-Česnek s cibulkou přidat k vařícímu se protlaku. Osolit, opepřit. Stáhnout plamen a přilít smetanu, nechat probublávat na slabém plameni. Přistrouhat špetku muškátového ořechu.
-
-Noky vykrajované čajovou lžičkou dát do polévky a nechat vše vařit na slabém plameni cca 20 minut.
-
-> TIP: Dá se ozdobit parmazánem.
-
-![Špenátový krém s noky](images/spenatovy_krem.jpeg)
 
 # Saláty
 
@@ -107,7 +76,7 @@ Eidam nastrouhat, rajčata, mozzarelu a prsty nakrájet na kostičky.
 
 # Hlavní jídla
 
-## Buřtguláš
+## Buřtguláš <span id="burtgulas"></span>
 
 * cca 1-2 litry vody (přidat/vyvařit dle potřeby)
 * 5 větších brambor, 2 malé
@@ -121,7 +90,7 @@ Cibuli, špekáčky a větší brambory nakrájet na kostky (cibuli na malé kos
 
 > TIP: Nejlépe guláš chutná poté, co se nechá přes noc odležet v chladu.
 
-## Čínské nudle
+## Čínské nudle <span id="cinske-nudle"></span>
 
 * kousky masa (vepřové, kuřecí)
 * klíčky
@@ -137,7 +106,7 @@ Cibuli, špekáčky a větší brambory nakrájet na kostky (cibuli na malé kos
 
 Osmahnout kousky masa a oddělat z pánve. Nudle dát na 30 minut odmočit do teplé vody. Zeleninu (mrkev, cibule, paprika, zelí) nakrájet na nudličky a osmahnout na pánvi, ale tak aby zůstalo vše křupavé. Přidat maso, nudle a vodu (ne moc). Ochutit kořením, sójovkou a UME octem, solí dle chuti. Jakmile jsou nudle hotové, sundat z plotny a přimíchat klíčky.
 
-## Filé po italsku
+## Filé po italsku <span id="file-po-italsku"></span>
 
 * filé z bílého rybího masa (například okoun)
 * 10 cherry rajčat
@@ -188,7 +157,7 @@ Namarinované maso dát na rozpálenou pánev a za pravidelného míchání nech
 
 ![Gyros s pitou](images/gyros_s_pitou.jpeg)
 
-## Hermelínový šáteček
+## Hermelínový šáteček <span id="hermelinovy-satecek"></span>
 
 * Listové těsto (125g na porci)
 * Hermelín (per porce)
@@ -220,6 +189,20 @@ Burger adjustovat v pořadí - houska, dip, salát, maso, cheddar, okurky, rajč
 > TIP: Pokud se maso smaží, je dobré vytvarovat placičky do tvaru sopky (vysoké okraje, nízký prostředek). Maso se pak nezdeformuje.
 
 ![Cheeseburger](images/cheeseburger.jpeg)
+
+## Koprovka
+
+* máslo, mouka (jíška)
+* mléko
+* smetana
+* voda
+* sůl, pepř, cukr, ocet, kopr
+
+V hrnci udělat jíšku (osmažená mouka na rozpuštěném másle), potom přidat vodu. Dobře rozmíchat, ať nevzniknou hrudky, přidat mléko a smetanu, osolit, opepřit, povařit a nechat zhoustnout, ochutit octem a cukrem. Na konci, mimo plamen přidat najemno nakrájený kopr.
+
+Servírovat ideálně s karlovarským knedlíkem a vejcem natvrdo.
+
+![Koprovka](images/koprovka.jpeg)
 
 ## Krevetové rizoto <span id="krevetove-rizoto"></span>
 
@@ -326,7 +309,7 @@ Těsto rozdělit na třetiny - každá třetina se dá rozválet na kulatý plec
 
 ![Pizza](images/pizza.jpeg)
 
-## Rajská omáčka s karlovarským knedlíkem
+## Rajská omáčka s karlovarským knedlíkem <span id="rajska-omacka-s-karlovarskym-knedlikem"></span>
 
 * 250g masa na dvě porce
 
@@ -400,7 +383,7 @@ Vypracovat ze surovin těsto, rozdělit na dvě půlky a z každé vyválet plá
 
 ![Slaný závin](images/slany_zavin.jpeg)
 
-## Sýrová omáčka
+## Sýrová omáčka <span id="syrova-omacka"></span>
 
 * 300 ml smetany na vaření
 * 100 g eidamu
@@ -425,7 +408,7 @@ Uvedené suroviny se hodí na 2 porce. Smetanu nalít do hrnce s tlustými stěn
 
 Dát vařit vodu na špagety a pořádně osolit. Jakmile voda vře, přidat špagety. Slaninu a česnek nakrájet na kostičky, slaninu dát smažit na pánev. Nastrouhat parmazán a v misce ho rozmíchat s vejcem a šlehačkou. Dochutit pepřem a přistrouhat k tomu trochu muškátového ořechu. Pár minut před tím, než budou špagety přídat ke slanině česnek s dostatkem oleje, aby se nepřipálil. Špagety po slití přidat na pánev ke slanině a česneku, pořádně promísit a poté celou pánev odebrat z plamene. Přilít směs smetany, vejce a ostatního do špaget a pořádně promíchat.
 
-## Špagety Ross <span id="spagety-rosso></span>
+## Špagety Rosso <span id="spagety-rosso"></span>
 
 Pesto Rosso
 
@@ -438,6 +421,37 @@ Pesto Rosso
 Přísady na pesto rozmixovat dohromady. Udělat špagety a osmažit slaninu. Vše smíchat dohromady. Servírovat s parmazánem a listem bazalky nebo listem čerstvého špenátu.
 
 ![Špagety Rosso](images/spagety_rosso.jpeg)
+
+## Špenátový krém s noky <span id="spenatovy-krem-s-noky"></span>
+
+Polévka
+
+* 1 balíček špenátového protlaku (neochuceného)
+* 300 ml smetany
+* 1 malá cibule
+* 1 stroužek česneku
+* pár plátků slaniny
+* sůl, pepř, muškátový ořech
+
+Noky
+
+* 2 vejce
+* 4 lžíce mléka
+* 4 lžíce polohrubé mouky
+* 6 lžic hrubé mouky
+* sůl
+
+Vypracovat těsto na noky a nechat odležet. Cibuli a česnek nakrájet na kostičky. Špenátový protlak nalít do hrnce a dát vařit. Osmahnout cibulku do zlatova a poté k ní dát na chvilku osmahnout česnek se slaninou.
+
+Česnek s cibulkou přidat k vařícímu se protlaku. Osolit, opepřit. Stáhnout plamen a přilít smetanu, nechat probublávat na slabém plameni. Přistrouhat špetku muškátového ořechu.
+
+Noky vykrajované čajovou lžičkou dát do polévky a nechat vše vařit na slabém plameni cca 20 minut.
+
+K jídlu se hodí vejce na tvrdo.
+
+> TIP: Dá se ozdobit parmazánem.
+
+![Špenátový krém s noky](images/spenatovy_krem.jpeg)
 
 ## Tagliatelle s lososem
 
