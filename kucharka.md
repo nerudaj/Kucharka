@@ -19,6 +19,7 @@
 	* [Pizza](#pizza)
 	* [Rajská omáčka s karlovarským knedlíkem](#rajska-omacka-s-karlovarskym-knedlikem)
 	* [Sekaná s olivami](#sekana-s-olivami)
+	* [Slaný řecký koláč](#slany-recky-kolac)
 	* [Slaný závin](#slany-zavin)
 	* [Sýrová omáčka](#syrova-omacka)
 	* [Špagety Carbonara](#spagety-carbonara)
@@ -352,6 +353,21 @@ Cibuli, česnek a petržel nakrájet na co nejmenší částice a spolu s ostatn
 
 ![Sekaná s olivami](images/sekana.jpeg)
 
+## Slaný řecký koláč <span id="slany-recky-kolac"></span>
+
+ * 250 g listového těsta
+ * 250 ml smetany na vaření
+ * parmezán, balkánský sýr
+ * 2 vejce
+ * parmská šunka
+ * jarní cibulka
+ * cherry rajčata
+ * oregano, pepř, muškátový ořech
+
+Těsto vyválet a vyložit jím koláčovou formu. Sýry nastrouhat a smíchat se smetanou a vejci, přidat koření. Na těsto položit šunku, pak zalít směsí smetany a sýrů a na vrch položit na délku nakrájenou cibulku a kousky cherry rajčat. Péct na 200°C asi 20 minut.
+
+![Řecký slaný koláč](images/recky_kolac.jpeg)
+ 
 ## Slaný závin <span id="slany-zavin"></span>
 
 Těsto (alternativně použít normální listové)
