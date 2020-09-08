@@ -6,6 +6,7 @@
  * Hlavní jídla
 	* [Buřtguláš](#burtgulas)
 	* [Čínské nudle](#cinske-nudle)
+	* [Fazole a klobása](#fazole-klobasa)
 	* [Filé po italsku](#file-po-italsku)
 	* [Gyros s pitou](#gyros-s-pitou)
 	* [Hermelínový šáteček](#hermelinovy-satecek)
@@ -30,9 +31,11 @@
 	* [Kečupová marináda](#kecupova-marinada)
 	* [Pivní marináda](#pivni-marinada)
 	* [Bylinková marináda na kuřecí prsa](#bylinkova-marinada)
+	* [Kari marináda na kuře](#kari-marinada)
  * Dipy
 	* [Bylinkový dip](#bylinkovy-dip)
 	* [Česnekový dip](#cesnekovy-dip)
+	* [Kari dip](#kari-dip)
  * Dezerty
 	* [Belgické vafle](#belgicke-vafle)
 	* [Brownies](#brownies)
@@ -109,6 +112,16 @@ Cibuli, špekáčky a větší brambory nakrájet na kostky (cibuli na malé kos
 * UME ocet dle chuti
 
 Osmahnout kousky masa a oddělat z pánve. Nudle dát na 30 minut odmočit do teplé vody. Zeleninu (mrkev, cibule, paprika, zelí) nakrájet na nudličky a osmahnout na pánvi, ale tak aby zůstalo vše křupavé. Přidat maso, nudle a vodu (ne moc). Ochutit kořením, sójovkou a UME octem, solí dle chuti. Jakmile jsou nudle hotové, sundat z plotny a přimíchat klíčky.
+
+## Fazole a klobása <span id="fazole-klobasa"></span>
+
+* klobása
+* 250 ml rajčatového protlaku
+* plechovka propláchnutých bílých fazolí
+* trocha bílého vína
+* cibule, česnek, tymián, rozmarýn
+
+Cibuli, česnek a klobásu nakrájet na kostičky a dát osmahnout. Přilít protlak, trochu vína a koření. Po další chvíli přidat fazole a ještě chvilku nechat na mírném plameni probublat.
 
 ## Filé po italsku <span id="file-po-italsku"></span>
 
@@ -524,6 +537,15 @@ Promíchat přísady dohromady, naklepané, osolené a opepřené maso naložit 
 * 2 stroužky česneku
 * sůl, pepř
 
+## Kari dip na kuře <span id="kari-marinada"></span>
+
+* 1 nastrouhaný čerstvý zázvor
+* 1 žloutek
+* 4 lžíce oleje
+* lžička medu
+* 2 lžičky kari
+* sůl, pepř
+
 # Dipy
 
 ## Bylinkový dip <span id="bylinkovy-dip"></span>
@@ -538,7 +560,22 @@ Bílý jogurt s majonézou smíchat v poměru 2:1. Přidat cca lžíci provensá
 
 ## Česnekový dip <span id="cesnekovy-dip"></span>
 
-*
+* 2 stroužky česneku
+* 3 lžíce zakysané smetany
+* lžíce nasekané petržele
+* sůl, pepř
+
+Česnek nastrouhat, smíchat se zbytkem, vychladit.
+
+## Kari dip
+
+* majonéza
+* bílý jogurt
+* kari
+* sůl
+* cukr
+
+Majonéza vůči jogurtu v poměru 1:2. Špetka soli a špetka cukru. Kari dle chuti. Vychladit v lednici.
 
 # Dezerty
 
