@@ -13,6 +13,7 @@
 	* [Cheeseburger](#cheeseburger)
 	* [Koprovka](#koprovka)
 	* [Krevetové rizoto](#krevetove-rizoto)
+	* [Kuře na červeno](#kure-na-cerveno)
 	* [Kuře na paprice](#kure-na-paprice)
 	* [Kuskus s kuřecími nugetky](#kuskus-s-kurecimi-nugetky)
 	* [Naked burger](#naked-burger)
@@ -20,6 +21,7 @@
 	* [Pizza](#pizza)
 	* [Rajská omáčka s karlovarským knedlíkem](#rajska-omacka-s-karlovarskym-knedlikem)
 	* [Sekaná s olivami](#sekana-s-olivami)
+	* [Slaný řecký koláč](#slany-recky-kolac)
 	* [Slaný závin](#slany-zavin)
 	* [Sýrová omáčka](#syrova-omacka)
 	* [Špagety Carbonara](#spagety-carbonara)
@@ -244,6 +246,21 @@ Kuřecí kousky opepřit, osolit a velice rychle osmahnout na oleji. Poté i s o
 
 ![Kuře na paprice](images/kure_na_paprice.jpeg)
 
+## Kuře na červeno <span id="kure-na-cerveno"></span>
+
+ * 300 g kuřecích kousků
+ * 2 lžíce octa
+ * 3-4 lžíce sójové omáčky
+ * 3 1/2 lžičky krupicového cukru
+ * 1 lžička zázvoru
+ * 1/2 lžičky soli
+ * cca 3/4 l vody
+ * 5 lžic oleje na smažení
+
+Olej a kuřecí kousky dát do kastrolu. Smažit na prudkém ohni několik minut. Případnou vodu z kuřete nechat vysmažit (mělo by zbýt jen trocha omastku). Přilít ocet a nechat vysmažit. Přilít vodu (tak aby maso bylo ponořené) a 10 minut vařit na prudkém ohni. Potom přidat zbylé přísady a nechat dusit, dokud se většina vody nevyvaří (dusit asi 10 minut, pak poklici odstranit a nechat vyvářet).
+
+![Kuře na červeno](images/kure_nacerveno.jpeg)
+
 ## Kuskus s kuřecími nugetky <span id="kuskus-s-kurecimi-nugetky"></span>
 
 * 500g kuřecích prs
@@ -369,6 +386,21 @@ Cibuli, česnek a petržel nakrájet na co nejmenší částice a spolu s ostatn
 
 ![Sekaná s olivami](images/sekana.jpeg)
 
+## Slaný řecký koláč <span id="slany-recky-kolac"></span>
+
+ * 250 g listového těsta
+ * 250 ml smetany na vaření
+ * parmezán, balkánský sýr
+ * 2 vejce
+ * parmská šunka
+ * jarní cibulka
+ * cherry rajčata
+ * oregano, pepř, muškátový ořech
+
+Těsto vyválet a vyložit jím koláčovou formu. Sýry nastrouhat a smíchat se smetanou a vejci, přidat koření. Na těsto položit šunku, pak zalít směsí smetany a sýrů a na vrch položit na délku nakrájenou cibulku a kousky cherry rajčat. Péct na 200°C asi 20 minut.
+
+![Řecký slaný koláč](images/recky_kolac.jpeg)
+ 
 ## Slaný závin <span id="slany-zavin"></span>
 
 Těsto (alternativně použít normální listové)
