@@ -45,6 +45,7 @@
 	* [Krtkův dort](#krtkuv-dort)
 	* [Medovník](#medovník)
 	* [Mramorové řezy](#mramorove-rezy)
+	* [Muffiny](#muffiny)
 	* [Ovocný koláč](#ovocny-kolac)
  * Ostatní
 	* [Briošky](#briosky)
@@ -206,6 +207,8 @@ Pořádně promísit maso s kořením a vypracovat placičky. Nechat odležet v 
 Burger adjustovat v pořadí - houska, dip, salát, maso, cheddar, okurky, rajče, dip, house.
 
 > TIP: Pokud se maso smaží, je dobré vytvarovat placičky do tvaru sopky (vysoké okraje, nízký prostředek). Maso se pak nezdeformuje.
+
+> Alternativní složení: čtvrtka červené cibule, kečup, žloutek, pepř, sůl.
 
 ![Cheeseburger](images/cheeseburger.jpeg)
 
@@ -400,7 +403,7 @@ Cibuli, česnek a petržel nakrájet na co nejmenší částice a spolu s ostatn
 Těsto vyválet a vyložit jím koláčovou formu. Sýry nastrouhat a smíchat se smetanou a vejci, přidat koření. Na těsto položit šunku, pak zalít směsí smetany a sýrů a na vrch položit na délku nakrájenou cibulku a kousky cherry rajčat. Péct na 200°C asi 20 minut.
 
 ![Řecký slaný koláč](images/recky_kolac.jpeg)
- 
+
 ## Slaný závin <span id="slany-zavin"></span>
 
 Těsto (alternativně použít normální listové)
@@ -447,15 +450,21 @@ Uvedené suroviny se hodí na 2 porce. Smetanu nalít do hrnce s tlustými stěn
 
 ## Špagety Carbonara <span id="spagety-carbonara"></span>
 
-* Půl paličky česneku
-* 10 dkg slaniny
-* 300g špaget
-* 2 vejce
-* smetana na šlehání
-* parmazán
-* sůl, pepř, muškátový oříšek
+* 100g velkých špaget na osobu
+* 50g guancinalle/pancetty na osobu
+* 1 vejce na osobu + 1 extra vejce
+* 25g pecorino gratino na osobu
+* pepř, sůl, čerstvá bazalka
 
-Dát vařit vodu na špagety a pořádně osolit. Jakmile voda vře, přidat špagety. Slaninu a česnek nakrájet na kostičky, slaninu dát smažit na pánev. Nastrouhat parmazán a v misce ho rozmíchat s vejcem a šlehačkou. Dochutit pepřem a přistrouhat k tomu trochu muškátového ořechu. Pár minut před tím, než budou špagety přídat ke slanině česnek s dostatkem oleje, aby se nepřipálil. Špagety po slití přidat na pánev ke slanině a česneku, pořádně promísit a poté celou pánev odebrat z plamene. Přilít směs smetany, vejce a ostatního do špaget a pořádně promíchat.
+Guancinale/pancetu nakrájet na nudličky (nutné mít v nudličkách jak maso, tak i tuk). Dát na pánev (bez oleje) a pánev zapnout na střední plamen. Dát vařit vodu na špagety.
+
+Vejce rozklepnout do misky a rozmíchat. Přisypat pecorino, opepřit a opět promíchat.
+
+Jakmile jsou špagety al dente, vypnout pánev s guancinalle a přendat špagety do pánve (vodu nevylívat). Jednu naběračku vody ze špaget přilít do misky s vejci a pečlivě promíchat. Další jednu naběračku přidat do špaget, promíchat a zapnout pánev na velice slabý plamen.
+
+Přilít vejce z misky do špaget a pořádně míchat, klidně i pár minut. Poté možno servírovat a ozdobit bazalkou.
+
+![Carbonara](images/carbonara.jpeg)
 
 ## Špagety Rosso <span id="spagety-rosso"></span>
 
@@ -723,6 +732,27 @@ Náplň
 Přísady na těsto nejprve promíchat lžicí a pak promixovat. V jiné nádobě vypracovat náplň stejným způsobem. Do vymazané pečící nádoby nalít nerovnoměrně obě těsta a vidličkou zhlekha promíchat. Péct 20-30 minut na 200°C.
 
 ![Mramorové řezy](images/mramorove-rezy.jpeg)
+
+## Muffiny
+
+* 2 vejce
+* 220g polohrubé mouky
+* 2 lžičky prášku do pečiva
+* 100g čokolády na vaření (nasekané na malé kousky)
+* 2 lžíce kakaa
+* 170ml kefíru
+* 130ml oleje
+* 100g cukru
+
+Ozdobení
+
+* 24 malin
+* šlehačka
+* ztužovač na šlehačku
+
+Promixovat všechny suroviny dohromady a nalít do forem na muffiny (doprostřed zatlačit po jedné malině) a dá péct do předpečené trouby na 20 minut na 180°C. Po vychladnutí promixovat šlehačku, ztužovač a lžičku cukru a odzdobit muffiny. Na vršek umístit zbývající maliny.
+
+![Muffiny](images/muffiny.jpeg)
 
 ## Ovocný koláč <span id="ovocny-kolac"></span>
 
