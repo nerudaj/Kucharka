@@ -47,6 +47,9 @@
 	* [Mramorové řezy](#mramorove-rezy)
 	* [Muffiny](#muffiny)
 	* [Ovocný koláč](#ovocny-kolac)
+ * Cukroví
+	* [Kakaovokávové koule](#kakaovokavove-koule)
+	* [Octové cukroví](#octove-cukrovi)
  * Ostatní
 	* [Briošky](#briosky)
 	* [Chleba](#chleba)
@@ -777,6 +780,41 @@ Ozdobení
 Rozmixovat olej, vejce a cukr. Přilít mléko a za stálého mixování přisypávat mouku smíšenou s kypřícím práškem. Nalít do vysypané koláčové formy a péct na 200°C 40 minut. Hotový korpus vydlabat jako na krtkův dort. Vydlabaný prostor natřít vrstvou marmelády a naskládat tam kousky ovoce. Udělat želatinu a zalít ovoce želatinou a nechat vytuhnout v lednici.
 
 ![Ovocný koláč](images/ovocny_kolac.jpeg)
+
+# Cukroví
+
+## Kakaovokávové koule <span id="kakaovokavove-koule"></span>
+
+* 16 dkg mletých piškotů
+* 16 dkg mletých ořechů
+* 20 dkg cukru
+* 2 dkg másla
+* 2 lžíce kakaa
+* 2 lžíce rumu
+* 3 lžíce kávy zalité na turka (2/3 hrnku)
+* 2 balení vanilkového cukru
+
+Všechny přísady smíchat - kafe tam nalít aji s lógrem. Nechat chvilku v chladu odležet a poté vykrajovat malé kousky, vyválet kuličku a obalit ji v nastrouhaném kokosu.
+
+## Octové cukroví <span id="octove-cukrovi"></span>
+
+Těsto
+
+* 250g hladké mouky
+* 250g hery (1 balení)
+* 2 žloutky
+* 2 lžíce vody
+* 2 lžíce octa
+* špetka soli
+
+Obalení
+
+* 1 vanilkový lusk/1 balení vanilkového cukru
+* moučkový cukr
+
+Heru nastrouhat (neroztápět!) smíchat s prosetou moukou a ostatními přísadami a pečlivě vypracovat těsto. Nechat odležet v lednici přes noc.
+
+Těsto vyválet na výšku cca 2mm, vykrájet tvary a dát na pečící papír na 8 minut do trouby předehřáté na 180°C. Následně ještě za tepla obalit v cukru, který je ovoněný vanilkou a dát odležet do chladu.
 
 # Ostatní
 
