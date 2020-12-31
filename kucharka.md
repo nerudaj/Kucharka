@@ -54,6 +54,7 @@
 	* [Briošky](#briosky)
 	* [Chleba](#chleba)
 	* [Pivo](#pivo)
+	* [Žitný chleba](#zitny-chleba)
 
 # Saláty
 
@@ -881,3 +882,27 @@ Nechat ležet v temném prostředí 2-4 týdny při teplotě cca 12°C.
 > EPM: Do odebraného vzorku ponořit hustoměr a provést odečet. Vzorek vylít/vypít. EPM je údaj o hustotě sladového extraktu ve vodě.
 
 > Specifická hustota = (Plato * 4 + 1000) / 1000 = Original Gravity (OG)
+
+## Žitný chleba <span id="zitny-chleba"></span>
+
+Rozkvas
+
+* 250 g žitné mouky
+* 250 g vlažné vody
+* žitný kvásek
+
+Těsto
+
+* Rozkvas
+* 500 g hladké mouky (žitná, pšeničná, špaldová, kombinace)
+* 4 lžičky soli
+* semínka (slunečnice, mák, ...)
+* 400 ml vlažné (převařené vody)
+
+Smíchat přísady na rozvas a nechat v hermeticky izolované nádobě v pokojové teplotě ležet 12 hodin (ideálně přes noc).
+
+Poté rozkvas smíchat se zbývajícími přísadami na těsto a nalít do máslem vymazané pečící formy. Pod utěrkou nechat v pokojové teplotě kynout další 2-3 hodiny.
+
+Péct v předehřáté troubě na 230°C 10 minut ze všech stran, poté přepnout na spodní ohřev + horkovzduch a péct dalších 30-35 minut na 200°C.
+
+![Žitný chleba](images/zitny_chleba.jpeg)
