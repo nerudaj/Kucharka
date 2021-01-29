@@ -710,7 +710,34 @@ Od kraje si nechat odstup 1,5 cm a vydlabat prostředek, ale dno těsta musí z�
 
 ## Medovník
 
-TODO
+Korpus
+
+* 250 g hery (1 balení)
+* 3 vejce
+* 6 lžic tmavého medu
+* 250 g krupicového cukru
+* 400 g hladké mouky
+* 1 lžičku jedlé sody
+* hrst vlašských ořechů na ozdobení
+
+Krém
+
+* 1 konzerva mléčného karamelu (salko)
+* 300 g másla
+
+Ve vodní lázni rozpustit heru. Po rozpuštění odebrat z lázně, přidat vejce, med, cukr, mouku a jedlou sodu. Vytáhnout na linku máslo na krém a nechat ho v pokojové teplotě povolit.
+
+Dát rozehřát troubu na 150°C. Hnětacími metlami (tvar spirály) vypracovat těsto. Na plech dát pečící papír a na plochu, ze které se korpus bude vykrajovat, natřít stěrkou/kulatým nožem těsto do velice tenké vrstvy, spíš takového tenkého filmu. Oblast pro vykrojení přesáhnout o nějaký ten centimetr.
+
+Nechat péct cca 7-10 minut, těsto naskočí a zhnědne. Čím tenčí je film, tím lépe se udělá vevnitř a tím lépe půjde sloupnout z pečícího papíru.
+
+> **POZOR:** Těsto se velice lepí i po vyndání z trouby a je křehké. Je nutné ho dát někam vychladnout, někam, kde se nepřilepí a někam, kde je místo pro dalších cca 8 plátů!
+
+Vychladlé placky okrájet podle nějaké formy na stejnou velikost. Přebytečné odřezky dát spolu s ořechy do mixéru a rozmixovat na posypku.
+
+Smíchat máslo a salko a šlehačem vypracovat krém. Kulatým nožem následně rozetřít krém na první plát, přiklopit a proces opakovat, dokud nejsou pláty všechny na sobě. Následně krémem natřít i vršek a boky. Na tento krém se nasype a udusá posypka.
+
+Medovník nechat aspoň dva dny odležet v chladu, aby se krém propojil s těstem. V lednici vydrží i týden.
 
 ![Medovník](images/medovnik.jpeg)
 
