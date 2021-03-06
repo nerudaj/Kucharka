@@ -18,7 +18,8 @@
 	* [Kuskus s kuřecími nugetky](#kuskus-s-kurecimi-nugetky)
 	* [Naked burger](#naked-burger)
 	* [Nepálivá Garam masala kuře](#nepalive-indicke-kure)
-	* [Pizza](#pizza)
+	* [Pizza Bianca](#pizza-bianca)
+	* [Quesadilla](#quesadilla)
 	* [Rajská omáčka s karlovarským knedlíkem](#rajska-omacka-s-karlovarskym-knedlikem)
 	* [Sekaná s olivami](#sekana-s-olivami)
 	* [Slaný řecký koláč](#slany-recky-kolac)
@@ -325,7 +326,7 @@ Koření, které je v celku zlehka opražit na pánvi, až se rozvoní. Přesypa
 
 ![Nepálivá Garam masala kuře](images/kure_garam_masala.jpeg)
 
-## Pizza
+## Pizza Bianca
 
 Těsto
 
@@ -349,6 +350,23 @@ Těsto rozdělit na třetiny - každá třetina se dá rozválet na kulatý plec
 > 7.5 sacharidových jednotek na pizzu.
 
 ![Pizza](images/pizza.jpeg)
+
+## Quesadilla
+
+* 6 tortil (průměr dle toustovače)
+* 400 g kuřecích prs
+* 200 g cheddaru
+* 200 g 30% eidamu
+* 1 velká cibule
+* 2-3 lžíce kořenící směsi (50% paprika, 25% oregano, 10% sušený česnek, sůl, pepř, chilli)
+
+Prsa nahrájet na kostičky, cibuli nahrubo. Sýry nastrouhat nahrubo a smíchat je v čisté misce. Na rozpálenou pánev dát lehce osolené maso, cibuli, kořenící směs a osmažit tak, aby se maso udělalo. Dát nahřát toustovač.
+
+Tortilu si přeložit napůl, položit do toustovače, na jednu půlku dát 1/6 směsi z pánve, zasypat trochou sýra (ideálně koncentrovat sýr u středu), přiklopit volnou půlkou tortilly a zaklapnout toustovač. Pokud se používá plotna s trojúhelníky, pak střed tortilly by měl být orientován na stranu, kde se sbíhají špičky trojúhelníků. Toustovač jídlo nejen zapeče, ale rovnou i naporcuje. Vyndaváme ve chvíli, kdy se sýr rozpustí a začne vytékat otevřenou stranou tortilly ven.
+
+> Místo Eidamu recepty uvádějí tučnější sýry jako Blaťácké zlato. Nicméně masová směs se smaží na oleji a cheddar je taky velice tučný, takže další tučný sýr může způsobit, že z toho člověku bude akorát bude blbě. Stejně tak se nedoporučuje posypávat hotovou Quesadillu sýrem, jako je na obrázku, ze stejného důvodu.
+
+![Quesadilla](images/quesadilla.jpeg)
 
 ## Rajská omáčka s karlovarským knedlíkem <span id="rajska-omacka-s-karlovarskym-knedlikem"></span>
 
