@@ -53,7 +53,6 @@
 	* [Octové cukroví](#octove-cukrovi)
  * Ostatní
 	* [Briošky](#briosky)
-	* [Chleba](#chleba)
 	* [Pivo](#pivo)
 	* [Žitný chleba](#zitny-chleba)
 
@@ -787,7 +786,6 @@ Přísady na těsto nejprve promíchat lžicí a pak promixovat. V jiné nádob�
 * 2 vejce
 * 220g polohrubé mouky
 * 2 lžičky prášku do pečiva
-* 100g čokolády na vaření (nasekané na malé kousky)
 * 2 lžíce kakaa
 * 170ml kefíru
 * 130ml oleje
@@ -868,36 +866,19 @@ Těsto vyválet na výšku cca 2mm, vykrájet tvary a dát na pečící papír n
 
 * 170 g hladké mouky
 * 135 g hrubé mouky
-* 60 g hery
+* 60 g másla
 * 1 vejce do těsta, jedno na potření
-* 21 g droždí
-* 1.5 dcl vody
-* dvě vrchovaté čajové lžičky soli, drcený kmín
+* 1 sáček sušeného droždí
+* 1.5 dcl mléka
+* dvě vrchovaté čajové lžičky soli
 
-Droždí nastartovat (dát do mísy půlku vlažné vody, přisypat droždí, lžičku cukru a zlehka poprášit vodou a dát do tepla na půl hodiny). Jakmile je nastartováno, postupně přisypávat a rozmíchávat mouku, vodu, tuk a ostatní suroviny. Postupně vypracovat těsto. Opět dát na mísy a nechat hodinu kynout.
+Máslo vytáhnout z lednice, aby povolilo. Do zteplaného mléka nasypat sáček droždí, přidat pár lžic hladké mouky a promíchat. Nádobu neprodyšně zavřít a nechat 15-30 minut, než se droždí nastartuje. Pak přidat vejce a za průběžného mixování přidávat mouku. Jakmile je všechna mouka zapracovaná do těsta, přidat máslo a mixovat, dokud se nezapracuje i máslo.
 
-Z těsta vypracovat bochánky (z dávky jde udělat 7-8 menších nebo tak 4 větší na burger). V hrnku rozmíchat vidličkou jedno vejce a potřít jím bochánky z horní strany. Dát do trouby na 200°C, každých deset minut snížit teplotu o 20°C (neklesat pod 140°C).
+Těsto překlopit do vymazané nádoby a zakryté nechat kynout dvě hodiny. Poté vyklopit těsto na pomoučený vál, rozdělit na čtyři stejně velké části a vypracovat z nich bochánky. Ty dát na plech na pečící papír a nechat dalších 45 minut kynout. Pak potřít směsí vejce a trochy mléky, posypat sezamovými semínky a dát do trouby na 180°C na 20 minut na ohřev z obou stran.
 
-> TIP: Po upečení nechat briošky chvíli chladnout, pak je zabalit do igelitového sáčku a nechat přes noc odležet. Druhý den budou pěkně měkké.
+Po vyjmutí z trouby zakrýt utěrkou a nechat vychladnout.
 
 ![Briošky](images/briosky.jpeg)
-
-## Chleba
-
-* 1/4 kg pšeničné hladké mouky
-* 1/4 kg žitné mouky
-* 1 lžička celého kmínu
-* 2 lžičky soli
-* 1 lžíce octa
-* 1/4 l vody
-* skoro celá kostka kvasnic (42g)
-* trocha mléka
-
-Do hrnku dát trochu mléka, lehce nahřát, přidat 1/2 lžičky cukru, rozdrobit kvasnice a poprášit moukou.
-
-Mezitím do mísy dát ostatní suroviny. Když je hrneček plný kvásku, tak ho přidat do mísy a ze všech surovin vypracovat těsto.
-
-Těsto nechat v míse kynout přikryté utěrkou. Péct na 175°C asi tři čtvrtě hodiny, průběžně párkrát pomazat povrch chlebu vodou.
 
 ## Pivo
 
@@ -932,22 +913,24 @@ Nechat ležet v temném prostředí 2-4 týdny při teplotě cca 12°C.
 
 Rozkvas
 
-* 250 g žitné mouky
-* 250 g vlažné vody
+* 200 g žitné mouky
+* 200 g vlažné vody
 * žitný kvásek
 
 Těsto
 
 * Rozkvas
-* 500 g hladké mouky (žitná, pšeničná, špaldová, kombinace)
-* 4 lžičky soli
+* 150 g žitné mouky
+* 150 g hladké pšeničné mouky
+* 100 g špaldové mouky
+* 3 lžičky soli
 * semínka (slunečnice, mák, ...)
-* 400 ml vlažné (převařené vody)
+* 320 ml vlažné (převařené vody)
 
 Smíchat přísady na rozvas a nechat v hermeticky izolované nádobě v pokojové teplotě ležet 12 hodin (ideálně přes noc).
 
 Poté rozkvas smíchat se zbývajícími přísadami na těsto a nalít do máslem vymazané pečící formy. Pod utěrkou nechat v pokojové teplotě kynout další 2-3 hodiny.
 
-Péct v předehřáté troubě na 230°C 10 minut ze všech stran, poté přepnout na spodní ohřev + horkovzduch a péct dalších 30-35 minut na 200°C.
+Péct v předehřáté troubě na 230°C 10 minut ze všech stran, poté přepnout na spodní ohřev + horkovzduch a péct dalších 20 minut na 200°C.
 
 ![Žitný chleba](images/zitny_chleba.jpeg)
