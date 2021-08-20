@@ -15,6 +15,7 @@
 	* [Krevetové rizoto](#krevetove-rizoto)
 	* [Kuře na červeno](#kure-na-cerveno)
 	* [Kuře na paprice](#kure-na-paprice)
+	* [Kuřecí prsa plněná mozzarelou](#kure-s-mozzarelou)
 	* [Kuskus s kuřecími nugetky](#kuskus-s-kurecimi-nugetky)
 	* [Naked burger](#naked-burger)
 	* [Nepálivá Garam masala kuře](#nepalive-indicke-kure)
@@ -26,7 +27,7 @@
 	* [Slaný závin](#slany-zavin)
 	* [Sýrová omáčka](#syrova-omacka)
 	* [Špagety Carbonara](#spagety-carbonara)
-	* [Špagety Rosso](#spagety-rosso)
+	* [Špagety s pestem](#spagety-rosso)
 	* [Špenátový krém s noky](#spenatovy-krem-s-noky)
 	* [Tagliatelle s lososem](#tagliatelle-s-lososem)
 	* [Utopenci](#utopenci)
@@ -252,6 +253,19 @@ Rýži nechat odmočit, pak slít a dát do hrnce rychle osmahnout na oleji. Pak
 Kuřecí kousky opepřit, osolit a velice rychle osmahnout na oleji. Poté i s olejem nechat odležet. Na oleji v hrnci osmahnout cibuli, poté zasypat větším množstvím papriky a nechat zpěnit. Poté přisypat maso a pořádně promíchat, aby se suroviny o sebe pořádně otřely. Zalít vodou a nechat vařit. Přidat nové koření. Po patnácti minutách vaření sundat z plamene a přilít smetanu. Opět trochu povařit. Je možné zahustit jíškou. Podávat ideálně s rýží.
 
 ![Kuře na paprice](images/kure_na_paprice.jpeg)
+
+## Kuřecí prsa plněná mozzarelou <span id="kure-s-mozzarelou"></span>
+
+* 3 kuřecí prsa
+* 125g mozzarely, natrhané na kousky
+* 50g strouhaného čedaru
+* 1 lžíce dijonské hořčice
+* 9 plátků anglické slaniny
+* pár snítek bazalky
+
+Troubu předehřát na 180°C. Prsa osolit zvenku a pak podélně naříznout, aby vznikla kapsa. Sýry, bazalku a horčici promíchat a následně směsí naplnit kapsy v kuřecích prsech. Prsa obalit ve třech plátcích slaniny a ideálně obvázat provázkem. Péct 20-25 minut.
+
+![Kuřecí prsa plněná mozzarelou](images/kure_s_mozzarelou.jpg)
 
 ## Kuře na červeno <span id="kure-na-cerveno"></span>
 
@@ -487,7 +501,7 @@ Přilít vejce z misky do špaget a pořádně míchat, klidně i pár minut. Po
 
 ![Carbonara](images/carbonara.jpeg)
 
-## Špagety Rosso <span id="spagety-rosso"></span>
+## Špagety s pestem <span id="spagety-rosso"></span>
 
 Pesto Rosso
 
@@ -496,6 +510,16 @@ Pesto Rosso
 * 1/3 hrnku mandlí (nepražené, nesolené)
 * 1 lžíce rozmarýnu
 * sůl, pepř, bazalka, oregano podle chuti
+
+Paprikové pesto
+
+* 1/2 svazku čerstvého tymiánu
+* hrst lískových oříšků
+* 450g pečených paprik
+* 2 stroužky česneku
+* hrst nastrouhaného parmazánu
+* olivový olej
+* sůl, pepř
 
 Přísady na pesto rozmixovat dohromady. Udělat špagety a osmažit slaninu. Vše smíchat dohromady. Servírovat s parmazánem a listem bazalky nebo listem čerstvého špenátu.
 
