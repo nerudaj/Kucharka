@@ -15,6 +15,7 @@
 	* [Krevetové rizoto](#krevetove-rizoto)
 	* [Kuře na červeno](#kure-na-cerveno)
 	* [Kuře na paprice](#kure-na-paprice)
+	* [Kuřecí prsa plněná mozzarelou](#kure-s-mozzarelou)
 	* [Kuskus s kuřecími nugetky](#kuskus-s-kurecimi-nugetky)
 	* [Naked burger](#naked-burger)
 	* [Nepálivá Garam masala kuře](#nepalive-indicke-kure)
@@ -26,7 +27,7 @@
 	* [Slaný závin](#slany-zavin)
 	* [Sýrová omáčka](#syrova-omacka)
 	* [Špagety Carbonara](#spagety-carbonara)
-	* [Špagety Rosso](#spagety-rosso)
+	* [Špagety s pestem](#spagety-rosso)
 	* [Špenátový krém s noky](#spenatovy-krem-s-noky)
 	* [Tagliatelle s lososem](#tagliatelle-s-lososem)
 	* [Utopenci](#utopenci)
@@ -54,7 +55,6 @@
 	* [Octové cukroví](#octove-cukrovi)
  * Ostatní
 	* [Briošky](#briosky)
-	* [Chleba](#chleba)
 	* [Pivo](#pivo)
 	* [Žitný chleba](#zitny-chleba)
 
@@ -254,6 +254,19 @@ Rýži nechat odmočit, pak slít a dát do hrnce rychle osmahnout na oleji. Pak
 Kuřecí kousky opepřit, osolit a velice rychle osmahnout na oleji. Poté i s olejem nechat odležet. Na oleji v hrnci osmahnout cibuli, poté zasypat větším množstvím papriky a nechat zpěnit. Poté přisypat maso a pořádně promíchat, aby se suroviny o sebe pořádně otřely. Zalít vodou a nechat vařit. Přidat nové koření. Po patnácti minutách vaření sundat z plamene a přilít smetanu. Opět trochu povařit. Je možné zahustit jíškou. Podávat ideálně s rýží.
 
 ![Kuře na paprice](images/kure_na_paprice.jpeg)
+
+## Kuřecí prsa plněná mozzarelou <span id="kure-s-mozzarelou"></span>
+
+* 3 kuřecí prsa
+* 125g mozzarely, natrhané na kousky
+* 50g strouhaného čedaru
+* 1 lžíce dijonské hořčice
+* 9 plátků anglické slaniny
+* pár snítek bazalky
+
+Troubu předehřát na 180°C. Prsa osolit zvenku a pak podélně naříznout, aby vznikla kapsa. Sýry, bazalku a horčici promíchat a následně směsí naplnit kapsy v kuřecích prsech. Prsa obalit ve třech plátcích slaniny a ideálně obvázat provázkem. Péct 20-25 minut.
+
+![Kuřecí prsa plněná mozzarelou](images/kure_s_mozzarelou.jpg)
 
 ## Kuře na červeno <span id="kure-na-cerveno"></span>
 
@@ -489,7 +502,7 @@ Přilít vejce z misky do špaget a pořádně míchat, klidně i pár minut. Po
 
 ![Carbonara](images/carbonara.jpeg)
 
-## Špagety Rosso <span id="spagety-rosso"></span>
+## Špagety s pestem <span id="spagety-rosso"></span>
 
 Pesto Rosso
 
@@ -498,6 +511,16 @@ Pesto Rosso
 * 1/3 hrnku mandlí (nepražené, nesolené)
 * 1 lžíce rozmarýnu
 * sůl, pepř, bazalka, oregano podle chuti
+
+Paprikové pesto
+
+* 1/2 svazku čerstvého tymiánu
+* hrst lískových oříšků
+* 450g pečených paprik
+* 2 stroužky česneku
+* hrst nastrouhaného parmazánu
+* olivový olej
+* sůl, pepř
 
 Přísady na pesto rozmixovat dohromady. Udělat špagety a osmažit slaninu. Vše smíchat dohromady. Servírovat s parmazánem a listem bazalky nebo listem čerstvého špenátu.
 
@@ -797,7 +820,6 @@ Přísady na těsto nejprve promíchat lžicí a pak promixovat. V jiné nádob�
 * 2 vejce
 * 220g polohrubé mouky
 * 2 lžičky prášku do pečiva
-* 100g čokolády na vaření (nasekané na malé kousky)
 * 2 lžíce kakaa
 * 170ml kefíru
 * 130ml oleje
@@ -878,36 +900,19 @@ Těsto vyválet na výšku cca 2mm, vykrájet tvary a dát na pečící papír n
 
 * 170 g hladké mouky
 * 135 g hrubé mouky
-* 60 g hery
+* 60 g másla
 * 1 vejce do těsta, jedno na potření
-* 21 g droždí
-* 1.5 dcl vody
-* dvě vrchovaté čajové lžičky soli, drcený kmín
+* 1 sáček sušeného droždí
+* 1.5 dcl mléka
+* dvě vrchovaté čajové lžičky soli
 
-Droždí nastartovat (dát do mísy půlku vlažné vody, přisypat droždí, lžičku cukru a zlehka poprášit vodou a dát do tepla na půl hodiny). Jakmile je nastartováno, postupně přisypávat a rozmíchávat mouku, vodu, tuk a ostatní suroviny. Postupně vypracovat těsto. Opět dát na mísy a nechat hodinu kynout.
+Máslo vytáhnout z lednice, aby povolilo. Do zteplaného mléka nasypat sáček droždí, přidat pár lžic hladké mouky a promíchat. Nádobu neprodyšně zavřít a nechat 15-30 minut, než se droždí nastartuje. Pak přidat vejce a za průběžného mixování přidávat mouku. Jakmile je všechna mouka zapracovaná do těsta, přidat máslo a mixovat, dokud se nezapracuje i máslo.
 
-Z těsta vypracovat bochánky (z dávky jde udělat 7-8 menších nebo tak 4 větší na burger). V hrnku rozmíchat vidličkou jedno vejce a potřít jím bochánky z horní strany. Dát do trouby na 200°C, každých deset minut snížit teplotu o 20°C (neklesat pod 140°C).
+Těsto překlopit do vymazané nádoby a zakryté nechat kynout dvě hodiny. Poté vyklopit těsto na pomoučený vál, rozdělit na čtyři stejně velké části a vypracovat z nich bochánky. Ty dát na plech na pečící papír a nechat dalších 45 minut kynout. Pak potřít směsí vejce a trochy mléky, posypat sezamovými semínky a dát do trouby na 180°C na 20 minut na ohřev z obou stran.
 
-> TIP: Po upečení nechat briošky chvíli chladnout, pak je zabalit do igelitového sáčku a nechat přes noc odležet. Druhý den budou pěkně měkké.
+Po vyjmutí z trouby zakrýt utěrkou a nechat vychladnout.
 
 ![Briošky](images/briosky.jpeg)
-
-## Chleba
-
-* 1/4 kg pšeničné hladké mouky
-* 1/4 kg žitné mouky
-* 1 lžička celého kmínu
-* 2 lžičky soli
-* 1 lžíce octa
-* 1/4 l vody
-* skoro celá kostka kvasnic (42g)
-* trocha mléka
-
-Do hrnku dát trochu mléka, lehce nahřát, přidat 1/2 lžičky cukru, rozdrobit kvasnice a poprášit moukou.
-
-Mezitím do mísy dát ostatní suroviny. Když je hrneček plný kvásku, tak ho přidat do mísy a ze všech surovin vypracovat těsto.
-
-Těsto nechat v míse kynout přikryté utěrkou. Péct na 175°C asi tři čtvrtě hodiny, průběžně párkrát pomazat povrch chlebu vodou.
 
 ## Pivo
 
@@ -942,22 +947,24 @@ Nechat ležet v temném prostředí 2-4 týdny při teplotě cca 12°C.
 
 Rozkvas
 
-* 250 g žitné mouky
-* 250 g vlažné vody
+* 200 g žitné mouky
+* 200 g vlažné vody
 * žitný kvásek
 
 Těsto
 
 * Rozkvas
-* 500 g hladké mouky (žitná, pšeničná, špaldová, kombinace)
-* 4 lžičky soli
+* 150 g žitné mouky
+* 150 g hladké pšeničné mouky
+* 100 g špaldové mouky
+* 3 lžičky soli
 * semínka (slunečnice, mák, ...)
-* 400 ml vlažné (převařené vody)
+* 320 ml vlažné (převařené vody)
 
 Smíchat přísady na rozvas a nechat v hermeticky izolované nádobě v pokojové teplotě ležet 12 hodin (ideálně přes noc).
 
 Poté rozkvas smíchat se zbývajícími přísadami na těsto a nalít do máslem vymazané pečící formy. Pod utěrkou nechat v pokojové teplotě kynout další 2-3 hodiny.
 
-Péct v předehřáté troubě na 230°C 10 minut ze všech stran, poté přepnout na spodní ohřev + horkovzduch a péct dalších 30-35 minut na 200°C.
+Péct v předehřáté troubě na 230°C 10 minut ze všech stran, poté přepnout na spodní ohřev + horkovzduch a péct dalších 20 minut na 200°C.
 
 ![Žitný chleba](images/zitny_chleba.jpeg)
