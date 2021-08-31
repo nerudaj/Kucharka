@@ -39,6 +39,7 @@
 	* [Bylinkový dip](#bylinkovy-dip)
 	* [Česnekový dip](#cesnekovy-dip)
 	* [Kari dip](#kari-dip)
+	* [Tatarská omáčka](#tatarka)
  * Dezerty
 	* [Belgické vafle](#belgicke-vafle)
 	* [Brownies](#brownies)
@@ -600,7 +601,7 @@ Promíchat přísady dohromady, naklepané, osolené a opepřené maso naložit 
 * 2 stroužky česneku
 * sůl, pepř
 
-## Kari dip na kuře <span id="kari-marinada"></span>
+## Kari marináda na kuře <span id="kari-marinada"></span>
 
 * 1 nastrouhaný čerstvý zázvor
 * 1 žloutek
@@ -630,7 +631,7 @@ Bílý jogurt s majonézou smíchat v poměru 2:1. Přidat cca lžíci provensá
 
 Česnek nastrouhat, smíchat se zbytkem, vychladit.
 
-## Kari dip
+## Kari dip <span id="kari-dip"></span>
 
 * majonéza
 * bílý jogurt
@@ -639,6 +640,15 @@ Bílý jogurt s majonézou smíchat v poměru 2:1. Přidat cca lžíci provensá
 * cukr
 
 Majonéza vůči jogurtu v poměru 1:2. Špetka soli a špetka cukru. Kari dle chuti. Vychladit v lednici.
+
+## Tatarská omáčka <span id="tatarka"></span>
+
+* vrchovatá lžíce majonézy
+* lžička bílého jogurtu
+* 1 menší nastrouhaná kyselá okurka
+* nastrouhaná cibule, stejné množství jako okurky
+
+Promíchat, nechat odležet v chladu.
 
 # Dezerty
 
