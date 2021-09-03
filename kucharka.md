@@ -39,6 +39,7 @@
  * Dipy
 	* [Bylinkový dip](#bylinkovy-dip)
 	* [Česnekový dip](#cesnekovy-dip)
+	* [Dip s karamelizovanou cibulkou](#dip-s-karamel-cibulkou)
 	* [Kari dip](#kari-dip)
 	* [Tatarská omáčka](#tatarka)
  * Dezerty
@@ -653,6 +654,18 @@ Bílý jogurt s majonézou smíchat v poměru 2:1. Přidat cca lžíci provensá
 * sůl, pepř
 
 Česnek nastrouhat, smíchat se zbytkem, vychladit.
+
+## 	Dip s karamelizovanou cibulkou <span id="dip-s-karamel-cibulkou"></span>
+
+* 3 středně velké cibule, nakrájené na tenké plátky
+* 2 lžičky cukru a soli
+* 60 ml bílého vína
+* 200 g smetanového sýra (Lučina)
+* 300 ml zakysané smetany
+* snítka nasekané petržele
+* 60g másla
+
+Máslo rozpustit na středním plameni, přidat cibuli, sůl a cukr a pořádně rozmíchat. Za pravidelného míchání nechat patnáct minut. Poté začít po troškách přilévat víno a vždy ho nechat odpařit. Takto cibule pomalu karamelizuje třicet až pětačtyřicet minut. Poté cibulku slít od přebytečného oleje, větší kousky nakrájet na menší a promíchat se sýrem, zakysankou a petrželí. Nechat pár hodin odležet v lednici.
 
 ## Kari dip <span id="kari-dip"></span>
 
