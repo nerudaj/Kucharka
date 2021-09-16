@@ -523,6 +523,15 @@ Paprikové pesto
 * olivový olej
 * sůl, pepř
 
+Bazalkové pesto
+
+* 2 stroužky česneku
+* 30 g piniových oříšků
+* 3 lžíce parmazánu
+* 100 ml olivového oleje
+* 2 svazky nasekané bazalky
+* sůl, pepř
+
 Přísady na pesto rozmixovat dohromady. Udělat špagety a osmažit slaninu. Vše smíchat dohromady. Servírovat s parmazánem a listem bazalky nebo listem čerstvého špenátu.
 
 ![Špagety Rosso](images/spagety_rosso.jpeg)
