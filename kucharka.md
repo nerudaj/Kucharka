@@ -11,6 +11,7 @@
 	* [Gyros s pitou](#gyros-s-pitou)
 	* [Hermelínový šáteček](#hermelinovy-satecek)
 	* [Cheeseburger](#cheeseburger)
+	* [Chilli con carne](#chilli-con-carne)
 	* [Koprovka](#koprovka)
 	* [Krevetové rizoto](#krevetove-rizoto)
 	* [Kuře na červeno](#kure-na-cerveno)
@@ -41,10 +42,13 @@
 	* [Česnekový dip](#cesnekovy-dip)
 	* [Dip s karamelizovanou cibulkou](#dip-s-karamel-cibulkou)
 	* [Kari dip](#kari-dip)
+	* [Sriracha omáčka](#sriracha)
 	* [Tatarská omáčka](#tatarka)
  * Ostatní
 	* [Briošky](#briosky)
+	* [Kváskové křupky](#kvaskove-krupky)
 	* [Pivo](#pivo)
+	* [Toustový chleba](#toustak)
 	* [Žitný chleba](#zitny-chleba)
 
 # Saláty
@@ -186,6 +190,25 @@ Namarinované maso dát na rozpálenou pánev a za pravidelného míchání nech
 Hermelín naložit v grilovacím koření. Rozválet těsto, vložit hermelín doprostřed a zavázat těsto do podoby šátečku. Potřít šáteček rozmíchaným vejcem a posypat sezamem. Dát péct na 220°C na půl hodiny. Na talíři udělat kruh ze salátů se zálivkou a posypat semeny z granátového jablka a sezamem. Šáteček umístit do středu.
 
 ![Hermelínový šáteček](images/hermelin_satek.jpeg)
+
+## Chilli con carne <span id=chilli-con-carne"></span>
+
+* 400 g mletého masa
+* 1 plechovka drcených rajčat
+* 1 plechovka černých fazolí
+* 1 cibule
+* 4 stroužky česneku
+* 500 ml hovězího vývaru
+* 4 čtverečky hořké čokolády
+* chilli dle chuti a odvahy
+* 1/2 žluté papriky
+* 2 lžičky sladké papriky
+* 1 lžička soli
+* 1/2 lžičky pepře
+* 1/2 lžičky mletého římského kmínu
+* 1/4 mleté skořice
+
+Nakrájet česnek a cibuli nadrobno a dát osmahnout na oleji. Po zežloutnutí přidat maso a vařečkou nadrobit. Jakmile se maso zatáhne, poprášit kořením a pořádně promíchat. Dvě minuty restovat a následně zalít rajčaty, přidat slité fazole, nakrájenou papriku, chilli, čokoládu a zalít vývarem. Vařit další tři čtvrtě hodiny, nechat vodu volně odpařovat, občas promíchat.
 
 ## Cheeseburger
 
@@ -674,6 +697,21 @@ Máslo rozpustit na středním plameni, přidat cibuli, sůl a cukr a pořádně
 
 Majonéza vůči jogurtu v poměru 1:2. Špetka soli a špetka cukru. Kari dle chuti. Vychladit v lednici.
 
+## Sriracha omáčka <span id="sriracha"></span>
+
+(na cca 600ml)
+
+* 3 červené papriky
+* 2 žluté papriky
+* 5 stroužků česneku
+* 2 lžičky třtinového cukru
+* 1 lžička soli
+* 1 lžíce jablečného octa
+* snítka tymiánu
+* chilli dle chuti
+
+V troubě předehřáté na 180° 30-40 minut péct papriky, na druhou půlku pečení přidat neočištěné stroužky česneku. Papriky sloupnout a očistit od jádra, očistit česneky a spolu se solí, cukrem a dalšími přísadami pečlivě rozmixovat.
+
 ## Tatarská omáčka <span id="tatarka"></span>
 
 * vrchovatá lžíce majonézy
@@ -702,6 +740,19 @@ Těsto překlopit do vymazané nádoby a zakryté nechat kynout dvě hodiny. Pot
 Po vyjmutí z trouby zakrýt utěrkou a nechat vychladnout.
 
 ![Briošky](images/briosky.jpeg)
+
+## Kváskové křupky <span id="kvaskove-krupky"></span>
+
+* 150 g žitného rozkvasu (75/75)
+* 100 g hladké mouky
+* 100 g žitné mouky
+* 100 g špaldové mouky
+* 2 lžíce sádla
+* 1 vejce
+* 1 lžička soli
+* semínka/koření na ozdobení
+
+Vypracovat ze surovin tuhé těsto a vyválet ho na 0.5 - 1 cm tlustý plát, a vykrajovátky ho nadělit na jednotlivé kusy křupek. Ty obalit ve směsi semínek/koření a dát na pečící papír na plech. Péct v předehřáté troubě na 180-200° C cca 15 minut.
 
 ## Pivo
 
@@ -757,3 +808,15 @@ Poté rozkvas smíchat se zbývajícími přísadami na těsto a nalít do másl
 Péct v předehřáté troubě na 230°C 10 minut ze všech stran, poté přepnout na spodní ohřev + horkovzduch a péct dalších 20 minut na 200°C.
 
 ![Žitný chleba](images/zitny_chleba.jpeg)
+
+## Toustový chleba <span id="toustak"></span>
+
+* 350 g hladké mouky
+* 1/2 sáčku sušeného droždí
+* 250 ml mléka
+* lžička soli
+* 50 g másla
+
+Smíchat mléko se 100 gramy mouky, přisypat droždí a nechat probudit. Přidat sůl, zbytek mouky a ostáte máslo a vypracovat těsto. Těsto nechat 2-3 hodiny kynout, periodicky překládat. Pak z těsta vypracovat špalek a položit do formy, nechat kynout, dokud nedosáhne uspokojivé velikosti. Péct v předehřáté troubě na 190°C, 10 minut zeshora i zespoda a 20 minut pouze zespoda.
+
+![Toustovy chleba](images/toustova_chleba.jpg)
