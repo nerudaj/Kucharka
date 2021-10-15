@@ -28,22 +28,9 @@
 	* [Slaný závin](#slany-zavin)
 	* [Sýrová omáčka](#syrova-omacka)
 	* [Špagety Carbonara](#spagety-carbonara)
-	* [Špagety s pestem](#spagety-rosso)
 	* [Špenátový krém s noky](#spenatovy-krem-s-noky)
 	* [Tagliatelle s lososem](#tagliatelle-s-lososem)
 	* [Utopenci](#utopenci)
- * Marinády
-	* [Kečupová marináda](#kecupova-marinada)
-	* [Pivní marináda](#pivni-marinada)
-	* [Bylinková marináda na kuřecí prsa](#bylinkova-marinada)
-	* [Kari marináda na kuře](#kari-marinada)
- * Dipy
-	* [Bylinkový dip](#bylinkovy-dip)
-	* [Česnekový dip](#cesnekovy-dip)
-	* [Dip s karamelizovanou cibulkou](#dip-s-karamel-cibulkou)
-	* [Kari dip](#kari-dip)
-	* [Sriracha omáčka](#sriracha)
-	* [Tatarská omáčka](#tatarka)
  * Ostatní
 	* [Briošky](#briosky)
 	* [Kváskové křupky](#kvaskove-krupky)
@@ -191,7 +178,7 @@ Hermelín naložit v grilovacím koření. Rozválet těsto, vložit hermelín d
 
 ![Hermelínový šáteček](images/hermelin_satek.jpeg)
 
-## Chilli con carne <span id=chilli-con-carne"></span>
+## Chilli con carne <span id="chilli-con-carne"></span>
 
 * 400 g mletého masa
 * 1 plechovka drcených rajčat
@@ -514,39 +501,6 @@ Přilít vejce z misky do špaget a pořádně míchat, klidně i pár minut. Po
 
 ![Carbonara](images/carbonara.jpeg)
 
-## Špagety s pestem <span id="spagety-rosso"></span>
-
-Pesto Rosso
-
-* 1 hrnek sušených rajčat
-* 1 hrnek olivového oleje
-* 1/3 hrnku mandlí (nepražené, nesolené)
-* 1 lžíce rozmarýnu
-* sůl, pepř, bazalka, oregano podle chuti
-
-Paprikové pesto
-
-* 1/2 svazku čerstvého tymiánu
-* hrst lískových oříšků
-* 450g pečených paprik
-* 2 stroužky česneku
-* hrst nastrouhaného parmazánu
-* olivový olej
-* sůl, pepř
-
-Bazalkové pesto
-
-* 2 stroužky česneku
-* 30 g piniových oříšků
-* 3 lžíce parmazánu
-* 100 ml olivového oleje
-* 2 svazky nasekané bazalky
-* sůl, pepř
-
-Přísady na pesto rozmixovat dohromady. Udělat špagety a osmažit slaninu. Vše smíchat dohromady. Servírovat s parmazánem a listem bazalky nebo listem čerstvého špenátu.
-
-![Špagety Rosso](images/spagety_rosso.jpeg)
-
 ## Špenátový krém s noky <span id="spenatovy-krem-s-noky"></span>
 
 Polévka
@@ -610,116 +564,6 @@ Lák
 Dle nádoby a počtu špekáčků odměřit přibližně kolik bude potřeba octa. Špekáčky nechat aspoň hodinu odležet v teple a pak z nich stáhnout střívko. Koření i s octem dát do rendlíku a dát vařit (během vaření rozmíchat cukr). Špekáčky přeříznout napůl a cibuli nakrájet na tenká kolečka. Papriky nakrájet na tenké proužky. Pak vše naskládat do sklenice - na dno naskládat vrstvu cibule, pár proužků paprik, vrstvu špekáčků a pořádně upěchovat. Proces opakovat, dokud sklenice nebude plná. Uvařený lák nechat lehce schladnout a pak nalít do sklenice až po okraj. Sklenici zadeklovat a dát minimálně na týden dát do chladu.
 
 ![Utopenci](images/utopenci.jpeg)
-
-# Marinády
-
-https://bozka.cz/marinana-maso-7-skvelych-receptu-vyzkousejte-taky/
-
-## Kečupová marináda <span id="kecupova-marinada"></span>
-
- * Grilovací koření
- * 3 lžíce jemného kečupu
- * 8 lžíc rostlinného oleje
- * 1 lžíce sójové omáčky
- * 3 stroužky česneku (utřené s 1 lžící hořčice)
-
-Promíchat přísady dohromady, naklepané, osolené a opepřené maso naložit do směsi a nechat uležet (ideálně dva dny).
-
-## Pivní marináda <span id="pivni-marinada"></span>
-
-* 150 ml piva
-* 3 lžíce kečupu
-* 1 lžička horčice
-* 1 cibule (nakrájená na drobno)
-* 1 chilli paprička
-* 1/4 citronu
-* 2 stroužky česneku (nakrájený na drobno)
-* 1 lžička cukru
-* tymián, rozmarýn, sůl, pepř
-
-## Bylinková marináda na kuřecí prsa <span id="bylinkova-marinada"></span>
-
-* olivový olej
-* čerstvá bazalka
-* čerstvá bazalka
-* 2 stroužky česneku
-* sůl, pepř
-
-## Kari marináda na kuře <span id="kari-marinada"></span>
-
-* 1 nastrouhaný čerstvý zázvor
-* 1 žloutek
-* 4 lžíce oleje
-* lžička medu
-* 2 lžičky kari
-* sůl, pepř
-
-# Dipy
-
-## Bylinkový dip <span id="bylinkovy-dip"></span>
-
-* provensálské koření
-* bílý jogurt
-* majonéza
-* šťáva z limetky
-* sůl, pepř
-
-Bílý jogurt s majonézou smíchat v poměru 2:1. Přidat cca lžíci provensálského koření, špetku soli a pepře a přidat šťávu ze čtvrtky limetky.
-
-## Česnekový dip <span id="cesnekovy-dip"></span>
-
-* 2 stroužky česneku
-* 3 lžíce zakysané smetany
-* lžíce nasekané petržele
-* sůl, pepř
-
-Česnek nastrouhat, smíchat se zbytkem, vychladit.
-
-## 	Dip s karamelizovanou cibulkou <span id="dip-s-karamel-cibulkou"></span>
-
-* 3 středně velké cibule, nakrájené na tenké plátky
-* 2 lžičky cukru a soli
-* 60 ml bílého vína
-* 200 g smetanového sýra (Lučina)
-* 300 ml zakysané smetany
-* snítka nasekané petržele
-* 60g másla
-
-Máslo rozpustit na středním plameni, přidat cibuli, sůl a cukr a pořádně rozmíchat. Za pravidelného míchání nechat patnáct minut. Poté začít po troškách přilévat víno a vždy ho nechat odpařit. Takto cibule pomalu karamelizuje třicet až pětačtyřicet minut. Poté cibulku slít od přebytečného oleje, větší kousky nakrájet na menší a promíchat se sýrem, zakysankou a petrželí. Nechat pár hodin odležet v lednici.
-
-## Kari dip <span id="kari-dip"></span>
-
-* majonéza
-* bílý jogurt
-* kari
-* sůl
-* cukr
-
-Majonéza vůči jogurtu v poměru 1:2. Špetka soli a špetka cukru. Kari dle chuti. Vychladit v lednici.
-
-## Sriracha omáčka <span id="sriracha"></span>
-
-(na cca 600ml)
-
-* 3 červené papriky
-* 2 žluté papriky
-* 5 stroužků česneku
-* 2 lžičky třtinového cukru
-* 1 lžička soli
-* 1 lžíce jablečného octa
-* snítka tymiánu
-* chilli dle chuti
-
-V troubě předehřáté na 180° 30-40 minut péct papriky, na druhou půlku pečení přidat neočištěné stroužky česneku. Papriky sloupnout a očistit od jádra, očistit česneky a spolu se solí, cukrem a dalšími přísadami pečlivě rozmixovat.
-
-## Tatarská omáčka <span id="tatarka"></span>
-
-* vrchovatá lžíce majonézy
-* lžička bílého jogurtu
-* 1 menší nastrouhaná kyselá okurka
-* nastrouhaná cibule, stejné množství jako okurky
-
-Promíchat, nechat odležet v chladu.
 
 # Ostatní
 
@@ -819,4 +663,4 @@ Péct v předehřáté troubě na 230°C 10 minut ze všech stran, poté přepno
 
 Smíchat mléko se 100 gramy mouky, přisypat droždí a nechat probudit. Přidat sůl, zbytek mouky a ostáte máslo a vypracovat těsto. Těsto nechat 2-3 hodiny kynout, periodicky překládat. Pak z těsta vypracovat špalek a položit do formy, nechat kynout, dokud nedosáhne uspokojivé velikosti. Péct v předehřáté troubě na 190°C, 10 minut zeshora i zespoda a 20 minut pouze zespoda.
 
-![Toustovy chleba](images/toustova_chleba.jpg)
+![Toustovy chleba](images/toustovy_chleba.jpg)
