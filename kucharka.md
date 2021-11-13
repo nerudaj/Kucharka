@@ -21,6 +21,7 @@
 	* [Naked burger](#naked-burger)
 	* [Nepálivá Garam masala kuře](#nepalive-indicke-kure)
 	* [Pizza Bianca](#pizza-bianca)
+	* [Pizza Napoletana](#pizza-napoletana)
 	* [Quesadilla](#quesadilla)
 	* [Rajská omáčka s karlovarským knedlíkem](#rajska-omacka-s-karlovarskym-knedlikem)
 	* [Sekaná s olivami](#sekana-s-olivami)
@@ -363,6 +364,23 @@ Těsto rozdělit na třetiny - každá třetina se dá rozválet na kulatý plec
 > 7.5 sacharidových jednotek na pizzu.
 
 ![Pizza](images/pizza.jpeg)
+
+## Pizza napoletana
+
+Těsto
+
+ * 300 ml vody
+ * 500 g mouky na pizzu
+ * 15 g soli
+ * 1/2 - 1 g kvasnic (pytlík droždí odpovídá 20 g kvasnic)
+
+Ve vodě rozpustit sůl a rozmíchat v ní desetinu (50 g mouky). Poté ve směsi rozmíchat kvasnice (droždí) a za průběžného míchání a zpracovávání přidávat mouku, dokud nezbyde cca 100 g mouky. Částí zbylé mouky pomoučit vál a vyklopit na něj těsto.
+
+Při hnětení těsta postupně zapracovat zbytek mouky, kterými se průběžně pomoučuje vál. Po zpracování vší mouky hníst ještě alespoň 10-15 minut.
+
+Pak zakrýt vlhkou utěrkou a nechat ležet dvě hodiny. Po dvou hodinách rozdělit na čtyři kousky a vypracovat bochánky. Bochánky umístit do hermeticky uzavřené nádoby a nechat v chladnějším prostředí kynout alespoň 24 hodin.
+
+Péct ideálně na 430°C 90 vteřin i s topingem nebo předpéct pouze se sugem 5 min při 230°C a pak další 3 minuty se sýrem, šunkou a ostatními přísadami.
 
 ## Quesadilla
 
