@@ -5,6 +5,7 @@
 	* [Dip s karamelizovanou cibulkou](#dip-s-karamel-cibulkou)
 	* [Kari dip](#kari-dip)
 	* [Provensálský dip](#provensalsky-dip)
+	* [Rajčatová salsa](#rajcatova-salsa)
 	* [Smashed burger dip](#smashed-burger-dip)
 	* [Sriracha omáčka](#sriracha)
 	* [Tatarská omáčka](#tatarka)
@@ -64,6 +65,26 @@ Máslo rozpustit na středním plameni, přidat cibuli, sůl a cukr a pořádně
 * lžíce žluté hořčice
 * lžička worchesteru
 * chilli dle chuti
+
+
+## Rajčatová salsa
+
+ * 4 keříková rajčata
+ * 1 hrnek protlaku
+ * 1 červená cibule
+ * 1 jarní cibulka s natí
+ * hrst posekamé petržele
+ * 3 lžíce kečupu
+ * 1 lžíce plnotučné horčice
+ * 3 lžíce balsamiko octa
+ * 2 lžičky sojové omáčky
+ * 2 lžičky worchesteru
+ * 2 lžičky cukru
+ * sůl, pepř
+ 
+Cibuli i jarní cibulku nakrájet na kostičky a na mírném plameni nechat zkaramelizovat. Poté přidat najemno nakrájená rajčata, protlak a kečup, ocet, sojovku a worchester, přivést k varu a nechat bez pokličky redukovat.
+
+Jakmile se vyvaří drtivá většina vody, přidat sůl, pepř, cukr, hořčici  a najemno nasekanou petržel. V lednici v uzavřené sklenici vydrží alespoň týden.
 
 ## Sriracha omáčka <span id="sriracha"></span>
 
