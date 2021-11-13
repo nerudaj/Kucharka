@@ -3,11 +3,11 @@
 * Dezerty
 	* [Belgické vafle](#belgicke-vafle)
 	* [Brownies](#brownies)
+	* [Cupcaky](#cupcaky)
 	* [Kinder řezy](#kinder-rezy)
 	* [Krtkův dort](#krtkuv-dort)
 	* [Medovník](#medovník)
 	* [Mramorové řezy](#mramorove-rezy)
-	* [Muffiny](#muffiny)
 	* [Ovocný koláč](#ovocny-kolac)
 * Cukroví
 	* [Kakaovokávové koule](#kakaovokavove-koule)
@@ -48,6 +48,25 @@ Na vodní lázni rozpustit máslo a v něm čokoládu. Vejce šlehat, dokud se n
 Pečící formu vyložit pečícím papírem, vlít těsto a dát péct aspoň na 30 minut na 180°C.
 
 ![Brownies](images/brownies.jpeg)
+
+## Cupcaky
+
+* 220 g hladké mouky
+* 220 g cukru
+* 60 g kakaa
+* půl lžičky soli
+* lžička jedlé sody
+* 1 hrnek vychladlé kávy
+* 1 hrnek podmáslí
+* 225 ml oleje
+* 3 vejce
+* 150 g nasekané čokolády
+
+Sypké přísady do mísy prosít přes síto. Mokré přísady důkladně promíchat a pak za stálého mixování pomalu přilévat do sypkého. Mixováním vypracovat tekuté těsto. Do těsta vmíchat kousky čokolády a směs nalít do forem na cupcaky do cca 2/3 každé formy. Péct v troubě předehřáté na 160° 24 minut.
+
+> Množství by mělo stačit na 24 cupcaků.
+
+![Muffiny](images/muffiny.jpeg)
 
 ## Kinder řez <span id="kinder-rez"></span>
 
@@ -154,26 +173,6 @@ Náplň
 Přísady na těsto nejprve promíchat lžicí a pak promixovat. V jiné nádobě vypracovat náplň stejným způsobem. Do vymazané pečící nádoby nalít nerovnoměrně obě těsta a vidličkou zhlekha promíchat. Péct 20-30 minut na 200°C.
 
 ![Mramorové řezy](images/mramorove-rezy.jpeg)
-
-## Muffiny
-
-* 2 vejce
-* 220g polohrubé mouky
-* 2 lžičky prášku do pečiva
-* 2 lžíce kakaa
-* 170ml kefíru
-* 130ml oleje
-* 100g cukru
-
-Ozdobení
-
-* 24 malin
-* šlehačka
-* ztužovač na šlehačku
-
-Promixovat všechny suroviny dohromady a nalít do forem na muffiny (doprostřed zatlačit po jedné malině) a dá péct do předpečené trouby na 20 minut na 180°C. Po vychladnutí promixovat šlehačku, ztužovač a lžičku cukru a odzdobit muffiny. Na vršek umístit zbývající maliny.
-
-![Muffiny](images/muffiny.jpeg)
 
 ## Ovocný koláč <span id="ovocny-kolac"></span>
 
