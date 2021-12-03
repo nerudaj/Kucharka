@@ -4,12 +4,12 @@
 	* [Krabí salát](#krabi-salat)
 	* [Těstovinový salát](#testovinovy-salat)
  * Hlavní jídla
+	* [Balkánská tortilla](#balkan-tortilla)
 	* [Buřtguláš](#burtgulas)
 	* [Čínské nudle](#cinske-nudle)
 	* [Fazole a klobása](#fazole-klobasa)
 	* [Filé po italsku](#file-po-italsku)
 	* [Gyros s pitou](#gyros-s-pitou)
-	* [Hermelínový šáteček](#hermelinovy-satecek)
 	* [Cheeseburger](#cheeseburger)
 	* [Chilli con carne](#chilli-con-carne)
 	* [Koprovka](#koprovka)
@@ -68,6 +68,22 @@ Eidam nastrouhat, rajčata, mozzarelu a prsty nakrájet na kostičky.
 ![Těstovinový salát](images/testovinovy_salat.jpeg)
 
 # Hlavní jídla
+
+## Balkánská tortilla <span id="balkan-tortilla"></span>
+
+1 porce:
+
+* 1 větší tortilla (ideálně stejné velikosti jako dno vaší ploché pánve)
+* 150 g nastrouhaného eidamu
+* hrst nasekaných bazalkových listů
+* 150 g kostiček balkánského sýra
+* hrst nasekaných černých oliv
+* 8 cherry rajčat nakrájených na kostičky
+* 2 rozkvedlaná vejce
+
+Pánev rozehřát na mírném plameni a zlehka potřít olejem. Tortilu namočit na chvíli do vody, a pak položit na pánev. Horní stranu potřít polovinou vajec a posypat sto gramy eidamu. Nechat tortillu smažit na slabém dokud vejce nepřestane být tekuté.
+
+Potom celou tortillu otočit. Horní stranu potřít zbytkem vejce a do středu nasypat směs balkánského sýra, oliv, rajčat a bazalky. Na volné okraje nasypat zbytky eidamu. Chvíli nechat smažit. Poté s pomocí vařeček tortilu opatrně zabalit a nechat ještě trochu zasmažit.
 
 ## Buřtguláš <span id="burtgulas"></span>
 
@@ -159,21 +175,6 @@ Na pity smíchat suché přísady, přilít mléko, olej a michát dokud nevznik
 Namarinované maso dát na rozpálenou pánev a za pravidelného míchání nechat zavřít. Z okurky, jogurtu, česneku, soli a pepře udělat tzatziki. Rajčata nakrájet na kolečka a kolečka položit na maso na pánvi. Trochu stáhnout plamen, nemíchat. Voda z rajčat pustí do masa a začne se vařit, vrstva rajčat bude zároveň sloužit jako poklice, pod kterou se maso podusí.
 
 ![Gyros s pitou](images/gyros_s_pitou.jpeg)
-
-## Hermelínový šáteček <span id="hermelinovy-satecek"></span>
-
-* Listové těsto (125g na porci)
-* Hermelín (per porce)
-* Grilovací koření
-* Granátové jablko
-* Mix listových salátů
-* Zálivka (olivový olej, acetato balsamiko, citronová šťáva, cukr, sůl)
-* Sezamová semínka
-* 1 vejce
-
-Hermelín naložit v grilovacím koření. Rozválet těsto, vložit hermelín doprostřed a zavázat těsto do podoby šátečku. Potřít šáteček rozmíchaným vejcem a posypat sezamem. Dát péct na 220°C na půl hodiny. Na talíři udělat kruh ze salátů se zálivkou a posypat semeny z granátového jablka a sezamem. Šáteček umístit do středu.
-
-![Hermelínový šáteček](images/hermelin_satek.jpeg)
 
 ## Chilli con carne <span id="chilli-con-carne"></span>
 
