@@ -33,11 +33,7 @@
 	* [Tagliatelle s lososem](#tagliatelle-s-lososem)
 	* [Utopenci](#utopenci)
  * Ostatní
-	* [Briošky](#briosky)
-	* [Kváskové křupky](#kvaskove-krupky)
 	* [Pivo](#pivo)
-	* [Toustový chleba](#toustak)
-	* [Žitný chleba](#zitny-chleba)
 
 # Saláty
 
@@ -425,7 +421,7 @@ Jako základ nakrájet cibuli na kostičky a dát na olej zesklovatět, pak zal�
 
 ![Rajská omáčka](images/rajska_omacka.jpeg)
 
-## Sekaná s olivami
+## Sekaná s olivami <span id="sekana-s-olivami"></span>
 
 * 500g mleté maso mix
 * 1 balení oliv
