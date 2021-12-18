@@ -213,6 +213,8 @@ Rozmixovat olej, vejce a cukr. Přilít mléko a za stálého mixování přisyp
 
 Všechny přísady smíchat - kafe tam nalít aji s lógrem. Nechat chvilku v chladu odležet a poté vykrajovat malé kousky, vyválet kuličku a obalit ji v nastrouhaném kokosu.
 
+![Pivo](images/dummy.jpg)
+
 ## Octové cukroví <span id="octove-cukrovi"></span>
 
 Těsto
@@ -232,3 +234,5 @@ Obalení
 Heru nastrouhat (neroztápět!) smíchat s prosetou moukou a ostatními přísadami a pečlivě vypracovat těsto. Nechat odležet v lednici přes noc.
 
 Těsto vyválet na výšku cca 2mm, vykrájet tvary a dát na pečící papír na 8 minut do trouby předehřáté na 180°C. Následně ještě za tepla obalit v cukru, který je ovoněný vanilkou a dát odležet do chladu.
+
+![Pivo](images/dummy.jpg)

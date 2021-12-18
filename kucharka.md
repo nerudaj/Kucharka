@@ -7,7 +7,7 @@
 	* [Balkánská tortilla](#balkan-tortilla)
 	* [Buřtguláš](#burtgulas)
 	* [Čínské nudle](#cinske-nudle)
-	* [Fazole a klobása](#fazole-klobasa)
+	* [Fazole s klobásou](#fazole-klobasa)
 	* [Filé po italsku](#file-po-italsku)
 	* [Gyros s pitou](#gyros-s-pitou)
 	* [Cheeseburger](#cheeseburger)
@@ -18,7 +18,6 @@
 	* [Kuře na paprice](#kure-na-paprice)
 	* [Kuřecí prsa plněná mozzarelou](#kure-s-mozzarelou)
 	* [Kuskus s kuřecími nugetky](#kuskus-s-kurecimi-nugetky)
-	* [Naked burger](#naked-burger)
 	* [Nepálivá Garam masala kuře](#nepalive-indicke-kure)
 	* [Pizza Bianca](#pizza-bianca)
 	* [Pizza Napoletana](#pizza-napoletana)
@@ -85,6 +84,8 @@ Pánev rozehřát na mírném plameni a zlehka potřít olejem. Tortilu namočit
 
 Potom celou tortillu otočit. Horní stranu potřít zbytkem vejce a do středu nasypat směs balkánského sýra, oliv, rajčat a bazalky. Na volné okraje nasypat zbytky eidamu. Chvíli nechat smažit. Poté s pomocí vařeček tortilu opatrně zabalit a nechat ještě trochu zasmažit.
 
+![Balkánská tortilla](images/dummy.jpg)
+
 ## Buřtguláš <span id="burtgulas"></span>
 
 * cca 1-2 litry vody (přidat/vyvařit dle potřeby)
@@ -98,6 +99,8 @@ Potom celou tortillu otočit. Horní stranu potřít zbytkem vejce a do středu 
 Cibuli, špekáčky a větší brambory nakrájet na kostky (cibuli na malé kostičky). Špekáčky dát osmahnout na pánvičku. Do hrnce dát rozpálit tuk (olej, ale ještě lépe sádlo). Cibulku dát osmahnout dozlatova, jakmile začne zlatovatět, tak zasypat půlkou papriky. Promíchat a počkat až to trochu zpění. Pak zalít vodou a přidat brambory a veškeré koření. Stroužky česneku a dvě menší brambory nastrouhat najemno do vody. Jakmile se voda uvede k varu, přidat špekáčky a nechat alespoň hodinu vařit (průběžně míchat).
 
 > TIP: Nejlépe guláš chutná poté, co se nechá přes noc odležet v chladu.
+
+![Buřtguláš](images/dummy.jpg)
 
 ## Čínské nudle <span id="cinske-nudle"></span>
 
@@ -115,7 +118,9 @@ Cibuli, špekáčky a větší brambory nakrájet na kostky (cibuli na malé kos
 
 Osmahnout kousky masa a oddělat z pánve. Nudle dát na 30 minut odmočit do teplé vody. Zeleninu (mrkev, cibule, paprika, zelí) nakrájet na nudličky a osmahnout na pánvi, ale tak aby zůstalo vše křupavé. Přidat maso, nudle a vodu (ne moc). Ochutit kořením, sójovkou a UME octem, solí dle chuti. Jakmile jsou nudle hotové, sundat z plotny a přimíchat klíčky.
 
-## Fazole a klobása <span id="fazole-klobasa"></span>
+![Čínské nudle](images/dummy.jpg)
+
+## Fazole s klobásou <span id="fazole-klobasa"></span>
 
 * klobása
 * 250 ml rajčatového protlaku
@@ -124,6 +129,8 @@ Osmahnout kousky masa a oddělat z pánve. Nudle dát na 30 minut odmočit do te
 * cibule, česnek, tymián, rozmarýn
 
 Cibuli, česnek a klobásu nakrájet na kostičky a dát osmahnout. Přilít protlak, trochu vína a koření. Po další chvíli přidat fazole a ještě chvilku nechat na mírném plameni probublat.
+
+![Fazole s klobásou](images/dummy.jpg)
 
 ## Filé po italsku <span id="file-po-italsku"></span>
 
@@ -195,6 +202,8 @@ Namarinované maso dát na rozpálenou pánev a za pravidelného míchání nech
 
 Nakrájet česnek a cibuli nadrobno a dát osmahnout na oleji. Po zežloutnutí přidat maso a vařečkou nadrobit. Jakmile se maso zatáhne, poprášit kořením a pořádně promíchat. Dvě minuty restovat a následně zalít rajčaty, přidat slité fazole, nakrájenou papriku, chilli, čokoládu a zalít vývarem. Vařit další tři čtvrtě hodiny, nechat vodu volně odpařovat, občas promíchat.
 
+![Chilli con carne](images/dummy.jpg)
+
 ## Cheeseburger
 
 * 125-200 g hovězího masa (per porce), cca 20 % tuku
@@ -239,6 +248,8 @@ Servírovat ideálně s karlovarským knedlíkem a vejcem natvrdo.
 * bobkový list, nové koření
 
 Rýži nechat odmočit, pak slít a dát do hrnce rychle osmahnout na oleji. Pak zalít 1 a 1/2 hrnku vody, přidat bobkový list a nové koření a sůl a nechat vařit, dokud se voda nevsákne do rýže. Cibuli, papriku i rajčata nakrájet na nudličky. Na rozpálenou pánev dát nejdřív papriku, aby změkla, pak přidat cibuli, poté krevety a ve chvíli, kdy jsou krevety hotové přidat rajčata. Vzniklou směs promíchat s rýží.
+
+![Krevetové rizoto](images/dummy.jpg)
 
 ## Kuře na paprice <span id="kure-na-paprice"></span>
 
@@ -291,24 +302,6 @@ Olej a kuřecí kousky dát do kastrolu. Smažit na prudkém ohni několik minut
 Maso nakrájet na malé nugetky, okořenit oreganem, bazalkou, solí a pepřem a dát osmažit na pánev. Po dosmažení odložit bokem, olej nechat na pánvi. Papriku i cibuli nakrájet na malé kostičky. Papriku nasypat na pánev k oleji z masa a přidat 100ml vody. Dát vařit. Nakrájet rajčata na osminy a udělat kuskus. Až bude paprika měkká, přidat na minutu cibuli, pak rajčata a po další minutě odstavit z plamene. Přidat kuskus, maso a petržel a promíchat.
 
 ![Kuskus s kuřecími nugetky](images/kuskus_s_kurecimi_nugetky.jpeg)
-
-## Naked burger
-
-* 200g masa na burger per porce
-* 1 vejce per porce
-* ledový salát
-* cherry rajčata
-
-Zálivka
-
-* olivový olej
-* acetato balsamiko
-* pár kapek citronu
-* sůl
-
-Z masa vytvořit placičky a připravit je stejným způsobem jako na burger. Vejce buď připravit na sázený způsob, nebo jako volské oko. Cherry rajčata nakrájet na čtvrtiny, salát nalámat a smíchat se zálivkou. Na talíř naservírovat nejdříve salát, na něj umístit maso a na maso položit vejce. Jako příloha se hodí domácí hranolky nebo jen bageta.
-
-![Naked burger](images/naked_burger.jpeg)
 
 ## Nepálivá Garam masala kuře <span id="nepalive-indicke-kure"></span>
 
@@ -378,6 +371,8 @@ Při hnětení těsta postupně zapracovat zbytek mouky, kterými se průběžn�
 Pak zakrýt vlhkou utěrkou a nechat ležet dvě hodiny. Po dvou hodinách rozdělit na čtyři kousky a vypracovat bochánky. Bochánky umístit do hermeticky uzavřené nádoby a nechat v chladnějším prostředí kynout alespoň 24 hodin.
 
 Péct ideálně na 430°C 90 vteřin i s topingem nebo předpéct pouze se sugem 5 min při 230°C a pak další 3 minuty se sýrem, šunkou a ostatními přísadami.
+
+![Pizza napoletana](images/dummy.jpg)
 
 ## Quesadilla
 
@@ -610,3 +605,5 @@ Nechat ležet v temném prostředí 2-4 týdny při teplotě cca 12°C.
 > EPM: Do odebraného vzorku ponořit hustoměr a provést odečet. Vzorek vylít/vypít. EPM je údaj o hustotě sladového extraktu ve vodě.
 
 > Specifická hustota = (Plato * 4 + 1000) / 1000 = Original Gravity (OG)
+
+![Pivo](images/dummy.jpg)

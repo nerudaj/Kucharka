@@ -42,6 +42,8 @@ Po vyjmutí z trouby zakrýt utěrkou a nechat vychladnout.
 
 Vypracovat ze surovin tuhé těsto a vyválet ho na 0.5 - 1 cm tlustý plát, a vykrajovátky ho nadělit na jednotlivé kusy křupek. Ty obalit ve směsi semínek/koření a dát na pečící papír na plech. Péct v předehřáté troubě na 180-200° C cca 15 minut.
 
+![Pivo](images/dummy.jpg)
+
 ## Podmáslový chleba
 
 * 200g žitného rozkvasu
@@ -56,6 +58,8 @@ Vypracovat ze surovin tuhé těsto a vyválet ho na 0.5 - 1 cm tlustý plát, a 
 Ze surovin vypracovat tuhé těsto, ideálně i s pomocí robotu. Těsto dát do mísy a zakrýt utěrkou. Po hodině přeložit. Po další hodině opět přeložit, vypracovat bochník a dát do pomoučené ošatky na další dvě hodiny kynout.
 
 Péct v předehřáté troubě na 230° na horní i dolní 15 minut, po tuto dobu mít v troubě misku s vodou. Poté vyndat misku, odvětrat troubu a dopéct na 190° na 30 minut na spodní ohřev.
+
+![Pivo](images/dummy.jpg)
 
 ## Toustový chleba
 
