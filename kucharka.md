@@ -17,6 +17,7 @@
 	* [Kuře na červeno](#kure-na-cerveno)
 	* [Kuře na paprice](#kure-na-paprice)
 	* [Kuřecí prsa plněná mozzarelou](#kure-s-mozzarelou)
+	* [Kuřecí prsa plněná pestem](#kure-s-pestem)
 	* [Kuskus s kuřecími nugetky](#kuskus-s-kurecimi-nugetky)
 	* [Nepálivá Garam masala kuře](#nepalive-indicke-kure)
 	* [Pizza Bianca](#pizza-bianca)
@@ -275,6 +276,21 @@ Kuřecí kousky opepřit, osolit a velice rychle osmahnout na oleji. Poté i s o
 Troubu předehřát na 180°C. Prsa osolit zvenku a pak podélně naříznout, aby vznikla kapsa. Sýry, bazalku a horčici promíchat a následně směsí naplnit kapsy v kuřecích prsech. Prsa obalit ve třech plátcích slaniny a ideálně obvázat provázkem. Péct 20-25 minut.
 
 ![Kuřecí prsa plněná mozzarelou](images/kure_s_mozzarelou.jpg)
+
+## Kuřecí prsa plněná pestem <span id="kure-s-pestem"></span>
+
+* kuřecí prsa
+* pesto (bazalkové, rukolové, ...)
+* 2 lžíce sojové omáčky
+* 1.5 lžíce medu
+* 2 špetky soli
+* 100ml kuřecího vývaru
+
+Prsa naříznout tak, aby vznikla kapsa a do kapsy rozetřít pesto. Prsa je pak možné zavřít párátkem nebo zavázat provázkem. Jemně maso osolit a vložit do pekáčku.
+
+Ve vývaru rozmíchat med a sojovou omáčku, přelít prsa a dát péct na 180°C na 50 minut.
+
+![Kuřecí prsa plněná pestem](images/dummy.jpg)
 
 ## Kuře na červeno <span id="kure-na-cerveno"></span>
 

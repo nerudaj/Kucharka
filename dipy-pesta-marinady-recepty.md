@@ -19,6 +19,7 @@
 	* Bazalkové pesto
 	* Paprikové pesto
 	* Pesto Rosso
+	* Rukolové pesto
 
 # Dipy
 
@@ -187,3 +188,13 @@ V troubě předehřáté na 180° 30-40 minut péct papriky, na druhou půlku pe
 * sůl, pepř, bazalka, oregano podle chuti
 
 ![Pivo](images/dummy.jpg)
+
+### Rukolové pesto
+
+* 1 díl rukoly
+* 1 díl lístkových ořechů
+* 1 díl jemně strouhaného parmazánu
+* 2 díly olivového oleje
+* 1 stroužek česneku
+* 1 lžíce octa
+* sůl
