@@ -19,6 +19,7 @@
 	* [Kuřecí prsa plněná mozzarelou](#kure-s-mozzarelou)
 	* [Kuřecí prsa plněná pestem](#kure-s-pestem)
 	* [Kuskus s kuřecími nugetky](#kuskus-s-kurecimi-nugetky)
+	* [Musaka (variace)](#musaka)
 	* [Nepálivá Garam masala kuře](#nepalive-indicke-kure)
 	* [Pizza Bianca](#pizza-bianca)
 	* [Pizza Napoletana](#pizza-napoletana)
@@ -318,6 +319,21 @@ Olej a kuřecí kousky dát do kastrolu. Smažit na prudkém ohni několik minut
 Maso nakrájet na malé nugetky, okořenit oreganem, bazalkou, solí a pepřem a dát osmažit na pánev. Po dosmažení odložit bokem, olej nechat na pánvi. Papriku i cibuli nakrájet na malé kostičky. Papriku nasypat na pánev k oleji z masa a přidat 100ml vody. Dát vařit. Nakrájet rajčata na osminy a udělat kuskus. Až bude paprika měkká, přidat na minutu cibuli, pak rajčata a po další minutě odstavit z plamene. Přidat kuskus, maso a petržel a promíchat.
 
 ![Kuskus s kuřecími nugetky](images/kuskus_s_kurecimi_nugetky.jpeg)
+
+## Musaka (variace) <span id="musaka"></span>
+
+* 300 g mletého masa
+* půlka cibule nakrájená na kostičky
+* 2 nastrouhané stroužky česneku
+* plátky brambor na pokrytí pekáče
+* 500 ml rajčatového protlaku s provensálským kořením
+* 150 g strouhaného eidamu
+* bešamel
+* tymián, půl lžičky skořice, rozmarýn, pepř, sůl
+
+Na oleji nechat zesklovatět cibuli, přidat mleté maso s nastrouhaným česnekem a osmahnout. Směs rozprostřít v pekáči, zaskládat bramborami, zalít protlakem, pokrýt bešamelem a zasypat eidamem. Dát péct do trouby na 180°C na 20 minut.
+
+![Musaka](images/dummy.jpg)
 
 ## Nepálivá Garam masala kuře <span id="nepalive-indicke-kure"></span>
 
