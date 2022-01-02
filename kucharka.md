@@ -10,6 +10,7 @@
 	* [Fazole s klobásou](#fazole-klobasa)
 	* [Filé po italsku](#file-po-italsku)
 	* [Gyros s pitou](#gyros-s-pitou)
+	* [Hovězí maso na víně s kořenovou zeleninou](#hovezi-na-vine)
 	* [Cheeseburger](#cheeseburger)
 	* [Chilli con carne](#chilli-con-carne)
 	* [Koprovka](#koprovka)
@@ -184,6 +185,27 @@ Na pity smíchat suché přísady, přilít mléko, olej a michát dokud nevznik
 Namarinované maso dát na rozpálenou pánev a za pravidelného míchání nechat zavřít. Z okurky, jogurtu, česneku, soli a pepře udělat tzatziki. Rajčata nakrájet na kolečka a kolečka položit na maso na pánvi. Trochu stáhnout plamen, nemíchat. Voda z rajčat pustí do masa a začne se vařit, vrstva rajčat bude zároveň sloužit jako poklice, pod kterou se maso podusí.
 
 ![Gyros s pitou](images/gyros_s_pitou.jpeg)
+
+## Hovězí maso na víně s kořenovou zeleninou <span id="hovezi-na-vine"></span>
+
+* 300 g hovězího zadního masa
+* 2 větší cibule
+* 200 ml červeného suchého vína
+* 1 středně velká mrkev
+* 50 g celeru
+* 1 menší kořenová petržel
+* 200 ml hovězího vývaru
+* 1 stroužek česneku
+* 1 lžíce hladké mouky
+* tymián, bobkový list, sůl, pepř
+
+Cibuli nakrájet na drobno, kořenovou zelenininu na středně velké kostičky a maso na kousky velikosti sousta.
+
+Do hlubší pánve nalít 2 lžíce oleje a pomalu restovat cibuli na středním plameni. Pak přidat zeleninu a zvýšit plamen. Restovat 3 minuty, pak zeleninu shrnout ke straně pánve a vložit maso. Míchat, dokud se maso nezatáhne.
+
+Přidat koření a pořádně míchat asi minutu. Zaprášit moukou, promíchat a podlít vínem. Jakmile směs zhoustne a zlehka přichytávat, přidat cca 150 ml vývaru. Maso by mělo být ponořené. Zamíchat, zakrýt poklicí a za občasného míchání dusit cca 2 hodiny, dokud maso nezměkne. Když se vypaří část tekutiny, podlít opět vývarem.
+
+![Hovězí maso na víně s kořenovou zeleninou](images/dummy.jpg)
 
 ## Chilli con carne <span id="chilli-con-carne"></span>
 
