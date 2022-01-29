@@ -26,6 +26,7 @@
 	* [Pizza Napoletana](#pizza-napoletana)
 	* [Quesadilla](#quesadilla)
 	* [Rajská omáčka s karlovarským knedlíkem](#rajska-omacka-s-karlovarskym-knedlikem)
+	* [Segedín](#segedin)
 	* [Sekaná s olivami](#sekana-s-olivami)
 	* [Slaný řecký koláč](#slany-recky-kolac)
 	* [Slaný závin](#slany-zavin)
@@ -470,6 +471,20 @@ Rohlíky nakrájet na kostičky. Vajíčka rozdělit na bílky a žloutky. Žlou
 Jako základ nakrájet cibuli na kostičky a dát na olej zesklovatět, pak zalít vývarem a protlakem, přidat rum a koření. Nechat chvíli povařit a přidat cukr dle chuti. Maso dochutit a vytvořit 10 kuliček. Naskládat do omáčky a nechat uvařit.
 
 ![Rajská omáčka](images/rajska_omacka.jpeg)
+
+## Segedín <span id="segedin"></span>
+
+* 1/2 cibule
+* 300 g vepřové pečeně
+* 300 ml smetany na šlehání
+* 300 g kysaného zelí
+* 300 ml vody
+* kmín, sušená paprika, sůl, pepř, špetka cukru
+* jíška
+
+Cibuli nakrájet nadrobno, maso na kostky. Cibulku osmahnout dozlatova, pak přidat osolené a opepřené maso a nechat ho zavřít. Zalít vodou, dosolit a nechat provařit. Přidat zelí a smetanu a opět nechat provařit na slabém plameni. Dochutit cukrem a zahustit jíškou.
+
+![Segedín](images/dummy.jpg)
 
 ## Sekaná s olivami <span id="sekana-s-olivami"></span>
 
