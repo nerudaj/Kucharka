@@ -13,6 +13,7 @@
 	* [Hovězí maso na víně s kořenovou zeleninou](#hovezi-na-vine)
 	* [Cheeseburger](#cheeseburger)
 	* [Chilli con carne](#chilli-con-carne)
+	* [Kari rýže](#kari-ryze)
 	* [Koprovka](#koprovka)
 	* [Krevetové rizoto](#krevetove-rizoto)
 	* [Kuře na červeno](#kure-na-cerveno)
@@ -228,6 +229,21 @@ Přidat koření a pořádně míchat asi minutu. Zaprášit moukou, promíchat 
 Nakrájet česnek a cibuli nadrobno a dát osmahnout na oleji. Po zežloutnutí přidat maso a vařečkou nadrobit. Jakmile se maso zatáhne, poprášit kořením a pořádně promíchat. Dvě minuty restovat a následně zalít rajčaty, přidat slité fazole, nakrájenou papriku, chilli, čokoládu a zalít vývarem. Vařit další tři čtvrtě hodiny, nechat vodu volně odpařovat, občas promíchat.
 
 ![Chilli con carne](images/dummy.jpg)
+
+## Kari rýže <span id="kari-ryze"><span>
+
+Na jednu porci
+
+* 100 g masa nakrájeného na kostičky
+* 50 g rýže
+* půlka červené papriky
+* trocha vařeného hrášku
+* půlka cibule nakrájené na kostičky
+* kari, sůl, pepř, nové koření
+
+Rýži uvařit ve vodě s novým kořením a lžičkou kari. Cibulku s masem osmažit. Jakmile je rýže hotová, přidat ji na pánev k cibuli a masu, přidat nakrájenou papriku a hrášek a za stálého míchání rýži osmažit.
+
+![Kari rýže](images/dummy.jpg)
 
 ## Cheeseburger
 
