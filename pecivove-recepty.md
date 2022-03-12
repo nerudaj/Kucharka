@@ -61,7 +61,7 @@ Péct v předehřáté troubě na 230° na horní i dolní 15 minut, po tuto dob
 
 ![Pivo](images/dummy.jpg)
 
-## Toustový chleba
+## Toustový chleba <span id="toustovy-chleba"></span>
 
 * 350 g hladké mouky
 * 1/2 sáčku sušeného droždí

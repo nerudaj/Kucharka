@@ -21,12 +21,14 @@
 	* [Kuřecí prsa plněná mozzarelou](#kure-s-mozzarelou)
 	* [Kuřecí prsa plněná pestem](#kure-s-pestem)
 	* [Kuskus s kuřecími nugetky](#kuskus-s-kurecimi-nugetky)
+	* [Lečo](#leco)
 	* [Musaka (variace)](#musaka)
 	* [Nepálivá Garam masala kuře](#nepalive-indicke-kure)
 	* [Pizza Bianca](#pizza-bianca)
 	* [Pizza Napoletana](#pizza-napoletana)
 	* [Quesadilla](#quesadilla)
 	* [Rajská omáčka s karlovarským knedlíkem](#rajska-omacka-s-karlovarskym-knedlikem)
+	* [Ruské pelmeně](#ruske-pelmene)
 	* [Segedín](#segedin)
 	* [Sekaná s olivami](#sekana-s-olivami)
 	* [Slaný řecký koláč](#slany-recky-kolac)
@@ -359,6 +361,24 @@ Maso nakrájet na malé nugetky, okořenit oreganem, bazalkou, solí a pepřem a
 
 ![Kuskus s kuřecími nugetky](images/kuskus_s_kurecimi_nugetky.jpeg)
 
+## Lečo <span id="leco"></span>
+
+* 1/2 velké červené papriky
+* 1/2 velké žluté papriky
+* 2 račata
+* 1 cibule
+* 2 párky
+* 2 vejce
+* sůl, pepř
+
+Cibulku nakrájenou na kostičky a párky nakrájet na kolečka zlehka osmažit na sádle.
+
+Přidat papriku nakrájenou na drobné kostičky a nechat pět minut smažit. Přidat rajče nakrájené na drobno, dochutit solí a pepřem a nechat pod pokličkou dusit asi deset minut.
+
+Na závěr přidat dvě vejce, dobře rozmíchat a počkat dokud bílek nezbělá.
+
+![Lečo](images/dummy.jpeg)
+
 ## Musaka (variace) <span id="musaka"></span>
 
 * 300 g mletého masa
@@ -487,6 +507,30 @@ Rohlíky nakrájet na kostičky. Vajíčka rozdělit na bílky a žloutky. Žlou
 Jako základ nakrájet cibuli na kostičky a dát na olej zesklovatět, pak zalít vývarem a protlakem, přidat rum a koření. Nechat chvíli povařit a přidat cukr dle chuti. Maso dochutit a vytvořit 10 kuliček. Naskládat do omáčky a nechat uvařit.
 
 ![Rajská omáčka](images/rajska_omacka.jpeg)
+
+## Ruské pelmeně <span id="ruske-pelmene"></span>
+
+Těsto
+
+* 350 g hladké mouky
+* 125 ml vody
+* 1 vejce
+* 1/2 lžičky soli
+
+Náplň
+
+* 500 g mletého masa
+* 2 ks cibule nakrájené nadrobno
+* 2 stroužky českenu nakrájeného nadrobno
+* sůl, pepř
+
+Přísady na těsto promíchat, pořádně vypracovat na pevné a hladké těsto a nechat 20 až 30 minut odpočívat.
+
+Přísady na náplň promíchat, volitelně osmažit na pánvi. Odpočaté těsto vyválet na co nejtenčí placku a tvořítkem o průměru 8 cm vykrajovat kolečka. Doprostřed dát lžičku náplně a okraje pevně stisknout.
+
+Pelmeně vkládat do osolené vařící vody a vařit asi 5 minut. Jakmile vyplavou na povrch, tak vyjmout děrovanou naběračkou. Podávat zakapané rozpuštěným máslem a se zakysanou smetanou.
+
+![Ruské pelmeně](images/dummy.jpeg)
 
 ## Segedín <span id="segedin"></span>
 
