@@ -7,6 +7,8 @@
 	* [Balkánská tortilla](#balkan-tortilla)
 	* [Buřtguláš](#burtgulas)
 	* [Čínské nudle](#cinske-nudle)
+	* [Dýňová polévka](#dynova-polevka)
+	* [Dýňové rizoto](#dynove-rizoto)
 	* [Fazole s klobásou](#fazole-klobasa)
 	* [Filé po italsku](#file-po-italsku)
 	* [Gyros s pitou](#gyros-s-pitou)
@@ -38,6 +40,7 @@
 	* [Špenátový krém s noky](#spenatovy-krem-s-noky)
 	* [Tagliatelle s lososem](#tagliatelle-s-lososem)
 	* [Utopenci](#utopenci)
+	* [Vepřová roláda se špenátem](#veprova-rolada-se-spenatem)
  * Ostatní
 	* [Pivo](#pivo)
 
@@ -126,6 +129,37 @@ Cibuli, špekáčky a větší brambory nakrájet na kostky (cibuli na malé kos
 Osmahnout kousky masa a oddělat z pánve. Nudle dát na 30 minut odmočit do teplé vody. Zeleninu (mrkev, cibule, paprika, zelí) nakrájet na nudličky a osmahnout na pánvi, ale tak aby zůstalo vše křupavé. Přidat maso, nudle a vodu (ne moc). Ochutit kořením, sójovkou a UME octem, solí dle chuti. Jakmile jsou nudle hotové, sundat z plotny a přimíchat klíčky.
 
 ![Čínské nudle](images/dummy.jpg)
+
+## Dýňová polévka <span id="dynova-polevka"></span>
+
+* 1 cibule
+* 1 kg dýňě hokkaido
+* 500 ml zeleninového vývaru
+* 100 ml smetany
+* sůl, pepř
+
+V hrnci nechat zesklovatět cibuli nakrájenou nadrobno. Dýni oloupat, zbavit semínek a nakrájet na menší kostky. Kostky přidat do hrnce a restovat deset minut. Poté zalít vývarem a vařit 15-20 minut.
+
+Rozmixovat tyčovým mixérem, ochutit solí a pepřem a zalít smetanou. Nechat ještě pár minut provařit.
+
+> Podávat se zakysanou smetanou.
+
+![Dýňová polévka](images/dummy.jpg)
+
+## Dýňové rizoto <span id="dynove-rizoto"></span>
+
+* 250 ml dýňové polévky
+* 100 g rýže
+* 200 g kuřecích prsou
+* hrst rukoly
+* kostičky cheddaru nebo parmazánu
+* 1 menší cibule
+
+Kuřecí prsa nakrájet na menší kostičky a orestovat na pánvi. Jakmile jsou hotová, odebrat do misky a na slabém plameni a oleji nechat karamelizovat cibulku nakrájenou na proužky (možno dochutit špetkou třtinového cukru).
+
+Jakmile je cibule hotová, přidat rýži, zalít polévkou a důkladně promíchat. Poté přidat sýr a maso. Před podáváním vmíchat listy rukoly.
+
+![Dýňové rizoto](images/dummy.jpg)
 
 ## Fazole s klobásou <span id="fazole-klobasa"></span>
 
@@ -703,6 +737,25 @@ Lák
 Dle nádoby a počtu špekáčků odměřit přibližně kolik bude potřeba octa. Špekáčky nechat aspoň hodinu odležet v teple a pak z nich stáhnout střívko. Koření i s octem dát do rendlíku a dát vařit (během vaření rozmíchat cukr). Špekáčky přeříznout napůl a cibuli nakrájet na tenká kolečka. Papriky nakrájet na tenké proužky. Pak vše naskládat do sklenice - na dno naskládat vrstvu cibule, pár proužků paprik, vrstvu špekáčků a pořádně upěchovat. Proces opakovat, dokud sklenice nebude plná. Uvařený lák nechat lehce schladnout a pak nalít do sklenice až po okraj. Sklenici zadeklovat a dát minimálně na týden dát do chladu.
 
 ![Utopenci](images/utopenci.jpeg)
+
+## Vepřová roláda se špenátem <span id="veprova-rolada-se-spenatem"></span>
+
+* 600 g mletého vepřového masa
+* 100 g sýru balkán
+* 250 g listového špenátu
+* 2 cibule
+* 2 stroužky česneku
+* sůl, pepř
+
+Jednu cibuli nakrájet nadrobno a dát zpěnit na másle. Poté přidat nahrubo nasekaný špenát a nastrouhaný česnek. Na mírném plameni nechat zavadnout.
+
+Maso osolit a opepřit a pořádně rukama promačkat. Rozprostřít maso na potravinovou fólii, ve výšce 1-2 cm po celé šíři fólie. Na jeden z krajů rozprostřít po celé šíři směs špenátu a zasypat nadrobeným balkánským sýrem.
+
+S pomocí fólie zabalit maso do rolky a dát do pekáče. Kolem rozprostřít nahrubo nakrájenou cibuli a podlít trochou vody.
+
+Péct cca 45 minut na 180°C. Pravidelně maso přelévat výpekem, aby vytvořilo kůrku.
+
+![Vepřová roláda se špenátem](images/veprova_rolada_se_spenatem.jpeg)
 
 # Ostatní
 
