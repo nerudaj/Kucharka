@@ -2,7 +2,7 @@
 
 ## Obsah
 
- * Rychlé dipy (#rychlovky)
+ * [Rychlé dipy](#rychlovky)
 	* Česnekový dip
 	* Kari dip
 	* Provensálský dip
@@ -11,12 +11,12 @@
  * [Dip s karamelizovanou cibulkou](#dip-s-karamel-cibulkou)
  * [Rajčatová salsa](#rajcatova-salsa)
  * [Sriracha omáčka](#sriracha)
- * Marinády (#marinady)
+ * [Marinády](#marinady)
 	* Bylinková marináda na kuřecí prsa
 	* Kari marináda na kuře
 	* Kečupová marináda
 	* Pivní marináda
- * Pesta (#pesta)
+ * [Pesta](#pesta)
 	* Bazalkové pesto
 	* Paprikové pesto
 	* Pesto Rosso
