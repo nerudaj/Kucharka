@@ -1,4 +1,11 @@
-# Saláty
+# Kuchařka
+
+* [Saláty](#sekce-salaty)
+* [Hlavní jídla](#sekce-jidla)
+* [Dipy, pesta, marinády](#sekce-dipy)
+* [Dezerty](#sekce-dezerty)
+* [Pečivo](#sekce-recepty)
+# Saláty <span id="sekce-salaty"></span>
 
 ## Obsah
 
@@ -34,7 +41,7 @@ Eidam nastrouhat, rajčata, mozzarelu a prsty nakrájet na kostičky.
 * olivový olej na pokapání
 
 ![Těstovinový salát](images/testovinovy_salat.jpeg)
-# Hlavní jídla
+# Hlavní jídla <span id="sekce-jidla"></span>
 
 ## Obsah
 
@@ -754,7 +761,7 @@ S pomocí fólie zabalit maso do rolky a dát do pekáče. Kolem rozprostřít n
 Péct cca 45 minut na 180°C. Pravidelně maso přelévat výpekem, aby vytvořilo kůrku.
 
 ![Vepřová roláda se špenátem](images/veprova_rolada_se_spenatem.jpeg)
-# Dipy, Pesta, Marinády
+# Dipy, Pesta, Marinády <span id="sekce-dipy"></span>
 
 ## Obsah
 
@@ -953,7 +960,7 @@ V troubě předehřáté na 180° 30-40 minut péct papriky, na druhou půlku pe
 * 1 stroužek česneku
 * 1 lžíce octa
 * sůl
-# Sladké recepty
+# Dezerty <span id="sekce-dezerty"></span>
 
 ## Obsah
 
@@ -1193,7 +1200,7 @@ Heru nastrouhat (neroztápět!) smíchat s prosetou moukou a ostatními přísad
 Těsto vyválet na výšku cca 2mm, vykrájet tvary a dát na pečící papír na 8 minut do trouby předehřáté na 180°C. Následně ještě za tepla obalit v cukru, který je ovoněný vanilkou a dát odležet do chladu.
 
 ![Pivo](images/dummy.jpg)
-# Pečivo
+# Pečivo <span id="sekce-pecivo"></span>
 
 ## Obsah
 
