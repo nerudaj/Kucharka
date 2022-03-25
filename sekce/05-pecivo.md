@@ -6,6 +6,7 @@
  * [Kváskové křupky](#kvaskove-krupky)
  * [Podmaslovy chleba](#podmaslovy-chleba)
  * [Toustový chleba](#toustovy-chleba)
+ * [Toustový chleba z kvásku](#toustovy-chleba-kvasek)
  * [Zitny chleba](#zitny-chleba)
 
 ## Briošky <span id="briosky"></span>
@@ -46,7 +47,7 @@ Vypracovat ze surovin tuhé těsto a vyválet ho na 0.5 - 1 cm tlustý plát, a 
 
 ## Podmáslový chleba
 
-* 200g žitného rozkvasu
+* 200 g žitného rozkvasu
 	* 100 g žitné mouky
 	* 100 g vody
 	* pár lžic žitného kvásku
@@ -72,6 +73,25 @@ Péct v předehřáté troubě na 230° na horní i dolní 15 minut, po tuto dob
 Smíchat mléko se 100 gramy mouky, přisypat droždí a nechat probudit. Přidat sůl, zbytek mouky a ostáte máslo a vypracovat těsto. Těsto nechat 2-3 hodiny kynout, periodicky překládat. Pak z těsta vypracovat špalek a položit do formy, nechat kynout, dokud nedosáhne uspokojivé velikosti. Péct v předehřáté troubě na 190°C, 10 minut zeshora i zespoda a 20 minut pouze zespoda.
 
 ![Toustovy chleba](images/toustovy_chleba.jpg)
+
+## Toustový chleba z kvásku <span id=toustovy-chleba-kvasek"></span>
+
+* 300 g pšeničného rozkvasu
+	* 150 g hladké mouky
+	* 150 g vody
+	* 1-2 lžíce pšeničného (nebo žitného) kvásku
+* 200 g hladké mouky
+* 100 g hrubé mouky
+* 150 ml mléka
+* 60 g másla
+
+Mléko nechat změknout v pokojové teplotě a mixérem vypracovat ze všech surovin těsto. Těsto dát do mísy vymazané olejem a nechat kynout asi šest hodin. Každé dvě hodiny přeložit (pokud by těsto kynulo rychleji, překládat pokaždé, když zdvojnásobí svůj objem). Při třetím přeložení přesunout těsto do pečící formy a nechat kynout, dokud nezdvojnásobí svůj objem.
+
+Poté dát péct na 170°C, 30 minut, horkovzduch.
+
+> Pokud se na rozkvas použije žitný kvásek, může kynutí trvat opravdu dlouho, nejlepší je rozkvas nechat udělat přes noc a těsto vypracovat už ráno.
+
+![Toustový chleba z kvásku](images/toustovy_chleba_kvasek.jpg)
 
 ## Žitný chleba <span id="zitny-chleba"></span>
 

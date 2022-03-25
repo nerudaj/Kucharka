@@ -4,4 +4,4 @@
 * [Hlavní jídla](#sekce-jidla)
 * [Dipy, pesta, marinády](#sekce-dipy)
 * [Dezerty](#sekce-dezerty)
-* [Pečivo](#sekce-recepty)
+* [Pečivo](#sekce-pecivo)
