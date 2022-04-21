@@ -20,6 +20,7 @@
 	* Bazalkové pesto
 	* Paprikové pesto
 	* Pesto Rosso
+	* Pesto z medvědího česneku
 	* Rukolové pesto
 
 ## Rychlé dipy <span id="rychlovky"></span>
@@ -186,7 +187,13 @@ V troubě předehřáté na 180° 30-40 minut péct papriky, na druhou půlku pe
 * 1 lžíce rozmarýnu
 * sůl, pepř, bazalka, oregano podle chuti
 
-![Pivo](images/dummy.jpg)
+### Pesto z medvědího česneku
+
+* 100 g nahrubo nasekaného medvědího česneku
+* 50 g nesolených kešu oříšků
+* 50 g sýr pecorino
+* 100 ml olivového oleje
+* špetka soli, kajenského pepře
 
 ### Rukolové pesto
 
@@ -197,3 +204,5 @@ V troubě předehřáté na 180° 30-40 minut péct papriky, na druhou půlku pe
 * 1 stroužek česneku
 * 1 lžíce octa
 * sůl
+
+![Pivo](images/dummy.jpg)
