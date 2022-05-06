@@ -5,7 +5,7 @@
 * Dezerty
 	* [Belgické vafle](#belgicke-vafle)
 	* [Brownies](#brownies)
-	* [Cupcaky](#cupcaky)
+	* [Čokoládový cupcake](#coko-cupcake)
 	* [Kinder řezy](#kinder-rezy)
 	* [Krtkův dort](#krtkuv-dort)
 	* [Medovník](#medovník)
@@ -51,22 +51,36 @@ Pečící formu vyložit pečícím papírem, vlít těsto a dát péct aspoň n
 
 ![Brownies](images/brownies.jpeg)
 
-## Cupcaky
+## Čokoládový cupcake <span id="coko-cupcake"></span>
 
-* 220 g hladké mouky
-* 220 g cukru
-* 60 g kakaa
-* půl lžičky soli
-* lžička jedlé sody
-* 1 hrnek vychladlé kávy
-* 1 hrnek podmáslí
-* 225 ml oleje
-* 3 vejce
-* 150 g nasekané čokolády
+Těsto (~16 ks)
 
-Sypké přísady do mísy prosít přes síto. Mokré přísady důkladně promíchat a pak za stálého mixování pomalu přilévat do sypkého. Mixováním vypracovat tekuté těsto. Do těsta vmíchat kousky čokolády a směs nalít do forem na cupcaky do cca 2/3 každé formy. Péct v troubě předehřáté na 160° 24 minut.
+* 200 g hladké mouky
+* 200 g krystalového cukru
+* 1 g kypřícího prášku
+* 1 g jedlé sody
+* špetka soli
+* 50 g kakaa
+* 125 ml oleje
+* 250 ml podmáslí
+* půl lžičky vanilkového extraktu
+* 2 lžičky horké instantní kávy
 
-> Množství by mělo stačit na 24 cupcaků.
+Krém
+
+* 250 ml másla nebo tuku na krém (Stella)
+* 300-500 g moučkového cukru dle potřeby a chuti
+* Volitelně lžíce kakaa
+
+Mouku, kakao, sůl, kypřící prášek a jedlou sodu přesít přes síto a pak důkladně promíchat, dokud nevznikne našedlá směs.
+
+Cukr rozmíchat v podmáslí a oleji, přidat vanilkový extrakt. Po částech přidávach suché do mokrého a opatrně promíchat měchačkou (nepřehánět a nepoužívat mixér, aby se lepek neaktivoval). Jakmile je vše pečlivě rozmícháno, přilít horké kafe, rozmíchat a nalít těsto do forem na cupkaky. Péct 15-20 minut v troubě předehřáté na 180°C.
+
+Máslo na krém nechat v pokojové teplotě několik hodin, dokud v něm nejde prstem snadno udělat důlek (zároveň z másla nesmí být břečka). Dát do mísy a šlehat, dokud nezbělá (několik minut). Poté po částech přidat přesitý cukr a šleháním začlenit.
+
+Na konci volitelně přidat kakao a opět rozšlehat. Pokud je náhodou směs moc tuhá, dá se naředit trochou mléka nebo ideálně šlehačky.
+
+> Místo podmáslí se dá do normálního mléka nakapat lžíce citronové šťávy, promíchat a nechat deset minut odstát.
 
 ![Muffiny](images/muffiny.jpeg)
 
