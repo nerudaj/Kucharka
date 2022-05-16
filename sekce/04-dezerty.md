@@ -5,6 +5,7 @@
 * Dezerty
 	* [Belgické vafle](#belgicke-vafle)
 	* [Brownies](#brownies)
+	* [Citronový cupcake]#(citron-cupcake)
 	* [Čokoládový cupcake](#coko-cupcake)
 	* [Kinder řezy](#kinder-rezy)
 	* [Krtkův dort](#krtkuv-dort)
@@ -51,6 +52,34 @@ Pečící formu vyložit pečícím papírem, vlít těsto a dát péct aspoň n
 
 ![Brownies](images/brownies.jpeg)
 
+## Citronový cupcake <span id="citron-cupcake"></span>
+
+
+Těsto (~12 ks)
+* 125 g hladké mouky
+* 125 g cukru moučka
+* 1 g jedlé sody
+* 1 g kypřícího prášku
+* špetka soli
+* 125 g másla
+* 2 vejce
+* 2 lžíce citronové šťávy
+* nastrouhaná kůra z 1-2 citronů
+
+Krém
+
+* 200 g másla
+* 300-500 g moučkového cukru
+* 100 g jahod nebo borůvek
+
+Suché přísady přesít do mísy. Přidat několik hodin odstáté, změklé máslo a dvě vejce. Šlehačem šlehat přibližně minutu, poté stěrkou setřít stěny nádoby a promíchat těsto. Přidat citronovou kůru a šťávu.
+
+Znovu promixovat (znovu asi minutu) a rozdělit do košíčku na cupcaky. Pak dát do trouby předehřáté na 170°C na 18-20 minut.
+
+Ovoce na krém dát na nízký plamen do rendlíku spolu se lžící vody, chvilku nechat povařit, pak rozmixovat tyčovým mixérem a nechat většinu vody odpařit. Zbylý džem nechat vychladnout v lednici a pak přidat spolu s cukrem do krému (postup na krém viz recept na čokoládový cupcake).
+
+![Muffiny](images/muffiny.jpeg)
+
 ## Čokoládový cupcake <span id="coko-cupcake"></span>
 
 Těsto (~16 ks)
@@ -68,7 +97,7 @@ Těsto (~16 ks)
 
 Krém
 
-* 250 ml másla nebo tuku na krém (Stella)
+* 250 g másla nebo tuku na krém (Stella)
 * 300-500 g moučkového cukru dle potřeby a chuti
 * Volitelně lžíce kakaa
 

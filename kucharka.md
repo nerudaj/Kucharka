@@ -4,7 +4,7 @@
 * [Hlavní jídla](#sekce-jidla)
 * [Dipy, pesta, marinády](#sekce-dipy)
 * [Dezerty](#sekce-dezerty)
-* [Pečivo](#sekce-recepty)
+* [Pečivo](#sekce-pecivo)
 # Saláty <span id="sekce-salaty"></span>
 
 ## Obsah
@@ -783,6 +783,7 @@ Péct cca 45 minut na 180°C. Pravidelně maso přelévat výpekem, aby vytvoři
 	* Bazalkové pesto
 	* Paprikové pesto
 	* Pesto Rosso
+	* Pesto z medvědího česneku
 	* Rukolové pesto
 
 ## Rychlé dipy <span id="rychlovky"></span>
@@ -949,7 +950,13 @@ V troubě předehřáté na 180° 30-40 minut péct papriky, na druhou půlku pe
 * 1 lžíce rozmarýnu
 * sůl, pepř, bazalka, oregano podle chuti
 
-![Pivo](images/dummy.jpg)
+### Pesto z medvědího česneku
+
+* 100 g nahrubo nasekaného medvědího česneku
+* 50 g nesolených kešu oříšků
+* 50 g sýr pecorino
+* 100 ml olivového oleje
+* špetka soli, kajenského pepře
 
 ### Rukolové pesto
 
@@ -960,6 +967,8 @@ V troubě předehřáté na 180° 30-40 minut péct papriky, na druhou půlku pe
 * 1 stroužek česneku
 * 1 lžíce octa
 * sůl
+
+![Pivo](images/dummy.jpg)
 # Dezerty <span id="sekce-dezerty"></span>
 
 ## Obsah
@@ -967,7 +976,8 @@ V troubě předehřáté na 180° 30-40 minut péct papriky, na druhou půlku pe
 * Dezerty
 	* [Belgické vafle](#belgicke-vafle)
 	* [Brownies](#brownies)
-	* [Cupcaky](#cupcaky)
+	* [Citronový cupcake]#(citron-cupcake)
+	* [Čokoládový cupcake](#coko-cupcake)
 	* [Kinder řezy](#kinder-rezy)
 	* [Krtkův dort](#krtkuv-dort)
 	* [Medovník](#medovník)
@@ -1013,22 +1023,64 @@ Pečící formu vyložit pečícím papírem, vlít těsto a dát péct aspoň n
 
 ![Brownies](images/brownies.jpeg)
 
-## Cupcaky
+## Citronový cupcake <span id="citron-cupcake"></span>
 
-* 220 g hladké mouky
-* 220 g cukru
-* 60 g kakaa
-* půl lžičky soli
-* lžička jedlé sody
-* 1 hrnek vychladlé kávy
-* 1 hrnek podmáslí
-* 225 ml oleje
-* 3 vejce
-* 150 g nasekané čokolády
 
-Sypké přísady do mísy prosít přes síto. Mokré přísady důkladně promíchat a pak za stálého mixování pomalu přilévat do sypkého. Mixováním vypracovat tekuté těsto. Do těsta vmíchat kousky čokolády a směs nalít do forem na cupcaky do cca 2/3 každé formy. Péct v troubě předehřáté na 160° 24 minut.
+Těsto (~12 ks)
+* 125 g hladké mouky
+* 125 g cukru moučka
+* 1 g jedlé sody
+* 1 g kypřícího prášku
+* špetka soli
+* 125 g másla
+* 2 vejce
+* 2 lžíce citronové šťávy
+* nastrouhaná kůra z 1-2 citronů
 
-> Množství by mělo stačit na 24 cupcaků.
+Krém
+
+* 200 g másla
+* 300-500 g moučkového cukru
+* 100 g jahod nebo borůvek
+
+Suché přísady přesít do mísy. Přidat několik hodin odstáté, změklé máslo a dvě vejce. Šlehačem šlehat přibližně minutu, poté stěrkou setřít stěny nádoby a promíchat těsto. Přidat citronovou kůru a šťávu.
+
+Znovu promixovat (znovu asi minutu) a rozdělit do košíčku na cupcaky. Pak dát do trouby předehřáté na 170°C na 18-20 minut.
+
+Ovoce na krém dát na nízký plamen do rendlíku spolu se lžící vody, chvilku nechat povařit, pak rozmixovat tyčovým mixérem a nechat většinu vody odpařit. Zbylý džem nechat vychladnout v lednici a pak přidat spolu s cukrem do krému (postup na krém viz recept na čokoládový cupcake).
+
+![Muffiny](images/muffiny.jpeg)
+
+## Čokoládový cupcake <span id="coko-cupcake"></span>
+
+Těsto (~16 ks)
+
+* 200 g hladké mouky
+* 200 g krystalového cukru
+* 1 g kypřícího prášku
+* 1 g jedlé sody
+* špetka soli
+* 50 g kakaa
+* 125 ml oleje
+* 250 ml podmáslí
+* půl lžičky vanilkového extraktu
+* 2 lžičky horké instantní kávy
+
+Krém
+
+* 250 g másla nebo tuku na krém (Stella)
+* 300-500 g moučkového cukru dle potřeby a chuti
+* Volitelně lžíce kakaa
+
+Mouku, kakao, sůl, kypřící prášek a jedlou sodu přesít přes síto a pak důkladně promíchat, dokud nevznikne našedlá směs.
+
+Cukr rozmíchat v podmáslí a oleji, přidat vanilkový extrakt. Po částech přidávach suché do mokrého a opatrně promíchat měchačkou (nepřehánět a nepoužívat mixér, aby se lepek neaktivoval). Jakmile je vše pečlivě rozmícháno, přilít horké kafe, rozmíchat a nalít těsto do forem na cupkaky. Péct 15-20 minut v troubě předehřáté na 180°C.
+
+Máslo na krém nechat v pokojové teplotě několik hodin, dokud v něm nejde prstem snadno udělat důlek (zároveň z másla nesmí být břečka). Dát do mísy a šlehat, dokud nezbělá (několik minut). Poté po částech přidat přesitý cukr a šleháním začlenit.
+
+Na konci volitelně přidat kakao a opět rozšlehat. Pokud je náhodou směs moc tuhá, dá se naředit trochou mléka nebo ideálně šlehačky.
+
+> Místo podmáslí se dá do normálního mléka nakapat lžíce citronové šťávy, promíchat a nechat deset minut odstát.
 
 ![Muffiny](images/muffiny.jpeg)
 
@@ -1208,6 +1260,7 @@ Těsto vyválet na výšku cca 2mm, vykrájet tvary a dát na pečící papír n
  * [Kváskové křupky](#kvaskove-krupky)
  * [Podmaslovy chleba](#podmaslovy-chleba)
  * [Toustový chleba](#toustovy-chleba)
+ * [Toustový chleba z kvásku](#toustovy-chleba-kvasek)
  * [Zitny chleba](#zitny-chleba)
 
 ## Briošky <span id="briosky"></span>
@@ -1248,7 +1301,7 @@ Vypracovat ze surovin tuhé těsto a vyválet ho na 0.5 - 1 cm tlustý plát, a 
 
 ## Podmáslový chleba
 
-* 200g žitného rozkvasu
+* 200 g žitného rozkvasu
 	* 100 g žitné mouky
 	* 100 g vody
 	* pár lžic žitného kvásku
@@ -1274,6 +1327,25 @@ Péct v předehřáté troubě na 230° na horní i dolní 15 minut, po tuto dob
 Smíchat mléko se 100 gramy mouky, přisypat droždí a nechat probudit. Přidat sůl, zbytek mouky a ostáte máslo a vypracovat těsto. Těsto nechat 2-3 hodiny kynout, periodicky překládat. Pak z těsta vypracovat špalek a položit do formy, nechat kynout, dokud nedosáhne uspokojivé velikosti. Péct v předehřáté troubě na 190°C, 10 minut zeshora i zespoda a 20 minut pouze zespoda.
 
 ![Toustovy chleba](images/toustovy_chleba.jpg)
+
+## Toustový chleba z kvásku <span id=toustovy-chleba-kvasek"></span>
+
+* 300 g pšeničného rozkvasu
+	* 150 g hladké mouky
+	* 150 g vody
+	* 1-2 lžíce pšeničného (nebo žitného) kvásku
+* 200 g hladké mouky
+* 100 g hrubé mouky
+* 150 ml mléka
+* 60 g másla
+
+Mléko nechat změknout v pokojové teplotě a mixérem vypracovat ze všech surovin těsto. Těsto dát do mísy vymazané olejem a nechat kynout asi šest hodin. Každé dvě hodiny přeložit (pokud by těsto kynulo rychleji, překládat pokaždé, když zdvojnásobí svůj objem). Při třetím přeložení přesunout těsto do pečící formy a nechat kynout, dokud nezdvojnásobí svůj objem.
+
+Poté dát péct na 170°C, 30 minut, horkovzduch.
+
+> Pokud se na rozkvas použije žitný kvásek, může kynutí trvat opravdu dlouho, nejlepší je rozkvas nechat udělat přes noc a těsto vypracovat už ráno.
+
+![Toustový chleba z kvásku](images/toustovy_chleba_kvasek.jpg)
 
 ## Žitný chleba <span id="zitny-chleba"></span>
 
