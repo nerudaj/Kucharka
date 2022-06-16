@@ -45,7 +45,7 @@ Vypracovat ze surovin tuhé těsto a vyválet ho na 0.5 - 1 cm tlustý plát, a 
 
 ![Pivo](images/dummy.jpg)
 
-## Podmáslový chleba
+## Podmáslový chleba <span id="podmaslovy-chleba"></span>
 
 * 200 g žitného rozkvasu
 	* 100 g žitné mouky
@@ -74,7 +74,7 @@ Smíchat mléko se 100 gramy mouky, přisypat droždí a nechat probudit. Přida
 
 ![Toustovy chleba](images/toustovy_chleba.jpg)
 
-## Toustový chleba z kvásku <span id=toustovy-chleba-kvasek"></span>
+## Toustový chleba z kvásku <span id="toustovy-chleba-kvasek"></span>
 
 * 300 g pšeničného rozkvasu
 	* 150 g hladké mouky

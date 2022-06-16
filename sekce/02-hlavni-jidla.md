@@ -373,7 +373,7 @@ Přidat papriku nakrájenou na drobné kostičky a nechat pět minut smažit. P�
 
 Na závěr přidat dvě vejce, dobře rozmíchat a počkat dokud bílek nezbělá.
 
-![Lečo](images/dummy.jpeg)
+![Lečo](images/dummy.jpg)
 
 ## Musaka (variace) <span id="musaka"></span>
 
@@ -526,7 +526,7 @@ Přísady na náplň promíchat, volitelně osmažit na pánvi. Odpočaté těst
 
 Pelmeně vkládat do osolené vařící vody a vařit asi 5 minut. Jakmile vyplavou na povrch, tak vyjmout děrovanou naběračkou. Podávat zakapané rozpuštěným máslem a se zakysanou smetanou.
 
-![Ruské pelmeně](images/dummy.jpeg)
+![Ruské pelmeně](images/dummy.jpg)
 
 ## Segedín <span id="segedin"></span>
 
