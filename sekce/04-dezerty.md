@@ -6,11 +6,11 @@
 	* [Banánový cupcake](#bananovy-cupcake)
 	* [Belgické vafle](#belgicke-vafle)
 	* [Brownies](#brownies)
-	* [Citronový cupcake]#(citron-cupcake)
+	* [Citronový cupcake](#citron-cupcake)
 	* [Čokoládový cupcake](#coko-cupcake)
 	* [Kinder řezy](#kinder-rezy)
 	* [Krtkův dort](#krtkuv-dort)
-	* [Medovník](#medovník)
+	* [Medovník](#medovnik)
 	* [Mramorové řezy](#mramorove-rezy)
 	* [Ovocný koláč](#ovocny-kolac)
 * Cukroví
@@ -95,7 +95,7 @@ Znovu promixovat (znovu asi minutu) a rozdělit do košíčku na cupcaky. Pak d�
 
 Ovoce na krém dát na nízký plamen do rendlíku spolu se lžící vody, chvilku nechat povařit, pak rozmixovat tyčovým mixérem a nechat většinu vody odpařit. Zbylý džem nechat vychladnout v lednici a pak přidat spolu s cukrem do krému (postup na krém viz recept na čokoládový cupcake).
 
-![Muffiny](images/muffiny.jpeg)
+![Muffiny](images/cupcakes.jpg)
 
 ## Čokoládový cupcake <span id="coko-cupcake"></span>
 
@@ -108,7 +108,8 @@ Těsto (~16 ks)
 * špetka soli
 * 50 g kakaa
 * 125 ml oleje
-* 250 ml podmáslí
+* 200 ml kefíru
+* 1 vejce
 * půl lžičky vanilkového extraktu
 * 2 lžičky horké instantní kávy
 
@@ -120,7 +121,7 @@ Krém
 
 Mouku, kakao, sůl, kypřící prášek a jedlou sodu přesít přes síto a pak důkladně promíchat, dokud nevznikne našedlá směs.
 
-Cukr rozmíchat v podmáslí a oleji, přidat vanilkový extrakt. Po částech přidávach suché do mokrého a opatrně promíchat měchačkou (nepřehánět a nepoužívat mixér, aby se lepek neaktivoval). Jakmile je vše pečlivě rozmícháno, přilít horké kafe, rozmíchat a nalít těsto do forem na cupkaky. Péct 15-20 minut v troubě předehřáté na 180°C.
+Cukr rozmíchat v kefíru, vejci a oleji, přidat vanilkový extrakt. Po částech přidávach suché do mokrého a opatrně promíchat měchačkou (nepřehánět a nepoužívat mixér, aby se lepek neaktivoval). Jakmile je vše pečlivě rozmícháno, přilít horké kafe, rozmíchat a nalít těsto do forem na cupkaky. Péct 15-20 minut v troubě předehřáté na 180°C.
 
 Máslo na krém nechat v pokojové teplotě několik hodin, dokud v něm nejde prstem snadno udělat důlek (zároveň z másla nesmí být břečka). Dát do mísy a šlehat, dokud nezbělá (několik minut). Poté po částech přidat přesitý cukr a šleháním začlenit.
 
@@ -130,7 +131,7 @@ Na konci volitelně přidat kakao a opět rozšlehat. Pokud je náhodou směs mo
 
 ![Muffiny](images/muffiny.jpeg)
 
-## Kinder řez <span id="kinder-rez"></span>
+## Kinder řezy <span id="kinder-rezy"></span>
 
 Těsto
 
@@ -180,7 +181,7 @@ Od kraje si nechat odstup 1,5 cm a vydlabat prostředek, ale dno těsta musí z�
 
 ![Krtkův dort](images/krtkuv_dort.jpeg)
 
-## Medovník
+## Medovník <span id="medovnik"></span>
 
 Korpus
 
