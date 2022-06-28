@@ -288,7 +288,7 @@ Servírovat ideálně s karlovarským knedlíkem a vejcem natvrdo.
 
 Rýži nechat odmočit, pak slít a dát do hrnce rychle osmahnout na oleji. Pak zalít 1 a 1/2 hrnku vody, přidat bobkový list a nové koření a sůl a nechat vařit, dokud se voda nevsákne do rýže. Cibuli, papriku i rajčata nakrájet na nudličky. Na rozpálenou pánev dát nejdřív papriku, aby změkla, pak přidat cibuli, poté krevety a ve chvíli, kdy jsou krevety hotové přidat rajčata. Vzniklou směs promíchat s rýží.
 
-![Krevetové rizoto](images/dummy.jpg)
+![Krevetové rizoto](images/krevetove_rizoto.jpeg)
 
 ## Kuře na paprice <span id="kure-na-paprice"></span>
 
@@ -436,11 +436,11 @@ Omáčka na základ
 
 Smíchat přísady na těsto a vypracovat do podoby koule. Kouli potřít po celém povrchu olejem, zabalit do igelitového sáčku a dát na 15 minut o lednice. Omáčku pořádně promíchat z přísad. Nachystat si přísady na ozdobení - vhodné jsou olivy, šunka, slanina, niva, mozzarela, eidam, cibule, paprika. Rajčata nejsou zcela vhodná - je v nich hodně vody a tudíž rozmočí těsto a navíc zůstanou dlouho horká. Jejich chuť je už obsažena protlaku.
 
-Těsto rozdělit na třetiny - každá třetina se dá rozválet na kulatý plech o průměru 26cm. Rozválené těsto potřít omáčkou a pak zaskládat ozdobnými přísadami. Dát do trouby na 200°C na 15 minut.
+Těsto rozdělit na třetiny - každá třetina se dá rozválet na kulatý plech o průměru 26cm. Rozválené těsto potřít omáčkou a pak zaskládat ozdobnými přísadami. Dát do trouby na 200°C na 8 minut.
 
 > 7.5 sacharidových jednotek na pizzu.
 
-![Pizza](images/pizza.jpeg)
+![Pizza](images/pizza_bianca.jpeg)
 
 ## Pizza napoletana
 

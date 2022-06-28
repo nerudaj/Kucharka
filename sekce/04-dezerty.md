@@ -3,6 +3,7 @@
 ## Obsah
 
 * Dezerty
+	* [Banánový cupcake](#bananovy-cupcake)
 	* [Belgické vafle](#belgicke-vafle)
 	* [Brownies](#brownies)
 	* [Citronový cupcake]#(citron-cupcake)
@@ -17,6 +18,22 @@
 	* [Octové cukroví](#octove-cukrovi)
 
 ## Dezerty
+
+## Banánový cupcake <span id="bananovy-cupcake"></span>
+
+ * 175 g hladké mouky
+ * 100 g třtinového cukru
+ * 4 g kypřícího prášku
+ * 2 zralé banány
+ * 60 ml oleje
+ * 55 ml kefíru
+ * 1 lžička jablečného octa
+
+Mouku a kypřící prášek prosít a promíchat cukrem. Banány rozmixovat v blenderu, přidat tekuté přísady a poté nalít do sypkých přísad a vypracovat těsto.
+
+Těsto rozdělit do dvanácti košíčků na cupcaky, případně vmáčknout dovnitř pár zlomků čokolády. Péct v troubě předehřáté na 180°C zhruba 20 minut.
+
+![Brownies](images/bananovy_cupcake.jpeg)
 
 ## Belgické vafle <span id="belgicke-vafle"></span>
 
