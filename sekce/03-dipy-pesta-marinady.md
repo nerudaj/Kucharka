@@ -15,6 +15,7 @@
 	* Bylinková marináda na kuřecí prsa
 	* Kari marináda na kuře
 	* Kečupová marináda
+	* Kurkumová marináda
 	* Pivní marináda
  * [Pesta](#pesta)
 	* Bazalkové pesto
@@ -143,6 +144,16 @@ V troubě předehřáté na 180° 30-40 minut péct papriky, na druhou půlku pe
  * 8 lžíc rostlinného oleje
  * 1 lžíce sójové omáčky
  * 3 stroužky česneku (utřené s 1 lžící hořčice)
+ 
+### Kurkumová marináda
+
+ * 3 lžíce oleje
+ * 2 lžíce plnotučné horčice
+ * 1 lžíce nasekaných bylinek dle chuti
+ * 1 lžička kurkumy
+ * 1 lžička sušeného česneku (nebo 2 nastrouhané stroužky)
+ * špetka soli
+ * špetka pepře
 
 ### Pivní marináda <span id="pivni-marinada"></span>
 
