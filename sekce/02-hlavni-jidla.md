@@ -9,6 +9,7 @@
 * [Dýňové rizoto](#dynove-rizoto)
 * [Fazole s klobásou](#fazole-klobasa)
 * [Filé po italsku](#file-po-italsku)
+* [Gnocchi se smetanovo-houbovou omáčkou](#gnocchi-houby)
 * [Gyros s pitou](#gyros-s-pitou)
 * [Hovězí maso na víně s kořenovou zeleninou](#hovezi-na-vine)
 * [Cheeseburger](#cheeseburger)
@@ -149,6 +150,24 @@ Maso z jedné strany osolit a opepřit a druhou stranou (tou s kůží) dát na 
 > TIP: Jako příloha se hodí kuskus
 
 ![Filé po italsku s kuskusem](images/file_po_italsku.jpeg)
+
+## Gnocchi se smetanovo-houbovou omáčkou <span id="gnocchi-houby"></span>
+
+* 300 g vepřové panenky
+* 300 g gnocchi
+* 250 g smetany na vaření
+* 100 g nakrájených sušených rajčat
+* 400 g žampionů nakrájených na plátky
+* muškátový ořech, sůl a pepř dle chuti
+* parmazán na posypání
+
+Panenku (vcelku) nechat v pokojové teplotě odležet 20 minut před přípravou, potřít olejem, osolit a opepřit z vnějšku. Rozpálit pánev na vysokou teplotu a nechat cca dvě minuty opéct z každé strany, poté nechat dopéct ve středu dle chuti v troubě předehřáté na 180°C.
+
+Nakrájené žampiony podusit v rendlíku (podlít šťávou z panenky) a jakmile jsou dostatečně podušené, zalít smetanou a přidat rajčata. Jakmile je smetana prohřátá, přidat gnocchi a za pravidelného míchání nechat gnocchi uvařit.
+
+Panenku nechat 5-10 minut odležet po vytáhnutí z trouby, poté nakrájet na medailonky a servírovat spolu s gnocchi.
+
+![Fazole s klobásou](images/dummy.jpg)
 
 ## Gyros s pitou
 
