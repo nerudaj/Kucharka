@@ -52,6 +52,7 @@ Eidam nastrouhat, rajčata, mozzarelu a prsty nakrájet na kostičky.
 * [Dýňové rizoto](#dynove-rizoto)
 * [Fazole s klobásou](#fazole-klobasa)
 * [Filé po italsku](#file-po-italsku)
+* [Gnocchi se smetanovo-houbovou omáčkou](#gnocchi-houby)
 * [Gyros s pitou](#gyros-s-pitou)
 * [Hovězí maso na víně s kořenovou zeleninou](#hovezi-na-vine)
 * [Cheeseburger](#cheeseburger)
@@ -193,6 +194,24 @@ Maso z jedné strany osolit a opepřit a druhou stranou (tou s kůží) dát na 
 
 ![Filé po italsku s kuskusem](images/file_po_italsku.jpeg)
 
+## Gnocchi se smetanovo-houbovou omáčkou <span id="gnocchi-houby"></span>
+
+* 300 g vepřové panenky
+* 300 g gnocchi
+* 250 g smetany na vaření
+* 100 g nakrájených sušených rajčat
+* 400 g žampionů nakrájených na plátky
+* muškátový ořech, sůl a pepř dle chuti
+* parmazán na posypání
+
+Panenku (vcelku) nechat v pokojové teplotě odležet 20 minut před přípravou, potřít olejem, osolit a opepřit z vnějšku. Rozpálit pánev na vysokou teplotu a nechat cca dvě minuty opéct z každé strany, poté nechat dopéct ve středu dle chuti v troubě předehřáté na 180°C.
+
+Nakrájené žampiony podusit v rendlíku (podlít šťávou z panenky) a jakmile jsou dostatečně podušené, zalít smetanou a přidat rajčata. Jakmile je smetana prohřátá, přidat gnocchi a za pravidelného míchání nechat gnocchi uvařit.
+
+Panenku nechat 5-10 minut odležet po vytáhnutí z trouby, poté nakrájet na medailonky a servírovat spolu s gnocchi.
+
+![Fazole s klobásou](images/dummy.jpg)
+
 ## Gyros s pitou
 
 Pita (6 placek)
@@ -331,7 +350,7 @@ Servírovat ideálně s karlovarským knedlíkem a vejcem natvrdo.
 
 Rýži nechat odmočit, pak slít a dát do hrnce rychle osmahnout na oleji. Pak zalít 1 a 1/2 hrnku vody, přidat bobkový list a nové koření a sůl a nechat vařit, dokud se voda nevsákne do rýže. Cibuli, papriku i rajčata nakrájet na nudličky. Na rozpálenou pánev dát nejdřív papriku, aby změkla, pak přidat cibuli, poté krevety a ve chvíli, kdy jsou krevety hotové přidat rajčata. Vzniklou směs promíchat s rýží.
 
-![Krevetové rizoto](images/dummy.jpg)
+![Krevetové rizoto](images/krevetove_rizoto.jpeg)
 
 ## Kuře na paprice <span id="kure-na-paprice"></span>
 
@@ -479,11 +498,11 @@ Omáčka na základ
 
 Smíchat přísady na těsto a vypracovat do podoby koule. Kouli potřít po celém povrchu olejem, zabalit do igelitového sáčku a dát na 15 minut o lednice. Omáčku pořádně promíchat z přísad. Nachystat si přísady na ozdobení - vhodné jsou olivy, šunka, slanina, niva, mozzarela, eidam, cibule, paprika. Rajčata nejsou zcela vhodná - je v nich hodně vody a tudíž rozmočí těsto a navíc zůstanou dlouho horká. Jejich chuť je už obsažena protlaku.
 
-Těsto rozdělit na třetiny - každá třetina se dá rozválet na kulatý plech o průměru 26cm. Rozválené těsto potřít omáčkou a pak zaskládat ozdobnými přísadami. Dát do trouby na 200°C na 15 minut.
+Těsto rozdělit na třetiny - každá třetina se dá rozválet na kulatý plech o průměru 26cm. Rozválené těsto potřít omáčkou a pak zaskládat ozdobnými přísadami. Dát do trouby na 200°C na 8 minut.
 
 > 7.5 sacharidových jednotek na pizzu.
 
-![Pizza](images/pizza.jpeg)
+![Pizza](images/pizza_bianca.jpeg)
 
 ## Pizza napoletana
 
@@ -778,6 +797,7 @@ Péct cca 45 minut na 180°C. Pravidelně maso přelévat výpekem, aby vytvoři
 	* Bylinková marináda na kuřecí prsa
 	* Kari marináda na kuře
 	* Kečupová marináda
+	* Kurkumová marináda
 	* Pivní marináda
  * [Pesta](#pesta)
 	* Bazalkové pesto
@@ -906,6 +926,16 @@ V troubě předehřáté na 180° 30-40 minut péct papriky, na druhou půlku pe
  * 8 lžíc rostlinného oleje
  * 1 lžíce sójové omáčky
  * 3 stroužky česneku (utřené s 1 lžící hořčice)
+ 
+### Kurkumová marináda
+
+ * 3 lžíce oleje
+ * 2 lžíce plnotučné horčice
+ * 1 lžíce nasekaných bylinek dle chuti
+ * 1 lžička kurkumy
+ * 1 lžička sušeného česneku (nebo 2 nastrouhané stroužky)
+ * špetka soli
+ * špetka pepře
 
 ### Pivní marináda <span id="pivni-marinada"></span>
 
@@ -974,6 +1004,7 @@ V troubě předehřáté na 180° 30-40 minut péct papriky, na druhou půlku pe
 ## Obsah
 
 * Dezerty
+	* [Banánový cupcake](#bananovy-cupcake)
 	* [Belgické vafle](#belgicke-vafle)
 	* [Brownies](#brownies)
 	* [Citronový cupcake](#citron-cupcake)
@@ -988,6 +1019,33 @@ V troubě předehřáté na 180° 30-40 minut péct papriky, na druhou půlku pe
 	* [Octové cukroví](#octove-cukrovi)
 
 ## Dezerty
+
+## Banánový cupcake <span id="bananovy-cupcake"></span>
+
+Mascarpone krémem
+
+* 250 g mascarpone
+* 60 ml smetany na šlehání
+* 100 g cukru
+* 1 lžička vanilkového extraktu
+
+Těsto
+
+ * 175 g hladké mouky
+ * 100 g třtinového cukru
+ * 4 g kypřícího prášku
+ * 2 zralé banány
+ * 60 ml oleje
+ * 55 ml kefíru
+ * 1 lžička jablečného octa
+
+Mouku a kypřící prášek prosít a promíchat cukrem. Banány rozmixovat v blenderu, přidat tekuté přísady a poté nalít do sypkých přísad a vypracovat těsto.
+
+Těsto rozdělit do dvanácti košíčků na cupcaky, případně vmáčknout dovnitř pár zlomků čokolády. Péct v troubě předehřáté na 180°C zhruba 20 minut.
+
+Suroviny na krém stačí ještě za studena nasypat do jedné nádoby a jednoduše vyšlehat.
+
+![Brownies](images/bananovy_cupcake.jpeg)
 
 ## Belgické vafle <span id="belgicke-vafle"></span>
 
@@ -1025,8 +1083,8 @@ Pečící formu vyložit pečícím papírem, vlít těsto a dát péct aspoň n
 
 ## Citronový cupcake <span id="citron-cupcake"></span>
 
-
 Těsto (~12 ks)
+
 * 125 g hladké mouky
 * 125 g cukru moučka
 * 1 g jedlé sody

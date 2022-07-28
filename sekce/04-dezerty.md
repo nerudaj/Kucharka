@@ -21,6 +21,15 @@
 
 ## Banánový cupcake <span id="bananovy-cupcake"></span>
 
+Mascarpone krémem
+
+* 250 g mascarpone
+* 60 ml smetany na šlehání
+* 100 g cukru
+* 1 lžička vanilkového extraktu
+
+Těsto
+
  * 175 g hladké mouky
  * 100 g třtinového cukru
  * 4 g kypřícího prášku
@@ -32,6 +41,8 @@
 Mouku a kypřící prášek prosít a promíchat cukrem. Banány rozmixovat v blenderu, přidat tekuté přísady a poté nalít do sypkých přísad a vypracovat těsto.
 
 Těsto rozdělit do dvanácti košíčků na cupcaky, případně vmáčknout dovnitř pár zlomků čokolády. Péct v troubě předehřáté na 180°C zhruba 20 minut.
+
+Suroviny na krém stačí ještě za studena nasypat do jedné nádoby a jednoduše vyšlehat.
 
 ![Brownies](images/bananovy_cupcake.jpeg)
 
@@ -71,8 +82,8 @@ Pečící formu vyložit pečícím papírem, vlít těsto a dát péct aspoň n
 
 ## Citronový cupcake <span id="citron-cupcake"></span>
 
-
 Těsto (~12 ks)
+
 * 125 g hladké mouky
 * 125 g cukru moučka
 * 1 g jedlé sody
