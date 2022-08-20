@@ -65,6 +65,7 @@ Eidam nastrouhat, rajčata, mozzarelu a prsty nakrájet na kostičky.
 * [Kuřecí prsa plněná mozzarelou](#kure-s-mozzarelou)
 * [Kuřecí prsa plněná pestem](#kure-s-pestem)
 * [Kuskus s kuřecími nugetky](#kuskus-s-kurecimi-nugetky)
+* [Langoše](#langose)
 * [Lečo](#leco)
 * [Musaka (variace)](#musaka)
 * [Nepálivá Garam masala kuře](#nepalive-indicke-kure)
@@ -418,6 +419,29 @@ Olej a kuřecí kousky dát do kastrolu. Smažit na prudkém ohni několik minut
 Maso nakrájet na malé nugetky, okořenit oreganem, bazalkou, solí a pepřem a dát osmažit na pánev. Po dosmažení odložit bokem, olej nechat na pánvi. Papriku i cibuli nakrájet na malé kostičky. Papriku nasypat na pánev k oleji z masa a přidat 100ml vody. Dát vařit. Nakrájet rajčata na osminy a udělat kuskus. Až bude paprika měkká, přidat na minutu cibuli, pak rajčata a po další minutě odstavit z plamene. Přidat kuskus, maso a petržel a promíchat.
 
 ![Kuskus s kuřecími nugetky](images/kuskus_s_kurecimi_nugetky.jpeg)
+
+## Langoše <span id="langose"></span>
+
+Kvásek
+
+* 10 g kvasnic
+* 80 g mléka
+* špetka cukru
+* 10% mouky z objemu na těsto
+
+Těsto
+
+* probuzený kvásek
+* 200 g hladké mouky
+* 1 vejce
+* lžíce oleje
+* špetka soli
+
+Jakmile je kvásek připravený, smíchat s přísadami na těsto a vypracovat lehce lepivé, hladké těsto. Nechat 15 minut kynout, pak rozdělit a vytvarovat čtyři placky. Nechat dalších 15 minut kynout a pak buď osmažit nebo dát do trouby na 200° na cca 5 minut.
+
+Podávat s nastrouhaným sýrem, kečupem a česnekovým olejem.
+
+![Lečo](images/dummy.jpg)
 
 ## Lečo <span id="leco"></span>
 
