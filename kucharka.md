@@ -1439,7 +1439,7 @@ Poté dát péct na 170°C, 30 minut, horkovzduch.
 * 150 g žitné mouky
 * 150 g hladké pšeničné mouky
 * 100 g špaldové mouky
-* 3 lžičky soli
+* 15 g soli
 * semínka (slunečnice, mák, ...)
 * 320 ml vlažné (převařené vody)
 
