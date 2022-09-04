@@ -35,6 +35,7 @@
 * [Sekaná s olivami](#sekana-s-olivami)
 * [Slaný řecký koláč](#slany-recky-kolac)
 * [Slaný závin](#slany-zavin)
+* [Smažená rýže s vejcem](#smazena-ryze-s-vejcem)
 * [Sýrová omáčka](#syrova-omacka)
 * [Špagety Carbonara](#spagety-carbonara)
 * [Špenátový krém s noky](#spenatovy-krem-s-noky)
@@ -647,6 +648,21 @@ Papriku a cibuli nakrájet na kostičky a dát orestovat na pánev, přidat osol
 Vypracovat ze surovin těsto, rozdělit na dvě půlky a z každé vyválet plát na nohavici. Plát posypat nastrouhaným sýrem, následně dát vrstvu zelí a poté vrstvu směsi z pánve. Zabalit do nohavice. Nakonec nohavice potřít rozmíchaným vejcem, posypat solí a kmínem a dát péct 20 minut z horní strany a případně dopéct 10 minut ze spodní strany na 200°C.
 
 ![Slaný závin](images/slany_zavin.jpeg)
+
+## Smažená rýže s vejcem <span id="smazena-ryze-s-vejcem"></span>
+
+* 2 vejce
+* 3 jarní cibulky
+* půlka šalotky
+* 100 g rýže basmati (nebo jasmínové), uvařené předchozí den
+* lžíce sojové omáčky
+* 4 stroužky česneku
+
+Rýži připravovat den dopředu. Pořádně ji propláchnout a zbavit škrobu. Zalít 1.5x násobkem vody, osolit, přiklopit poklicí a co nejrychleji přivést k varu. Poté sundat poklici a nechat 10 minut vařit. Poté sundat z plamene a pod poklicí nechat odležet do dalšího dne.
+
+Česnek nasekat nahrubo, šalotku nakrájet najemno. Rozpálit olej ve woku, dát rychle osmažit cibuli s česnekem. Dvě vejce rozkvedlat a za stálého míchání osmažit do podoby míchaných vajec. Poté přidat rýži, sójovou omáčku a za stálého míchání (nebo nadhazování woku) vše nechat spojit.
+
+![Segedín](images/dummy.jpg)
 
 ## Sýrová omáčka <span id="syrova-omacka"></span>
 
