@@ -694,16 +694,18 @@ Vypracovat ze surovin těsto, rozdělit na dvě půlky a z každé vyválet plá
 
 ## Smažená rýže s vejcem <span id="smazena-ryze-s-vejcem"></span>
 
-* 2 vejce
-* 3 jarní cibulky
-* půlka šalotky
 * 100 g rýže basmati (nebo jasmínové), uvařené předchozí den
-* lžíce sojové omáčky
 * 4 stroužky česneku
+* půlka šalotky
+* 2 vejce
+* lžíce sojové omáčky
+* 3 jarní cibulky
 
 Rýži připravovat den dopředu. Pořádně ji propláchnout a zbavit škrobu. Zalít 1.5x násobkem vody, osolit, přiklopit poklicí a co nejrychleji přivést k varu. Poté sundat poklici a nechat 10 minut vařit. Poté sundat z plamene a pod poklicí nechat odležet do dalšího dne.
 
 Česnek nasekat nahrubo, šalotku nakrájet najemno. Rozpálit olej ve woku, dát rychle osmažit cibuli s česnekem. Dvě vejce rozkvedlat a za stálého míchání osmažit do podoby míchaných vajec. Poté přidat rýži, sójovou omáčku a za stálého míchání (nebo nadhazování woku) vše nechat spojit.
+
+Na poslední minutu přidat nasekanou jarní cibulku.
 
 ![Segedín](images/dummy.jpg)
 
