@@ -24,6 +24,7 @@
 * [Kuskus s kuřecími nugetky](#kuskus-s-kurecimi-nugetky)
 * [Langoše](#langose)
 * [Lečo](#leco)
+* [Marinované krůtí kousky s pórkem a rýží](#marinovane-kruti-kousky-s-porkem-a-ryzi)
 * [Musaka (variace)](#musaka)
 * [Nepálivá Garam masala kuře](#nepalive-indicke-kure)
 * [Pizza Bianca](#pizza-bianca)
@@ -416,6 +417,26 @@ Cibulku nakrájenou na kostičky a párky nakrájet na kolečka zlehka osmažit 
 Přidat papriku nakrájenou na drobné kostičky a nechat pět minut smažit. Přidat rajče nakrájené na drobno, dochutit solí a pepřem a nechat pod pokličkou dusit asi deset minut.
 
 Na závěr přidat dvě vejce, dobře rozmíchat a počkat dokud bílek nezbělá.
+
+![Lečo](images/dummy.jpg)
+
+## Marinované krůtí kousky s pórkem a rýží <span id="marinovane-kruti-kousky-s-porkem-a-ryzi"></span>
+
+* 300 g krůtí prsa na kostičky
+* 1 lžička dijonské hořčice
+* 2 lžičky kečupu
+* 1/2 lžičky mleté papriky
+* 1/2 lžičky drcený kmín
+* 1 lžíce sójové omáčky
+* 1 bílek
+* sůl
+* pórek
+
+Krůtí prsa promíchat se vším kromě pórku a nechat marinovat do dalšího dne.
+
+Rýži propláchnout, dokud voda není čistá. Rychle ji osmahnout na oleji, pak zalít 1.5 násobkem vody. Přivést k varu, poté zaklopit poklicí. 15 minut vařit, nepromíchávat, nechat zaklopené. Po čtvrt hodině sundat z plamene, promíchat a pod poklicí nechat deset minut odpočinout.
+
+Zelenou část pórku nakráket na čtvercové plátky. Maso orestovat na rozpálené pánvi a na poslední tři minuty přidat pórek.
 
 ![Lečo](images/dummy.jpg)
 
