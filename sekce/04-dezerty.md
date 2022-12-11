@@ -13,6 +13,7 @@
 	* [Medovník](#medovnik)
 	* [Mramorové řezy](#mramorove-rezy)
 	* [Ovocný koláč](#ovocny-kolac)
+	* [Tvarohové knedlíky](#tvarohove-knedliky)
 * Cukroví
 	* [Kakaovokávové koule](#kakaovokavove-koule)
 	* [Octové cukroví](#octove-cukrovi)
@@ -271,6 +272,20 @@ Ozdobení
 Rozmixovat olej, vejce a cukr. Přilít mléko a za stálého mixování přisypávat mouku smíšenou s kypřícím práškem. Nalít do vysypané koláčové formy a péct na 200°C 40 minut. Hotový korpus vydlabat jako na krtkův dort. Vydlabaný prostor natřít vrstvou marmelády a naskládat tam kousky ovoce. Udělat želatinu a zalít ovoce želatinou a nechat vytuhnout v lednici.
 
 ![Ovocný koláč](images/ovocny_kolac.jpeg)
+
+## Tvarohové knedlíky <span id="#tvarohove-knedliky"></span>
+
+* 250g tvarohu (měkký, vanička)
+* 240g hrubé mouky
+* 1 vejce
+* 2 lžíce oleje
+* špetka soli
+
+Vypracovat těsto, nakrájet na cca 16 kousků, každý vytvarovat do placičky, naplnit ovocem a zabalit do knedlíku.
+
+Knedlíky dát do vroucí vody a po vyplavání na hladinu vařit dalších 3-5 minut.
+
+![Tvarohové knedlíky](images/dummy.jpeg)
 
 ## Cukroví
 
