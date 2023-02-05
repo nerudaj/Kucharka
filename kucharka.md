@@ -67,6 +67,7 @@ Eidam nastrouhat, rajčata, mozzarelu a prsty nakrájet na kostičky.
 * [Kuskus s kuřecími nugetky](#kuskus-s-kurecimi-nugetky)
 * [Langoše](#langose)
 * [Lečo](#leco)
+* [Marinované krůtí kousky s pórkem a rýží](#marinovane-kruti-kousky-s-porkem-a-ryzi)
 * [Musaka (variace)](#musaka)
 * [Nepálivá Garam masala kuře](#nepalive-indicke-kure)
 * [Pizza Bianca](#pizza-bianca)
@@ -459,6 +460,26 @@ Cibulku nakrájenou na kostičky a párky nakrájet na kolečka zlehka osmažit 
 Přidat papriku nakrájenou na drobné kostičky a nechat pět minut smažit. Přidat rajče nakrájené na drobno, dochutit solí a pepřem a nechat pod pokličkou dusit asi deset minut.
 
 Na závěr přidat dvě vejce, dobře rozmíchat a počkat dokud bílek nezbělá.
+
+![Lečo](images/dummy.jpg)
+
+## Marinované krůtí kousky s pórkem a rýží <span id="marinovane-kruti-kousky-s-porkem-a-ryzi"></span>
+
+* 300 g krůtí prsa na kostičky
+* 1 lžička dijonské hořčice
+* 2 lžičky kečupu
+* 1/2 lžičky mleté papriky
+* 1/2 lžičky drcený kmín
+* 1 lžíce sójové omáčky
+* 1 bílek
+* sůl
+* pórek
+
+Krůtí prsa promíchat se vším kromě pórku a nechat marinovat do dalšího dne.
+
+Rýži propláchnout, dokud voda není čistá. Rychle ji osmahnout na oleji, pak zalít 1.5 násobkem vody. Přivést k varu, poté zaklopit poklicí. 15 minut vařit, nepromíchávat, nechat zaklopené. Po čtvrt hodině sundat z plamene, promíchat a pod poklicí nechat deset minut odpočinout.
+
+Zelenou část pórku nakráket na čtvercové plátky. Maso orestovat na rozpálené pánvi a na poslední tři minuty přidat pórek.
 
 ![Lečo](images/dummy.jpg)
 
@@ -1050,12 +1071,14 @@ V troubě předehřáté na 180° 30-40 minut péct papriky, na druhou půlku pe
 	* [Belgické vafle](#belgicke-vafle)
 	* [Brownies](#brownies)
 	* [Citronový cupcake](#citron-cupcake)
+	* [Čokoládové lanýže](#coko-lanyze)
 	* [Čokoládový cupcake](#coko-cupcake)
 	* [Kinder řezy](#kinder-rezy)
 	* [Krtkův dort](#krtkuv-dort)
 	* [Medovník](#medovnik)
 	* [Mramorové řezy](#mramorove-rezy)
 	* [Ovocný koláč](#ovocny-kolac)
+	* [Tvarohové knedlíky](#tvarohove-knedliky)
 * Cukroví
 	* [Kakaovokávové koule](#kakaovokavove-koule)
 	* [Octové cukroví](#octove-cukrovi)
@@ -1150,6 +1173,20 @@ Znovu promixovat (znovu asi minutu) a rozdělit do košíčku na cupcaky. Pak d�
 Ovoce na krém dát na nízký plamen do rendlíku spolu se lžící vody, chvilku nechat povařit, pak rozmixovat tyčovým mixérem a nechat většinu vody odpařit. Zbylý džem nechat vychladnout v lednici a pak přidat spolu s cukrem do krému (postup na krém viz recept na čokoládový cupcake).
 
 ![Muffiny](images/cupcakes.jpg)
+
+## Čokoládové lanýže <span id="coko-lanyze"></span>
+
+ * 3 tabulky čokolády na vaření
+ * 300 ml smetany na šlehání
+ * špetka soli
+ * panák whisky
+ * trocha másla
+
+Čokoládu nalámat do misky, přidat trochu másla, špetku soli a panáka whisky. Smetanu pořádně prohřát - měla by být horká, mělo by se z ní kouřit, ale neměla by začít vařit.
+
+Horkou smetanu nalít do misky a okamžitě začít míchat, dokud se všechna čokoláda nerozpustí. Výslednou směs nechat vychladit přes noc v lednici.
+
+![Muffiny](images/dummy.jpeg)
 
 ## Čokoládový cupcake <span id="coko-cupcake"></span>
 
@@ -1314,6 +1351,20 @@ Ozdobení
 Rozmixovat olej, vejce a cukr. Přilít mléko a za stálého mixování přisypávat mouku smíšenou s kypřícím práškem. Nalít do vysypané koláčové formy a péct na 200°C 40 minut. Hotový korpus vydlabat jako na krtkův dort. Vydlabaný prostor natřít vrstvou marmelády a naskládat tam kousky ovoce. Udělat želatinu a zalít ovoce želatinou a nechat vytuhnout v lednici.
 
 ![Ovocný koláč](images/ovocny_kolac.jpeg)
+
+## Tvarohové knedlíky <span id="#tvarohove-knedliky"></span>
+
+* 250g tvarohu (měkký, vanička)
+* 240g hrubé mouky
+* 1 vejce
+* 2 lžíce oleje
+* špetka soli
+
+Vypracovat těsto, nakrájet na cca 16 kousků, každý vytvarovat do placičky, naplnit ovocem a zabalit do knedlíku.
+
+Knedlíky dát do vroucí vody a po vyplavání na hladinu vařit dalších 3-5 minut.
+
+![Tvarohové knedlíky](images/dummy.jpeg)
 
 ## Cukroví
 
