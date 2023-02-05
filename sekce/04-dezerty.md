@@ -7,6 +7,7 @@
 	* [Belgické vafle](#belgicke-vafle)
 	* [Brownies](#brownies)
 	* [Citronový cupcake](#citron-cupcake)
+	* [Čokoládové lanýže](#coko-lanyze)
 	* [Čokoládový cupcake](#coko-cupcake)
 	* [Kinder řezy](#kinder-rezy)
 	* [Krtkův dort](#krtkuv-dort)
@@ -108,6 +109,20 @@ Znovu promixovat (znovu asi minutu) a rozdělit do košíčku na cupcaky. Pak d�
 Ovoce na krém dát na nízký plamen do rendlíku spolu se lžící vody, chvilku nechat povařit, pak rozmixovat tyčovým mixérem a nechat většinu vody odpařit. Zbylý džem nechat vychladnout v lednici a pak přidat spolu s cukrem do krému (postup na krém viz recept na čokoládový cupcake).
 
 ![Muffiny](images/cupcakes.jpg)
+
+## Čokoládové lanýže <span id="coko-lanyze"></span>
+
+ * 3 tabulky čokolády na vaření
+ * 300 ml smetany na šlehání
+ * špetka soli
+ * panák whisky
+ * trocha másla
+
+Čokoládu nalámat do misky, přidat trochu másla, špetku soli a panáka whisky. Smetanu pořádně prohřát - měla by být horká, mělo by se z ní kouřit, ale neměla by začít vařit.
+
+Horkou smetanu nalít do misky a okamžitě začít míchat, dokud se všechna čokoláda nerozpustí. Výslednou směs nechat vychladit přes noc v lednici.
+
+![Muffiny](images/dummy.jpeg)
 
 ## Čokoládový cupcake <span id="coko-cupcake"></span>
 
