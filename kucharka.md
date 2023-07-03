@@ -1417,19 +1417,15 @@ Těsto vyválet na výšku cca 2mm, vykrájet tvary a dát na pečící papír n
 
 ## Briošky <span id="briosky"></span>
 
-* 170 g hladké mouky
-* 135 g hrubé mouky
-* 60 g másla
-* 1 vejce do těsta, jedno na potření
-* 1 sáček sušeného droždí
-* 1.5 dcl mléka
-* dvě vrchovaté čajové lžičky soli
+ * 250 g hladké mouky
+ * 125 g vlažně teplého mléka
+ * 30 g rozpuštěného másla
+ * 1 vejce
+ * 20 g cukru
+ * 5 g soli
+ * 5 g droždí
 
-Máslo vytáhnout z lednice, aby povolilo. Do zteplaného mléka nasypat sáček droždí, přidat pár lžic hladké mouky a promíchat. Nádobu neprodyšně zavřít a nechat 15-30 minut, než se droždí nastartuje. Pak přidat vejce a za průběžného mixování přidávat mouku. Jakmile je všechna mouka zapracovaná do těsta, přidat máslo a mixovat, dokud se nezapracuje i máslo.
-
-Těsto překlopit do vymazané nádoby a zakryté nechat kynout dvě hodiny. Poté vyklopit těsto na pomoučený vál, rozdělit na čtyři stejně velké části a vypracovat z nich bochánky. Ty dát na plech na pečící papír a nechat dalších 45 minut kynout. Pak potřít směsí vejce a trochy mléky, posypat sezamovými semínky a dát do trouby na 180°C na 20 minut na ohřev z obou stran.
-
-Po vyjmutí z trouby zakrýt utěrkou a nechat vychladnout.
+Sůl a cukr rozmíchat ve směsi mléka, másla a vejce. Poté přidat do mouky a v robotu nechat zpracovávat půl hodiny. Poté vyjmout z robota, vytvarovat bochník a nechat v míse pod poklicí kynout, dokud nezdvojnásobí objem. Pak vyjmout z mísy, rozdělit na čtyři stejně velké kusy, vytvarovat bochánky a dát na pečící papír do trouby kynout. Až zdvojnásobí objem, potřít na povrchu mlékem. Dát péct do předehřáté trouby na 180°C na 15 minut.
 
 ![Briošky](images/briosky.jpeg)
 
