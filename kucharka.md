@@ -868,6 +868,8 @@ Péct cca 45 minut na 180°C. Pravidelně maso přelévat výpekem, aby vytvoři
 	* Pesto Rosso
 	* Pesto z medvědího česneku
 	* Rukolové pesto
+ * [Kořenící směsi](#koreni)
+	* Fajitas
 
 ## Rychlé dipy <span id="rychlovky"></span>
 
@@ -1062,6 +1064,19 @@ V troubě předehřáté na 180° 30-40 minut péct papriky, na druhou půlku pe
 * sůl
 
 ![Pivo](images/dummy.jpg)
+
+## Kořenící směsi <span id="koreni"></span>
+
+### Fajitas
+
+* 3 lžičky papriky
+* 1 lžička kurkumy
+* 1 lžičky česneku
+* 0.5 lžičky třtinového cukru
+* 0.5 lžičky oregana
+* 0.5 lžičky drceného kmínu
+* 0.25 lžičky mletého pepře
+* špetka rozmarýnu
 # Dezerty <span id="sekce-dezerty"></span>
 
 ## Obsah
