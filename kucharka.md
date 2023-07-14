@@ -849,6 +849,7 @@ Péct cca 45 minut na 180°C. Pravidelně maso přelévat výpekem, aby vytvoři
 
  * [Rychlé dipy](#rychlovky)
 	* Česnekový dip
+	* Česneková tatarka
 	* Kari dip
 	* Provensálský dip
 	* Smashed burger dip
@@ -879,6 +880,13 @@ Péct cca 45 minut na 180°C. Pravidelně maso přelévat výpekem, aby vytvoři
 * 2 nastrouhané stroužky česneku
 * lžíce nasekané petržele
 * sůl, pepř
+
+### Česneková tatarka
+
+* Lžíce majonézy
+* 1 nastrouhaná kyselá okurka
+* 1 nastrouhaný stroužek česneku
+* 1 najemno nasekaná snítka kopru
 
 ### Kari dip
 
