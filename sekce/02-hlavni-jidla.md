@@ -137,7 +137,7 @@ Jakmile je cibule hotová, přidat rýži, zalít polévkou a důkladně promíc
 
 Cibuli, česnek a klobásu nakrájet na kostičky a dát osmahnout. Přilít protlak, trochu vína a koření. Po další chvíli přidat fazole a ještě chvilku nechat na mírném plameni probublat.
 
-![Fazole s klobásou](images/dummy.jpg)
+![Fazole s klobásou](images/fazole_klobasa.jpeg)
 
 ## Filé po italsku <span id="file-po-italsku"></span>
 
@@ -400,7 +400,7 @@ Jakmile je kvásek připravený, smíchat s přísadami na těsto a vypracovat l
 
 Podávat s nastrouhaným sýrem, kečupem a česnekovým olejem.
 
-![Lečo](images/dummy.jpg)
+![Lečo](images/langos.jpeg)
 
 ## Lečo <span id="leco"></span>
 
@@ -524,7 +524,7 @@ Pak zakrýt vlhkou utěrkou a nechat ležet dvě hodiny. Po dvou hodinách rozd�
 
 Péct ideálně na 430°C 90 vteřin i s topingem nebo předpéct pouze se sugem 5 min při 230°C a pak další 3 minuty se sýrem, šunkou a ostatními přísadami.
 
-![Pizza napoletana](images/dummy.jpg)
+![Pizza napoletana](images/pizza_napoletana.jpeg)
 
 ## Quesadilla
 
