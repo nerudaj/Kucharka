@@ -180,7 +180,7 @@ Jakmile je cibule hotová, přidat rýži, zalít polévkou a důkladně promíc
 
 Cibuli, česnek a klobásu nakrájet na kostičky a dát osmahnout. Přilít protlak, trochu vína a koření. Po další chvíli přidat fazole a ještě chvilku nechat na mírném plameni probublat.
 
-![Fazole s klobásou](images/dummy.jpg)
+![Fazole s klobásou](images/fazole_klobasa.jpeg)
 
 ## Filé po italsku <span id="file-po-italsku"></span>
 
@@ -443,7 +443,7 @@ Jakmile je kvásek připravený, smíchat s přísadami na těsto a vypracovat l
 
 Podávat s nastrouhaným sýrem, kečupem a česnekovým olejem.
 
-![Lečo](images/dummy.jpg)
+![Lečo](images/langos.jpeg)
 
 ## Lečo <span id="leco"></span>
 
@@ -567,7 +567,7 @@ Pak zakrýt vlhkou utěrkou a nechat ležet dvě hodiny. Po dvou hodinách rozd�
 
 Péct ideálně na 430°C 90 vteřin i s topingem nebo předpéct pouze se sugem 5 min při 230°C a pak další 3 minuty se sýrem, šunkou a ostatními přísadami.
 
-![Pizza napoletana](images/dummy.jpg)
+![Pizza napoletana](images/pizza_napoletana.jpeg)
 
 ## Quesadilla
 
@@ -1492,10 +1492,10 @@ Péct v předehřáté troubě na 230° na horní i dolní 15 minut, po tuto dob
 * 350 g hladké mouky
 * 1/2 sáčku sušeného droždí
 * 250 ml mléka
-* lžička soli
+* 10 g soli
 * 50 g másla
 
-Smíchat mléko se 100 gramy mouky, přisypat droždí a nechat probudit. Přidat sůl, zbytek mouky a ostáte máslo a vypracovat těsto. Těsto nechat 2-3 hodiny kynout, periodicky překládat. Pak z těsta vypracovat špalek a položit do formy, nechat kynout, dokud nedosáhne uspokojivé velikosti. Péct v předehřáté troubě na 190°C, 10 minut zeshora i zespoda a 20 minut pouze zespoda.
+Smíchat vlažné mléko se 100 gramy mouky, přisypat droždí a nechat probudit. Přidat sůl, zbytek mouky a ostáte máslo a vypracovat těsto. Těsto nechat 2-3 hodiny kynout, periodicky překládat. Pak z těsta vypracovat špalek a položit do formy, nechat kynout, dokud nedosáhne uspokojivé velikosti. Péct v předehřáté troubě na 190°C, 10 minut zeshora i zespoda a 20 minut pouze zespoda.
 
 ![Toustovy chleba](images/toustovy_chleba.jpg)
 
@@ -1509,12 +1509,13 @@ Smíchat mléko se 100 gramy mouky, přisypat droždí a nechat probudit. Přida
 * 100 g hrubé mouky
 * 150 ml mléka
 * 60 g másla
+* 10 g soli
 
-Mléko nechat změknout v pokojové teplotě a mixérem vypracovat ze všech surovin těsto. Těsto dát do mísy vymazané olejem a nechat kynout asi šest hodin. Každé dvě hodiny přeložit (pokud by těsto kynulo rychleji, překládat pokaždé, když zdvojnásobí svůj objem). Při třetím přeložení přesunout těsto do pečící formy a nechat kynout, dokud nezdvojnásobí svůj objem.
+Máslo nechat přes noc změknout v pokojové teplotě a mixérem vypracovat ze všech surovin těsto. Těsto dát do mísy vymazané olejem a nechat kynout asi šest hodin. Každé dvě hodiny přeložit (pokud by těsto kynulo rychleji, překládat pokaždé, když zdvojnásobí svůj objem). Při třetím přeložení přesunout těsto do pečící formy a nechat kynout, dokud nezdvojnásobí svůj objem.
 
 Poté dát péct na 170°C, 30 minut, horkovzduch.
 
-> Pokud se na rozkvas použije žitný kvásek, může kynutí trvat opravdu dlouho, nejlepší je rozkvas nechat udělat přes noc a těsto vypracovat už ráno.
+> Pokud se na rozkvas použije žitný kvásek, může kynutí trvat opravdu dlouho, nejlepší je rozkvas nechat udělat přes noc a těsto vypracovat už ráno. I do žitného rozkvasu dávat pšeničnou mouku! Žitná mouka je velice kyselá (nakyslé to bude už jen z lžíce kvásku).
 
 ![Toustový chleba z kvásku](images/toustovy_chleba_kvasek.jpg)
 
