@@ -871,6 +871,7 @@ Péct cca 45 minut na 180°C. Pravidelně maso přelévat výpekem, aby vytvoři
 	* Rukolové pesto
  * [Kořenící směsi](#koreni)
 	* Fajitas
+	* Gyros
 
 ## Rychlé dipy <span id="rychlovky"></span>
 
@@ -1085,6 +1086,18 @@ V troubě předehřáté na 180° 30-40 minut péct papriky, na druhou půlku pe
 * 0.5 lžičky drceného kmínu
 * 0.25 lžičky mletého pepře
 * špetka rozmarýnu
+
+### Gyros
+
+* 1 díl tymiánu
+* 1 díl oregana
+* 1 díl papriky
+* 1 díl majoránky
+* 1 díl česneku
+* 1 díl cibule
+* 1 díl bazalky
+* špetka římského kmínu
+* špetka hnědého cukru
 # Dezerty <span id="sekce-dezerty"></span>
 
 ## Obsah
