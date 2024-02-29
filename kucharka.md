@@ -851,9 +851,11 @@ Péct cca 45 minut na 180°C. Pravidelně maso přelévat výpekem, aby vytvoři
 	* Česnekový dip
 	* Česneková tatarka
 	* Kari dip
+	* Majonéza
 	* Provensálský dip
 	* Smashed burger dip
 	* Tatarka
+ * [BBQ omáčka](#bbq)
  * [Dip s karamelizovanou cibulkou](#dip-s-karamel-cibulkou)
  * [Rajčatová salsa](#rajcatova-salsa)
  * [Sriracha omáčka](#sriracha)
@@ -897,6 +899,17 @@ Péct cca 45 minut na 180°C. Pravidelně maso přelévat výpekem, aby vytvoři
 * sůl
 * cukr
 
+### Majonéza
+
+* 1 vejce pokojové teploty
+* 1 žloutek pokojové teploty
+* 1 lžička plnotučné hořčice
+* 1 lžička octa
+* 150 ml oleje
+* špetka soli, pepře
+
+Mixovat tyčovým mixérem 30 vteřin.
+
 ### Provensálský dip
 
 * 2 lžíce bílého jogurtu
@@ -921,6 +934,20 @@ Péct cca 45 minut na 180°C. Pravidelně maso přelévat výpekem, aby vytvoři
 * nastrouhaná cibule, stejné množství jako okurky
 
 ![Pivo](images/dummy.jpg)
+
+## BBQ omáčka <span id="bbq"></span>
+
+* 1/2 hrnku kečupu / protlaku
+* 1 lžíce medu
+* 1 lžíce třtinového cukru
+* 1 lžíce worcestru
+* 1 lžička sójové omáčky
+* 1 lžička vinného octa
+* 1/4 lžičky mletého pepře
+* 1/4 lžičky soli
+* 1 stroužek prolisovaného česneku
+* půlka najemno nakrájené cibule
+* 1 malá chilli paprička
 
 ## 	Dip s karamelizovanou cibulkou <span id="dip-s-karamel-cibulkou"></span>
 
