@@ -163,10 +163,10 @@ Na konci volitelně přidat kakao a opět rozšlehat. Pokud je náhodou směs mo
 Těsto
 
 * 6 vajec
-* 8 lžic cukru krystal
-* 4 lžíce kakaa
+* 6 lžic cukru krystal
+* 3 lžíce kakaa
 * 2 lžíce oleje
-* 10 lžic polohrubé mouky
+* 6 lžic polohrubé mouky
 * 1 lžička prášku do pečiva
 
 Náplň
