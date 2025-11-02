@@ -27,7 +27,9 @@
 	* Pesto z medvědího česneku
 	* Rukolové pesto
  * [Kořenící směsi](#koreni)
+	* Čína
 	* Fajitas
+	* Grilovací sýr
 	* Gyros
 
 ## Rychlé dipy <span id="rychlovky"></span>
@@ -258,6 +260,16 @@ V troubě předehřáté na 180° 30-40 minut péct papriky, na druhou půlku pe
 
 ## Kořenící směsi <span id="koreni"></span>
 
+### Čína
+* 1 díl římského kmínu
+* 1 díl citronové kůry
+* 2 díly kardamonu
+* 4 díly kurkumy
+* 4 díly třinového cukru
+* 6 dílů sušeného česneku
+* 6 dílů zázvoru
+* špetka muškátového ořechu, pepř
+
 ### Fajitas
 
 * 3 lžičky papriky
@@ -268,6 +280,18 @@ V troubě předehřáté na 180° 30-40 minut péct papriky, na druhou půlku pe
 * 0.5 lžičky drceného kmínu
 * 0.25 lžičky mletého pepře
 * špetka rozmarýnu
+
+### Grilovací sýr
+
+* 4 díly sladké papriky
+* 3 díly sušeného česneku
+* 3 díly sušené cibule
+* 2 díly oregana
+* 2 díly bazalky
+* 2 díly tymiánu
+* 1 díl pepře
+* 1 díl rozmarýnu
+* špetka chilli
 
 ### Gyros
 
